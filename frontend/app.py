@@ -107,7 +107,8 @@ import plotly.express as px
 
 st.set_page_config(page_title="TechNova AI Assistant", page_icon="🤖", layout="wide")
 
-API_BASE = "http://127.0.0.1:8000/api"
+import os
+API_BASE = os.getenv("API_BASE", "http://127.0.0.1:8000/api")
 
 
 # --- CUSTOM UI & ANIMATIONS ---
