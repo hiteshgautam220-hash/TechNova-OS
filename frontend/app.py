@@ -113,6 +113,14 @@ try:
 except:
     API_BASE = os.getenv("API_BASE", "http://127.0.0.1:8000/api")
 
+# Auto-correct if the user forgot to add /api to the end of the URL in their Streamlit Secrets
+if not API_BASE.endswith("/api"):
+    if API_BASE.endswith("/"):
+        API_BASE = API_BASE + "api"
+    else:
+        API_BASE = API_BASE + "/api"
+
+
 
 # --- CUSTOM UI & ANIMATIONS ---
 st.markdown('''
