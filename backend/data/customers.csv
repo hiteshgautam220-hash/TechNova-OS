@@ -1,0 +1,161 @@
+customer_id,name,email,phone,city,customer_type,total_orders,total_spent,last_order_date,is_inactive
+CUST-1001,Amelia Smith,amelia.smith41@example.com,+1 (555) 428-3286,"Denver, CO",Gold,9,3974.0,2026-09-16,0
+CUST-1002,James Perez,james.perez21@example.com,+1 (555) 804-7912,"San Diego, CA",Gold,10,3051.0,2026-09-03,0
+CUST-1003,Noah Smith,noah.smith37@example.com,+1 (555) 438-9279,"Austin, TX",Platinum,15,14954.0,2026-09-13,0
+CUST-1004,Olivia Moore,olivia.moore93@example.com,+1 (555) 918-9928,"Boston, MA",Silver,6,1273.0,2026-09-11,0
+CUST-1005,Samuel Davis,samuel.davis85@example.com,+1 (555) 484-1106,"Atlanta, GA",Platinum,11,5158.0,2026-08-21,0
+CUST-1006,William Thompson,william.thompson53@example.com,+1 (555) 484-3547,"New York, NY",Platinum,8,10278.0,2026-09-07,0
+CUST-1007,Ava Harris,ava.harris23@example.com,+1 (555) 294-7224,"Chicago, IL",Platinum,16,10337.0,2026-09-01,0
+CUST-1008,James Lopez,james.lopez87@example.com,+1 (555) 470-1711,"Chicago, IL",Platinum,8,6621.0,2026-08-29,0
+CUST-1009,Eleanor Moore,eleanor.moore58@example.com,+1 (555) 280-5803,"Austin, TX",Platinum,13,6506.0,2026-09-12,0
+CUST-1010,Camila Jackson,camila.jackson18@example.com,+1 (555) 246-4733,"Boston, MA",Platinum,13,7689.0,2026-09-12,0
+CUST-1011,Theodore Williams,theodore.williams22@example.com,+1 (555) 589-5554,"Boston, MA",Platinum,14,7162.0,2026-09-13,0
+CUST-1012,Eleanor Lee,eleanor.lee30@example.com,+1 (555) 579-6820,"Chicago, IL",Platinum,14,9405.0,2026-09-04,0
+CUST-1013,Ava Perez,ava.perez99@example.com,+1 (555) 899-2169,"Denver, CO",Platinum,11,9227.0,2026-09-11,0
+CUST-1014,William Moore,william.moore30@example.com,+1 (555) 673-7216,"Boston, MA",Platinum,14,10166.0,2026-09-18,0
+CUST-1015,Evelyn Lee,evelyn.lee38@example.com,+1 (555) 901-6313,"San Diego, CA",Platinum,22,12043.0,2026-09-17,0
+CUST-1016,Emma Davis,emma.davis50@example.com,+1 (555) 610-5386,"Seattle, WA",Platinum,14,11847.0,2026-09-13,0
+CUST-1017,Oliver Miller,oliver.miller50@example.com,+1 (555) 417-9179,"Dallas, TX",Platinum,14,6763.0,2026-09-18,0
+CUST-1018,Gianna Lee,gianna.lee28@example.com,+1 (555) 471-3287,"Atlanta, GA",Platinum,12,7107.0,2026-09-15,0
+CUST-1019,Mia White,mia.white78@example.com,+1 (555) 469-8019,"San Diego, CA",Platinum,16,10085.0,2026-09-17,0
+CUST-1020,Gianna Lopez,gianna.lopez27@example.com,+1 (555) 721-9085,"Boston, MA",Platinum,13,11983.0,2026-09-20,0
+CUST-1021,Charlotte Harris,charlotte.harris24@example.com,+1 (555) 356-3621,"Seattle, WA",Platinum,21,13898.0,2026-09-14,0
+CUST-1022,Elizabeth Martin,elizabeth.martin59@example.com,+1 (555) 590-8668,"Austin, TX",Platinum,15,5881.0,2026-09-17,0
+CUST-1023,Benjamin Moore,benjamin.moore97@example.com,+1 (555) 938-2876,"Seattle, WA",Gold,9,3387.0,2026-09-11,0
+CUST-1024,Evelyn Harris,evelyn.harris24@example.com,+1 (555) 500-8123,"Chicago, IL",Platinum,19,17877.0,2026-09-17,0
+CUST-1025,William Anderson,william.anderson43@example.com,+1 (555) 712-3927,"Seattle, WA",Platinum,14,14061.0,2026-09-03,0
+CUST-1026,James Lee,james.lee91@example.com,+1 (555) 719-4258,"Denver, CO",Platinum,13,9096.0,2026-09-12,0
+CUST-1027,Sophia Lopez,sophia.lopez79@example.com,+1 (555) 997-9689,"San Jose, CA",Platinum,15,8918.0,2026-09-19,0
+CUST-1028,Liam Martin,liam.martin72@example.com,+1 (555) 219-2832,"Chicago, IL",Platinum,15,8804.0,2026-09-13,0
+CUST-1029,Camila Sanchez,camila.sanchez40@example.com,+1 (555) 259-4946,"Denver, CO",Platinum,11,10096.0,2026-09-15,0
+CUST-1030,Charlotte Williams,charlotte.williams18@example.com,+1 (555) 978-9727,"Atlanta, GA",Gold,11,3291.0,2026-09-03,0
+CUST-1031,Elijah Jones,elijah.jones80@example.com,+1 (555) 369-5342,"Atlanta, GA",Silver,10,2376.0,2026-09-16,0
+CUST-1032,Elizabeth Miller,elizabeth.miller98@example.com,+1 (555) 405-6107,"San Diego, CA",Gold,10,4229.0,2026-09-13,0
+CUST-1033,Gianna Perez,gianna.perez66@example.com,+1 (555) 729-8397,"Chicago, IL",Platinum,11,8777.0,2026-09-13,0
+CUST-1034,Amelia Davis,amelia.davis18@example.com,+1 (555) 546-1344,"Boston, MA",Platinum,14,9433.0,2026-08-26,0
+CUST-1035,Lucas Jackson,lucas.jackson10@example.com,+1 (555) 272-1964,"Boston, MA",Platinum,14,7642.0,2026-09-19,0
+CUST-1036,Lucas Williams,lucas.williams52@example.com,+1 (555) 272-9423,"Seattle, WA",Platinum,17,6359.0,2026-09-17,0
+CUST-1037,Mia Rodriguez,mia.rodriguez37@example.com,+1 (555) 752-3167,"Atlanta, GA",Platinum,17,7219.0,2026-09-15,0
+CUST-1038,Joseph Davis,joseph.davis62@example.com,+1 (555) 394-2545,"Atlanta, GA",Gold,9,4730.0,2026-09-20,0
+CUST-1039,James Perez,james.perez55@example.com,+1 (555) 633-7735,"New York, NY",Platinum,17,11786.0,2026-09-14,0
+CUST-1040,Eleanor White,eleanor.white96@example.com,+1 (555) 869-2612,"Seattle, WA",Platinum,12,5413.0,2026-09-19,0
+CUST-1041,Emma Gonzalez,emma.gonzalez23@example.com,+1 (555) 454-4139,"Chicago, IL",Platinum,16,10273.0,2026-09-11,0
+CUST-1042,Henry Moore,henry.moore27@example.com,+1 (555) 632-4006,"Atlanta, GA",Platinum,11,7252.0,2026-09-18,0
+CUST-1043,Evelyn Anderson,evelyn.anderson19@example.com,+1 (555) 653-2604,"Boston, MA",Platinum,17,12580.0,2026-09-18,0
+CUST-1044,Emma Lee,emma.lee11@example.com,+1 (555) 295-4872,"San Diego, CA",Platinum,16,10673.0,2026-09-20,0
+CUST-1045,William Wilson,william.wilson71@example.com,+1 (555) 418-7570,"Atlanta, GA",Platinum,15,15514.0,2026-09-11,0
+CUST-1046,Emma Garcia,emma.garcia10@example.com,+1 (555) 599-5345,"New York, NY",Platinum,12,7554.0,2026-09-08,0
+CUST-1047,Eleanor Martinez,eleanor.martinez99@example.com,+1 (555) 948-8973,"New York, NY",Gold,10,3233.0,2026-09-14,0
+CUST-1048,Sophia Miller,sophia.miller37@example.com,+1 (555) 259-9883,"Denver, CO",Platinum,7,6613.0,2026-09-19,0
+CUST-1049,Emma White,emma.white17@example.com,+1 (555) 251-8811,"Chicago, IL",Platinum,21,7838.0,2026-09-15,0
+CUST-1050,William Johnson,william.johnson20@example.com,+1 (555) 390-2122,"San Diego, CA",Gold,7,4147.0,2026-09-10,0
+CUST-1051,Oliver Perez,oliver.perez61@example.com,+1 (555) 322-5033,"Boston, MA",Platinum,12,5754.0,2026-09-13,0
+CUST-1052,Noah Martin,noah.martin63@example.com,+1 (555) 873-9565,"Austin, TX",Platinum,13,8097.0,2026-09-13,0
+CUST-1053,Alexander Rodriguez,alexander.rodriguez95@example.com,+1 (555) 933-6147,"Boston, MA",Gold,10,4444.0,2026-09-15,0
+CUST-1054,Mia Rodriguez,mia.rodriguez26@example.com,+1 (555) 887-5915,"New York, NY",Platinum,12,7176.0,2026-09-18,0
+CUST-1055,Eleanor Hernandez,eleanor.hernandez11@example.com,+1 (555) 669-2638,"Austin, TX",Gold,10,4788.0,2026-09-11,0
+CUST-1056,Oliver Moore,oliver.moore74@example.com,+1 (555) 471-3170,"Boston, MA",Platinum,16,8562.0,2026-09-11,0
+CUST-1057,Daniel Williams,daniel.williams57@example.com,+1 (555) 491-3584,"Boston, MA",Gold,12,3446.0,2026-09-14,0
+CUST-1058,David Moore,david.moore88@example.com,+1 (555) 869-9666,"Denver, CO",Platinum,18,14619.0,2026-09-07,0
+CUST-1059,Liam Perez,liam.perez48@example.com,+1 (555) 879-2697,"San Diego, CA",Silver,7,1924.0,2026-09-16,0
+CUST-1060,Elijah Rodriguez,elijah.rodriguez23@example.com,+1 (555) 960-3546,"Austin, TX",Platinum,12,5227.0,2026-09-12,0
+CUST-1061,Evelyn Martinez,evelyn.martinez36@example.com,+1 (555) 934-6617,"Dallas, TX",Platinum,12,7708.0,2026-09-10,0
+CUST-1062,Ava Perez,ava.perez74@example.com,+1 (555) 700-5114,"Denver, CO",Platinum,12,5838.0,2026-09-07,0
+CUST-1063,Emma Williams,emma.williams45@example.com,+1 (555) 245-1058,"New York, NY",Platinum,17,8863.0,2026-09-12,0
+CUST-1064,Luna Harris,luna.harris91@example.com,+1 (555) 468-3647,"San Jose, CA",Gold,9,4895.0,2026-09-12,0
+CUST-1065,David Moore,david.moore81@example.com,+1 (555) 209-2832,"New York, NY",Platinum,16,9543.0,2026-09-14,0
+CUST-1066,Oliver Thompson,oliver.thompson79@example.com,+1 (555) 236-7049,"San Jose, CA",Platinum,8,5401.0,2026-09-07,0
+CUST-1067,Sophia Wilson,sophia.wilson15@example.com,+1 (555) 515-6974,"San Jose, CA",Gold,11,4004.0,2026-09-10,0
+CUST-1068,Noah Lopez,noah.lopez97@example.com,+1 (555) 455-2684,"Boston, MA",Platinum,14,9393.0,2026-09-12,0
+CUST-1069,Daniel Harris,daniel.harris62@example.com,+1 (555) 835-3532,"San Diego, CA",Platinum,19,15248.0,2026-09-11,0
+CUST-1070,Mia Garcia,mia.garcia62@example.com,+1 (555) 225-3938,"San Jose, CA",Platinum,9,6131.0,2026-09-11,0
+CUST-1071,Luna Sanchez,luna.sanchez95@example.com,+1 (555) 952-5065,"New York, NY",Platinum,13,10043.0,2026-09-06,0
+CUST-1072,Evelyn Garcia,evelyn.garcia58@example.com,+1 (555) 239-8711,"Austin, TX",Gold,9,3230.0,2026-09-11,0
+CUST-1073,Lucas Miller,lucas.miller54@example.com,+1 (555) 512-4728,"Atlanta, GA",Gold,8,4325.0,2026-09-08,0
+CUST-1074,Lucas Smith,lucas.smith61@example.com,+1 (555) 536-5564,"Boston, MA",Platinum,17,9458.0,2026-09-13,0
+CUST-1075,Oliver Harris,oliver.harris54@example.com,+1 (555) 856-9346,"Denver, CO",Platinum,12,7604.0,2026-09-18,0
+CUST-1076,Gianna Perez,gianna.perez52@example.com,+1 (555) 228-2889,"San Diego, CA",Platinum,12,12441.0,2026-09-13,0
+CUST-1077,Benjamin Garcia,benjamin.garcia43@example.com,+1 (555) 239-2776,"Dallas, TX",Platinum,17,7803.0,2026-09-08,0
+CUST-1078,Elizabeth Lopez,elizabeth.lopez65@example.com,+1 (555) 820-9379,"Chicago, IL",Platinum,10,8265.0,2026-08-25,0
+CUST-1079,Amelia Gonzalez,amelia.gonzalez34@example.com,+1 (555) 460-1727,"Dallas, TX",Platinum,17,11483.0,2026-09-17,0
+CUST-1080,Elizabeth Smith,elizabeth.smith78@example.com,+1 (555) 903-4228,"San Diego, CA",Platinum,15,11845.0,2026-09-15,0
+CUST-1081,Camila Wilson,camila.wilson95@example.com,+1 (555) 538-6143,"Austin, TX",Platinum,23,19851.0,2026-09-12,0
+CUST-1082,Amelia White,amelia.white74@example.com,+1 (555) 516-7691,"Denver, CO",Gold,9,3468.0,2026-08-22,0
+CUST-1083,Alexander Gonzalez,alexander.gonzalez80@example.com,+1 (555) 330-4143,"Denver, CO",Platinum,19,13186.0,2026-09-14,0
+CUST-1084,Samuel Perez,samuel.perez96@example.com,+1 (555) 966-3851,"New York, NY",Gold,11,3593.0,2026-09-19,0
+CUST-1085,Harper Gonzalez,harper.gonzalez10@example.com,+1 (555) 511-5700,"San Diego, CA",Platinum,14,8076.0,2026-09-20,0
+CUST-1086,Ava Wilson,ava.wilson87@example.com,+1 (555) 870-6279,"Dallas, TX",Platinum,11,5436.0,2026-09-16,0
+CUST-1087,Eleanor Anderson,eleanor.anderson96@example.com,+1 (555) 418-9375,"Atlanta, GA",Platinum,17,7262.0,2026-09-11,0
+CUST-1088,Joseph Sanchez,joseph.sanchez94@example.com,+1 (555) 286-5649,"San Jose, CA",Platinum,15,10486.0,2026-09-10,0
+CUST-1089,Luna Williams,luna.williams96@example.com,+1 (555) 517-4680,"Boston, MA",Platinum,16,6784.0,2026-09-16,0
+CUST-1090,Henry Jones,henry.jones15@example.com,+1 (555) 450-8784,"Seattle, WA",Gold,12,4124.0,2026-09-04,0
+CUST-1091,Oliver Anderson,oliver.anderson90@example.com,+1 (555) 789-4185,"New York, NY",Platinum,22,9430.0,2026-09-18,0
+CUST-1092,Matthew Thomas,matthew.thomas41@example.com,+1 (555) 351-1090,"New York, NY",Platinum,11,6646.0,2026-09-14,0
+CUST-1093,James Harris,james.harris38@example.com,+1 (555) 380-9486,"New York, NY",Platinum,14,8494.0,2026-08-21,0
+CUST-1094,Eleanor Johnson,eleanor.johnson41@example.com,+1 (555) 324-8478,"San Diego, CA",Gold,10,4424.0,2026-09-12,0
+CUST-1095,Elijah Sanchez,elijah.sanchez95@example.com,+1 (555) 743-6198,"Atlanta, GA",Platinum,14,5740.0,2026-09-13,0
+CUST-1096,David Martin,david.martin64@example.com,+1 (555) 761-8305,"San Diego, CA",Platinum,23,14205.0,2026-09-19,0
+CUST-1097,William White,william.white67@example.com,+1 (555) 465-5050,"Atlanta, GA",Platinum,13,5047.0,2026-09-09,0
+CUST-1098,Evelyn Harris,evelyn.harris72@example.com,+1 (555) 841-4919,"San Diego, CA",Platinum,17,9140.0,2026-09-12,0
+CUST-1099,Evelyn Anderson,evelyn.anderson46@example.com,+1 (555) 440-5451,"Austin, TX",Platinum,18,8947.0,2026-09-20,0
+CUST-1100,Luna Hernandez,luna.hernandez20@example.com,+1 (555) 341-3471,"San Diego, CA",Silver,7,2258.0,2026-09-14,0
+CUST-1101,Lucas Gonzalez,lucas.gonzalez37@example.com,+1 (555) 265-7797,"San Jose, CA",Gold,6,3913.0,2026-07-04,1
+CUST-1102,Samuel Hernandez,samuel.hernandez69@example.com,+1 (555) 625-2020,"San Diego, CA",Gold,5,3355.0,2026-07-10,1
+CUST-1103,Ava Wilson,ava.wilson84@example.com,+1 (555) 912-1320,"New York, NY",Silver,5,2421.0,2026-07-12,1
+CUST-1104,Matthew Thomas,matthew.thomas55@example.com,+1 (555) 505-7389,"Seattle, WA",Silver,5,2445.0,2026-07-19,1
+CUST-1105,Samuel Moore,samuel.moore87@example.com,+1 (555) 425-8999,"San Diego, CA",Gold,5,3175.0,2026-07-20,1
+CUST-1106,Lucas Rodriguez,lucas.rodriguez72@example.com,+1 (555) 229-7371,"New York, NY",Silver,4,1555.0,2026-07-18,1
+CUST-1107,Luna Perez,luna.perez31@example.com,+1 (555) 678-3091,"New York, NY",Silver,7,2293.0,2026-07-12,1
+CUST-1108,Olivia Gonzalez,olivia.gonzalez82@example.com,+1 (555) 878-1444,"Dallas, TX",Platinum,7,5021.0,2026-07-14,1
+CUST-1109,Charlotte Lee,charlotte.lee27@example.com,+1 (555) 672-3977,"New York, NY",Silver,3,1196.0,2026-07-13,1
+CUST-1110,Emma Rodriguez,emma.rodriguez51@example.com,+1 (555) 416-8449,"New York, NY",Silver,4,2094.0,2026-06-30,1
+CUST-1111,Alexander Hernandez,alexander.hernandez45@example.com,+1 (555) 970-7906,"New York, NY",Gold,4,4545.0,2026-06-25,1
+CUST-1112,Benjamin Williams,benjamin.williams12@example.com,+1 (555) 967-9837,"Atlanta, GA",Gold,2,3146.0,2026-07-11,1
+CUST-1113,Emma Lopez,emma.lopez93@example.com,+1 (555) 270-1659,"Boston, MA",Silver,4,1395.0,2026-06-30,1
+CUST-1114,Olivia Davis,olivia.davis12@example.com,+1 (555) 836-3496,"Boston, MA",Gold,6,2710.0,2026-07-12,1
+CUST-1115,Mia Jones,mia.jones95@example.com,+1 (555) 317-4571,"Atlanta, GA",Platinum,6,5853.0,2026-07-19,1
+CUST-1116,Eleanor Thompson,eleanor.thompson57@example.com,+1 (555) 371-2876,"Denver, CO",Gold,7,3722.0,2026-07-20,1
+CUST-1117,William Martinez,william.martinez84@example.com,+1 (555) 226-6111,"Austin, TX",Platinum,3,6235.0,2026-07-19,1
+CUST-1118,Matthew Gonzalez,matthew.gonzalez19@example.com,+1 (555) 806-4978,"Boston, MA",Gold,3,3697.0,2026-07-15,1
+CUST-1119,James Thompson,james.thompson97@example.com,+1 (555) 814-2983,"Denver, CO",Silver,5,2365.0,2026-07-14,1
+CUST-1120,Noah Lopez,noah.lopez64@example.com,+1 (555) 877-7071,"San Diego, CA",Gold,4,3725.0,2026-06-19,1
+CUST-1121,Oliver Taylor,oliver.taylor11@example.com,+1 (555) 630-9031,"Chicago, IL",Silver,7,1902.0,2026-07-01,1
+CUST-1122,James Wilson,james.wilson91@example.com,+1 (555) 670-3506,"Chicago, IL",Gold,4,4245.0,2026-07-19,1
+CUST-1123,Elizabeth Garcia,elizabeth.garcia93@example.com,+1 (555) 476-9817,"San Diego, CA",Silver,3,1027.0,2026-07-10,1
+CUST-1124,Joseph Anderson,joseph.anderson85@example.com,+1 (555) 474-6280,"New York, NY",Standard,1,899.0,2026-05-23,1
+CUST-1125,Mia Williams,mia.williams67@example.com,+1 (555) 449-8613,"Denver, CO",Silver,4,1415.0,2026-07-08,1
+CUST-1126,Matthew Hernandez,matthew.hernandez73@example.com,+1 (555) 532-3979,"Seattle, WA",Gold,5,2913.0,2026-06-27,1
+CUST-1127,Ella Miller,ella.miller43@example.com,+1 (555) 548-5581,"Chicago, IL",Silver,4,2016.0,2026-07-07,1
+CUST-1128,Evelyn Moore,evelyn.moore76@example.com,+1 (555) 395-2402,"Seattle, WA",Silver,4,2186.0,2026-07-06,1
+CUST-1129,Mia White,mia.white72@example.com,+1 (555) 768-4937,"New York, NY",Standard,1,138.0,2026-07-11,1
+CUST-1130,Joseph Lee,joseph.lee67@example.com,+1 (555) 217-2524,"Atlanta, GA",Silver,3,1007.0,2026-06-16,1
+CUST-1131,Theodore Davis,theodore.davis98@example.com,+1 (555) 449-6016,"New York, NY",Gold,5,4553.0,2026-07-20,1
+CUST-1132,Camila Thomas,camila.thomas77@example.com,+1 (555) 552-7971,"San Diego, CA",Platinum,4,5691.0,2026-07-13,1
+CUST-1133,Luna Lopez,luna.lopez44@example.com,+1 (555) 513-5118,"Atlanta, GA",Standard,3,723.0,2026-07-02,1
+CUST-1134,Lucas Brown,lucas.brown50@example.com,+1 (555) 322-9779,"Boston, MA",Silver,5,1875.0,2026-07-20,1
+CUST-1135,Isabella Miller,isabella.miller71@example.com,+1 (555) 483-9595,"Boston, MA",Platinum,6,5064.0,2026-07-12,1
+CUST-1136,Theodore Brown,theodore.brown47@example.com,+1 (555) 432-6912,"Boston, MA",Silver,3,2165.0,2026-06-30,1
+CUST-1137,Isabella Martinez,isabella.martinez78@example.com,+1 (555) 329-5494,"Seattle, WA",Gold,5,2784.0,2026-07-21,1
+CUST-1138,Noah Johnson,noah.johnson47@example.com,+1 (555) 914-3068,"San Diego, CA",Silver,6,2461.0,2026-07-11,1
+CUST-1139,Ella Brown,ella.brown83@example.com,+1 (555) 491-8690,"Seattle, WA",Silver,7,2292.0,2026-07-10,1
+CUST-1140,Joseph Anderson,joseph.anderson33@example.com,+1 (555) 252-5136,"Chicago, IL",Gold,8,4530.0,2026-07-09,1
+CUST-1141,Joseph Brown,joseph.brown61@example.com,+1 (555) 703-2213,"Austin, TX",Gold,4,2685.0,2026-07-21,1
+CUST-1142,Emma Jones,emma.jones82@example.com,+1 (555) 511-2395,"San Jose, CA",Gold,12,4228.0,2026-07-20,1
+CUST-1143,Mia Brown,mia.brown63@example.com,+1 (555) 820-4697,"San Diego, CA",Gold,5,2840.0,2026-07-19,1
+CUST-1144,Matthew Anderson,matthew.anderson48@example.com,+1 (555) 802-8025,"Atlanta, GA",Gold,7,3102.0,2026-07-08,1
+CUST-1145,Harper Jackson,harper.jackson17@example.com,+1 (555) 824-2625,"Dallas, TX",Silver,5,2195.0,2026-06-16,1
+CUST-1146,Ava Lee,ava.lee43@example.com,+1 (555) 876-2330,"Boston, MA",Gold,7,2973.0,2026-07-18,1
+CUST-1147,William Davis,william.davis80@example.com,+1 (555) 276-3564,"San Jose, CA",Platinum,8,5669.0,2026-07-21,1
+CUST-1148,Liam Wilson,liam.wilson98@example.com,+1 (555) 808-8699,"Atlanta, GA",Gold,7,3609.0,2026-07-18,1
+CUST-1149,Theodore Johnson,theodore.johnson46@example.com,+1 (555) 923-5632,"Boston, MA",Silver,3,2026.0,2026-06-12,1
+CUST-1150,Eleanor Williams,eleanor.williams43@example.com,+1 (555) 840-4241,"Boston, MA",Silver,5,1984.0,2026-07-14,1
+CUST-1151,Elizabeth Brown,elizabeth.brown38@example.com,+1 (555) 863-3441,"San Diego, CA",Gold,6,3410.0,2026-07-11,1
+CUST-1152,Evelyn Jones,evelyn.jones17@example.com,+1 (555) 369-6039,"Austin, TX",Gold,4,4753.0,2026-07-04,1
+CUST-1153,Theodore Anderson,theodore.anderson69@example.com,+1 (555) 905-5982,"Austin, TX",Platinum,9,9669.0,2026-07-11,1
+CUST-1154,Gianna Rodriguez,gianna.rodriguez79@example.com,+1 (555) 705-8172,"San Diego, CA",Silver,2,1917.0,2026-07-21,1
+CUST-1155,Charlotte Martin,charlotte.martin65@example.com,+1 (555) 952-6280,"Seattle, WA",Platinum,6,6871.0,2026-07-21,1
+CUST-1156,Benjamin Smith,benjamin.smith39@example.com,+1 (555) 890-1339,"Austin, TX",Standard,2,248.0,2026-06-15,1
+CUST-1157,Evelyn Jackson,evelyn.jackson32@example.com,+1 (555) 681-9502,"Seattle, WA",Gold,3,3996.0,2026-07-08,1
+CUST-1158,David Rodriguez,david.rodriguez84@example.com,+1 (555) 646-9056,"San Jose, CA",Silver,2,1268.0,2026-06-28,1
+CUST-1159,Charlotte Thomas,charlotte.thomas62@example.com,+1 (555) 541-6260,"Chicago, IL",Gold,7,3841.0,2026-07-11,1
+CUST-1160,James Garcia,james.garcia62@example.com,+1 (555) 910-9117,"Chicago, IL",Standard,1,598.0,2026-07-18,1

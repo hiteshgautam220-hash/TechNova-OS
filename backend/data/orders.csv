@@ -1,0 +1,1698 @@
+order_id,customer_id,product_id,product_name,category,order_date,quantity,unit_price,amount,status,payment_status
+ORD-5001,CUST-1103,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-05-23,1,39.0,39.0,Completed,Paid
+ORD-5002,CUST-1081,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-05-23,1,299.0,299.0,Completed,Paid
+ORD-5003,CUST-1104,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-05-23,2,549.0,1098.0,Cancelled,Refunded
+ORD-5004,CUST-1139,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-05-23,1,179.0,179.0,Completed,Paid
+ORD-5005,CUST-1093,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-05-23,1,59.0,59.0,Completed,Paid
+ORD-5006,CUST-1014,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-05-23,1,449.0,449.0,Completed,Paid
+ORD-5007,CUST-1074,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-05-23,2,179.0,358.0,Completed,Paid
+ORD-5008,CUST-1008,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-05-23,1,129.0,129.0,Completed,Paid
+ORD-5009,CUST-1041,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-05-23,1,149.0,149.0,Completed,Paid
+ORD-5010,CUST-1024,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-05-23,3,1349.0,4047.0,Completed,Paid
+ORD-5011,CUST-1119,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-05-23,1,849.0,849.0,Completed,Paid
+ORD-5012,CUST-1075,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-05-23,1,549.0,549.0,Completed,Paid
+ORD-5013,CUST-1124,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-05-23,1,899.0,899.0,Completed,Paid
+ORD-5014,CUST-1049,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-05-24,1,59.0,59.0,Completed,Paid
+ORD-5015,CUST-1018,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-05-24,1,299.0,299.0,Completed,Paid
+ORD-5016,CUST-1088,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-05-24,1,549.0,549.0,Cancelled,Refunded
+ORD-5017,CUST-1077,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-05-24,1,69.0,69.0,Completed,Paid
+ORD-5018,CUST-1039,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-05-24,1,179.0,179.0,Completed,Paid
+ORD-5019,CUST-1142,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-05-24,1,39.0,39.0,Completed,Paid
+ORD-5020,CUST-1083,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-05-24,3,449.0,1347.0,Completed,Paid
+ORD-5021,CUST-1099,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-05-24,2,1349.0,2698.0,Completed,Paid
+ORD-5022,CUST-1082,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-05-24,1,45.0,45.0,Completed,Paid
+ORD-5023,CUST-1098,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-05-24,3,499.0,1497.0,Completed,Paid
+ORD-5024,CUST-1039,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-05-24,3,899.0,2697.0,Completed,Paid
+ORD-5025,CUST-1152,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-05-24,2,389.0,778.0,Completed,Paid
+ORD-5026,CUST-1113,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-05-24,1,849.0,849.0,Completed,Paid
+ORD-5027,CUST-1037,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-05-24,2,249.0,498.0,Completed,Paid
+ORD-5028,CUST-1121,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-05-25,1,299.0,299.0,Completed,Paid
+ORD-5029,CUST-1021,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-05-25,2,389.0,778.0,Completed,Paid
+ORD-5030,CUST-1098,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-05-25,1,389.0,389.0,Completed,Paid
+ORD-5031,CUST-1125,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-05-25,1,379.0,379.0,Returned,Refunded
+ORD-5032,CUST-1074,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-05-25,1,1349.0,1349.0,Completed,Paid
+ORD-5033,CUST-1026,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-05-25,1,39.0,39.0,Completed,Paid
+ORD-5034,CUST-1114,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-05-25,1,799.0,799.0,Completed,Paid
+ORD-5035,CUST-1012,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-05-25,1,389.0,389.0,Completed,Paid
+ORD-5036,CUST-1096,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-05-25,1,249.0,249.0,Completed,Paid
+ORD-5037,CUST-1145,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-05-25,1,79.0,79.0,Completed,Paid
+ORD-5038,CUST-1021,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-05-25,2,59.0,118.0,Completed,Paid
+ORD-5039,CUST-1128,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-05-26,1,69.0,69.0,Completed,Paid
+ORD-5040,CUST-1066,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-05-26,1,179.0,179.0,Cancelled,Refunded
+ORD-5041,CUST-1120,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-05-26,1,149.0,149.0,Completed,Paid
+ORD-5042,CUST-1114,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-05-26,3,69.0,207.0,Completed,Paid
+ORD-5043,CUST-1109,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-05-26,1,99.0,99.0,Completed,Paid
+ORD-5044,CUST-1051,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-05-26,2,499.0,998.0,Completed,Paid
+ORD-5045,CUST-1098,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-05-26,1,69.0,69.0,Completed,Paid
+ORD-5046,CUST-1076,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-05-26,3,1799.0,5397.0,Completed,Paid
+ORD-5047,CUST-1071,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-05-26,1,1799.0,1799.0,Completed,Paid
+ORD-5048,CUST-1013,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-05-26,1,59.0,59.0,Completed,Paid
+ORD-5049,CUST-1074,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-05-26,1,39.0,39.0,Completed,Paid
+ORD-5050,CUST-1091,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-05-26,1,1349.0,1349.0,Completed,Paid
+ORD-5051,CUST-1036,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-05-27,1,129.0,129.0,Completed,Paid
+ORD-5052,CUST-1011,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-05-27,1,149.0,149.0,Cancelled,Refunded
+ORD-5053,CUST-1094,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-05-27,1,45.0,45.0,Completed,Paid
+ORD-5054,CUST-1084,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-05-27,1,45.0,45.0,Completed,Paid
+ORD-5055,CUST-1139,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-05-27,1,69.0,69.0,Completed,Paid
+ORD-5056,CUST-1043,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-05-27,2,299.0,598.0,Completed,Paid
+ORD-5057,CUST-1076,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-05-27,2,45.0,90.0,Completed,Paid
+ORD-5058,CUST-1120,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-05-27,1,1399.0,1399.0,Completed,Paid
+ORD-5059,CUST-1102,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-05-27,1,379.0,379.0,Completed,Paid
+ORD-5060,CUST-1004,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-05-27,1,299.0,299.0,Completed,Paid
+ORD-5061,CUST-1068,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-05-27,1,69.0,69.0,Completed,Paid
+ORD-5062,CUST-1096,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-05-27,1,849.0,849.0,Completed,Paid
+ORD-5063,CUST-1159,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-05-27,1,379.0,379.0,Completed,Paid
+ORD-5064,CUST-1017,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-05-27,2,129.0,258.0,Completed,Paid
+ORD-5065,CUST-1078,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-05-27,1,129.0,129.0,Completed,Paid
+ORD-5066,CUST-1010,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-05-27,3,149.0,447.0,Completed,Paid
+ORD-5067,CUST-1138,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-05-28,1,1199.0,1199.0,Completed,Paid
+ORD-5068,CUST-1139,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-05-28,1,249.0,249.0,Completed,Paid
+ORD-5069,CUST-1107,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-05-28,1,129.0,129.0,Completed,Paid
+ORD-5070,CUST-1105,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-05-28,1,299.0,299.0,Completed,Paid
+ORD-5071,CUST-1114,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-05-28,2,179.0,358.0,Completed,Paid
+ORD-5072,CUST-1026,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-05-28,1,79.0,79.0,Completed,Paid
+ORD-5073,CUST-1092,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-05-28,1,1099.0,1099.0,Completed,Paid
+ORD-5074,CUST-1032,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-05-28,1,179.0,179.0,Completed,Paid
+ORD-5075,CUST-1153,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-05-28,1,1799.0,1799.0,Completed,Paid
+ORD-5076,CUST-1033,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-05-28,1,69.0,69.0,Completed,Paid
+ORD-5077,CUST-1142,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-05-28,1,449.0,449.0,Completed,Paid
+ORD-5078,CUST-1060,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-05-28,1,389.0,389.0,Completed,Paid
+ORD-5079,CUST-1001,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-05-29,2,299.0,598.0,Returned,Refunded
+ORD-5080,CUST-1045,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-05-29,1,849.0,849.0,Cancelled,Refunded
+ORD-5081,CUST-1004,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-05-29,1,69.0,69.0,Completed,Paid
+ORD-5082,CUST-1083,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-05-29,1,1799.0,1799.0,Returned,Refunded
+ORD-5083,CUST-1030,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-05-29,1,45.0,45.0,Completed,Paid
+ORD-5084,CUST-1093,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-05-29,1,549.0,549.0,Completed,Paid
+ORD-5085,CUST-1057,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-05-29,1,59.0,59.0,Completed,Paid
+ORD-5086,CUST-1134,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-05-29,1,149.0,149.0,Completed,Paid
+ORD-5087,CUST-1016,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-05-29,2,899.0,1798.0,Completed,Paid
+ORD-5088,CUST-1028,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-05-29,1,899.0,899.0,Completed,Paid
+ORD-5089,CUST-1021,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-05-29,1,389.0,389.0,Returned,Refunded
+ORD-5090,CUST-1150,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-05-29,1,379.0,379.0,Completed,Paid
+ORD-5091,CUST-1153,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-05-29,1,549.0,549.0,Completed,Paid
+ORD-5092,CUST-1111,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-05-29,1,849.0,849.0,Completed,Paid
+ORD-5093,CUST-1142,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-05-29,2,45.0,90.0,Completed,Paid
+ORD-5094,CUST-1106,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-05-30,2,389.0,778.0,Completed,Paid
+ORD-5095,CUST-1025,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-05-30,1,389.0,389.0,Completed,Paid
+ORD-5096,CUST-1096,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-05-30,1,1199.0,1199.0,Completed,Paid
+ORD-5097,CUST-1024,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-05-30,1,1399.0,1399.0,Completed,Paid
+ORD-5098,CUST-1096,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-05-30,1,1199.0,1199.0,Completed,Paid
+ORD-5099,CUST-1144,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-05-30,1,379.0,379.0,Completed,Paid
+ORD-5100,CUST-1091,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-05-30,2,79.0,158.0,Completed,Paid
+ORD-5101,CUST-1014,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-05-30,1,149.0,149.0,Completed,Paid
+ORD-5102,CUST-1148,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-05-30,1,549.0,549.0,Completed,Paid
+ORD-5103,CUST-1058,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-05-30,1,849.0,849.0,Completed,Paid
+ORD-5104,CUST-1030,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-05-30,1,39.0,39.0,Completed,Paid
+ORD-5105,CUST-1110,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-05-30,3,379.0,1137.0,Completed,Paid
+ORD-5106,CUST-1143,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-05-31,1,1799.0,1799.0,Completed,Paid
+ORD-5107,CUST-1069,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-05-31,1,1799.0,1799.0,Completed,Paid
+ORD-5108,CUST-1080,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-05-31,1,389.0,389.0,Completed,Paid
+ORD-5109,CUST-1037,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-05-31,1,69.0,69.0,Returned,Refunded
+ORD-5110,CUST-1008,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-05-31,1,1399.0,1399.0,Completed,Paid
+ORD-5111,CUST-1108,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-05-31,1,179.0,179.0,Completed,Paid
+ORD-5112,CUST-1084,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-05-31,2,39.0,78.0,Completed,Paid
+ORD-5113,CUST-1014,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-05-31,1,1199.0,1199.0,Completed,Paid
+ORD-5114,CUST-1021,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-05-31,1,299.0,299.0,Completed,Paid
+ORD-5115,CUST-1156,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-05-31,1,179.0,179.0,Completed,Paid
+ORD-5116,CUST-1132,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-05-31,1,849.0,849.0,Completed,Paid
+ORD-5117,CUST-1152,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-05-31,1,899.0,899.0,Completed,Paid
+ORD-5118,CUST-1057,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-05-31,3,499.0,1497.0,Returned,Refunded
+ORD-5119,CUST-1055,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-05-31,1,39.0,39.0,Completed,Paid
+ORD-5120,CUST-1084,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-05-31,1,849.0,849.0,Completed,Paid
+ORD-5121,CUST-1034,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-06-01,1,499.0,499.0,Completed,Paid
+ORD-5122,CUST-1144,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-06-01,1,79.0,79.0,Returned,Refunded
+ORD-5123,CUST-1112,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-06-01,1,1799.0,1799.0,Returned,Refunded
+ORD-5124,CUST-1147,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-06-01,1,499.0,499.0,Completed,Paid
+ORD-5125,CUST-1030,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-06-01,1,499.0,499.0,Completed,Paid
+ORD-5126,CUST-1159,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-06-01,2,179.0,358.0,Completed,Paid
+ORD-5127,CUST-1023,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-06-01,2,249.0,498.0,Completed,Paid
+ORD-5128,CUST-1151,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-06-01,1,499.0,499.0,Completed,Paid
+ORD-5129,CUST-1080,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-06-01,1,45.0,45.0,Completed,Paid
+ORD-5130,CUST-1044,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-06-01,1,1399.0,1399.0,Completed,Paid
+ORD-5131,CUST-1131,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-06-01,2,449.0,898.0,Completed,Paid
+ORD-5132,CUST-1038,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-06-01,1,1349.0,1349.0,Completed,Paid
+ORD-5133,CUST-1155,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-06-02,1,1199.0,1199.0,Completed,Paid
+ORD-5134,CUST-1046,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-06-02,1,39.0,39.0,Completed,Paid
+ORD-5135,CUST-1145,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-06-02,1,39.0,39.0,Completed,Paid
+ORD-5136,CUST-1145,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-06-02,1,129.0,129.0,Completed,Paid
+ORD-5137,CUST-1081,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-06-02,1,1199.0,1199.0,Completed,Paid
+ORD-5138,CUST-1078,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-06-02,1,299.0,299.0,Completed,Paid
+ORD-5139,CUST-1019,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-06-02,1,149.0,149.0,Cancelled,Refunded
+ORD-5140,CUST-1095,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-06-02,1,149.0,149.0,Completed,Paid
+ORD-5141,CUST-1024,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-06-02,1,59.0,59.0,Completed,Paid
+ORD-5142,CUST-1149,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-06-02,2,379.0,758.0,Completed,Paid
+ORD-5143,CUST-1011,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-06-02,2,179.0,358.0,Completed,Paid
+ORD-5144,CUST-1049,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-06-02,1,389.0,389.0,Completed,Paid
+ORD-5145,CUST-1116,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-06-03,1,849.0,849.0,Completed,Paid
+ORD-5146,CUST-1022,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-06-03,1,549.0,549.0,Cancelled,Refunded
+ORD-5147,CUST-1113,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-06-03,1,179.0,179.0,Completed,Paid
+ORD-5148,CUST-1094,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-06-03,2,69.0,138.0,Completed,Paid
+ORD-5149,CUST-1087,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-06-03,1,79.0,79.0,Completed,Paid
+ORD-5150,CUST-1086,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-06-03,1,1399.0,1399.0,Completed,Paid
+ORD-5151,CUST-1099,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-06-03,1,149.0,149.0,Completed,Paid
+ORD-5152,CUST-1155,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-06-03,1,1199.0,1199.0,Completed,Paid
+ORD-5153,CUST-1037,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-06-03,1,69.0,69.0,Completed,Paid
+ORD-5154,CUST-1101,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-06-03,1,1199.0,1199.0,Completed,Paid
+ORD-5155,CUST-1080,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-06-03,1,379.0,379.0,Completed,Paid
+ORD-5156,CUST-1135,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-06-04,1,1399.0,1399.0,Completed,Paid
+ORD-5157,CUST-1093,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-06-04,1,1799.0,1799.0,Completed,Paid
+ORD-5158,CUST-1055,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-06-04,2,389.0,778.0,Completed,Paid
+ORD-5159,CUST-1058,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-06-04,1,1199.0,1199.0,Completed,Paid
+ORD-5160,CUST-1026,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-06-04,1,549.0,549.0,Completed,Paid
+ORD-5161,CUST-1135,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-06-04,1,1099.0,1099.0,Completed,Paid
+ORD-5162,CUST-1159,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-06-04,1,1199.0,1199.0,Completed,Paid
+ORD-5163,CUST-1047,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-06-04,1,99.0,99.0,Completed,Paid
+ORD-5164,CUST-1043,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-06-04,1,45.0,45.0,Completed,Paid
+ORD-5165,CUST-1061,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-06-04,1,179.0,179.0,Completed,Paid
+ORD-5166,CUST-1115,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-06-04,1,1349.0,1349.0,Completed,Paid
+ORD-5167,CUST-1121,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-06-04,1,449.0,449.0,Completed,Paid
+ORD-5168,CUST-1119,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-06-05,1,39.0,39.0,Completed,Paid
+ORD-5169,CUST-1136,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-06-05,3,249.0,747.0,Completed,Paid
+ORD-5170,CUST-1155,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-06-05,2,1199.0,2398.0,Returned,Refunded
+ORD-5171,CUST-1142,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-06-05,1,849.0,849.0,Completed,Paid
+ORD-5172,CUST-1032,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-06-05,1,149.0,149.0,Completed,Paid
+ORD-5173,CUST-1116,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-06-05,1,549.0,549.0,Completed,Paid
+ORD-5174,CUST-1057,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-06-05,2,179.0,358.0,Completed,Paid
+ORD-5175,CUST-1107,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-06-05,1,1099.0,1099.0,Completed,Paid
+ORD-5176,CUST-1099,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-06-05,1,1399.0,1399.0,Cancelled,Refunded
+ORD-5177,CUST-1026,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-06-05,1,99.0,99.0,Completed,Paid
+ORD-5178,CUST-1036,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-06-05,1,1099.0,1099.0,Completed,Paid
+ORD-5179,CUST-1036,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-06-05,1,39.0,39.0,Completed,Paid
+ORD-5180,CUST-1002,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-06-05,1,1399.0,1399.0,Completed,Paid
+ORD-5181,CUST-1039,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-06-05,2,379.0,758.0,Completed,Paid
+ORD-5182,CUST-1029,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-06-06,1,39.0,39.0,Completed,Paid
+ORD-5183,CUST-1013,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-06-06,1,1349.0,1349.0,Completed,Paid
+ORD-5184,CUST-1118,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-06-06,1,1399.0,1399.0,Completed,Paid
+ORD-5185,CUST-1153,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-06-06,1,379.0,379.0,Completed,Paid
+ORD-5186,CUST-1062,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-06-06,1,99.0,99.0,Completed,Paid
+ORD-5187,CUST-1158,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-06-06,1,69.0,69.0,Completed,Paid
+ORD-5188,CUST-1022,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-06-06,3,549.0,1647.0,Returned,Refunded
+ORD-5189,CUST-1130,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-06-06,1,379.0,379.0,Completed,Paid
+ORD-5190,CUST-1012,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-06-06,1,129.0,129.0,Completed,Paid
+ORD-5191,CUST-1005,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-06-06,1,69.0,69.0,Completed,Paid
+ORD-5192,CUST-1027,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-06-06,1,39.0,39.0,Completed,Paid
+ORD-5193,CUST-1035,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-06-06,1,1099.0,1099.0,Completed,Paid
+ORD-5194,CUST-1045,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-06-06,1,39.0,39.0,Completed,Paid
+ORD-5195,CUST-1123,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-06-06,1,129.0,129.0,Completed,Paid
+ORD-5196,CUST-1118,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-06-07,1,1099.0,1099.0,Returned,Refunded
+ORD-5197,CUST-1081,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-06-07,1,149.0,149.0,Completed,Paid
+ORD-5198,CUST-1140,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-06-07,1,899.0,899.0,Completed,Paid
+ORD-5199,CUST-1049,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-06-07,1,149.0,149.0,Completed,Paid
+ORD-5200,CUST-1085,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-06-07,1,299.0,299.0,Completed,Paid
+ORD-5201,CUST-1103,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-06-07,1,45.0,45.0,Completed,Paid
+ORD-5202,CUST-1087,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-06-07,1,799.0,799.0,Completed,Paid
+ORD-5203,CUST-1133,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-06-07,1,299.0,299.0,Completed,Paid
+ORD-5204,CUST-1021,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-06-07,1,249.0,249.0,Completed,Paid
+ORD-5205,CUST-1140,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-06-07,1,149.0,149.0,Returned,Refunded
+ORD-5206,CUST-1115,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-06-07,1,59.0,59.0,Completed,Paid
+ORD-5207,CUST-1114,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-06-07,1,69.0,69.0,Completed,Paid
+ORD-5208,CUST-1091,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-06-07,3,59.0,177.0,Completed,Paid
+ORD-5209,CUST-1015,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-06-07,1,1399.0,1399.0,Completed,Paid
+ORD-5210,CUST-1132,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-06-07,1,45.0,45.0,Completed,Paid
+ORD-5211,CUST-1037,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-06-07,1,59.0,59.0,Completed,Paid
+ORD-5212,CUST-1018,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-06-08,1,1349.0,1349.0,Completed,Paid
+ORD-5213,CUST-1099,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-06-08,1,69.0,69.0,Completed,Paid
+ORD-5214,CUST-1116,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-06-08,1,69.0,69.0,Completed,Paid
+ORD-5215,CUST-1147,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-06-08,1,1199.0,1199.0,Completed,Paid
+ORD-5216,CUST-1072,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-06-08,3,1349.0,4047.0,Cancelled,Refunded
+ORD-5217,CUST-1048,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-06-08,1,899.0,899.0,Completed,Paid
+ORD-5218,CUST-1031,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-06-08,1,299.0,299.0,Completed,Paid
+ORD-5219,CUST-1055,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-06-08,1,59.0,59.0,Completed,Paid
+ORD-5220,CUST-1126,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-06-08,1,449.0,449.0,Completed,Paid
+ORD-5221,CUST-1116,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-06-08,2,799.0,1598.0,Completed,Paid
+ORD-5222,CUST-1023,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-06-08,3,79.0,237.0,Completed,Paid
+ORD-5223,CUST-1089,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-06-08,1,99.0,99.0,Completed,Paid
+ORD-5224,CUST-1041,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-06-09,1,99.0,99.0,Completed,Paid
+ORD-5225,CUST-1045,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-06-09,1,69.0,69.0,Completed,Paid
+ORD-5226,CUST-1052,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-06-09,1,1199.0,1199.0,Completed,Paid
+ORD-5227,CUST-1093,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-06-09,1,379.0,379.0,Completed,Paid
+ORD-5228,CUST-1142,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-06-09,1,1199.0,1199.0,Completed,Paid
+ORD-5229,CUST-1080,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-06-09,3,499.0,1497.0,Completed,Paid
+ORD-5230,CUST-1135,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-06-09,1,249.0,249.0,Completed,Paid
+ORD-5231,CUST-1019,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-06-09,3,1199.0,3597.0,Completed,Paid
+ORD-5232,CUST-1116,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-06-09,1,179.0,179.0,Completed,Paid
+ORD-5233,CUST-1142,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-06-09,1,129.0,129.0,Completed,Paid
+ORD-5234,CUST-1034,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-06-09,1,249.0,249.0,Completed,Paid
+ORD-5235,CUST-1032,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-06-09,1,549.0,549.0,Completed,Paid
+ORD-5236,CUST-1083,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-06-09,1,99.0,99.0,Completed,Paid
+ORD-5237,CUST-1073,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-06-10,1,1399.0,1399.0,Completed,Paid
+ORD-5238,CUST-1142,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-06-10,1,299.0,299.0,Completed,Paid
+ORD-5239,CUST-1137,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-06-10,1,1399.0,1399.0,Completed,Paid
+ORD-5240,CUST-1149,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-06-10,1,1199.0,1199.0,Completed,Paid
+ORD-5241,CUST-1155,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-06-10,2,389.0,778.0,Completed,Paid
+ORD-5242,CUST-1008,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-06-10,1,1399.0,1399.0,Completed,Paid
+ORD-5243,CUST-1148,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-06-10,1,299.0,299.0,Completed,Paid
+ORD-5244,CUST-1107,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-06-10,1,59.0,59.0,Completed,Paid
+ORD-5245,CUST-1140,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-06-10,1,149.0,149.0,Completed,Paid
+ORD-5246,CUST-1063,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-06-10,1,79.0,79.0,Completed,Paid
+ORD-5247,CUST-1016,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-06-10,1,799.0,799.0,Completed,Paid
+ORD-5248,CUST-1053,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-06-10,1,389.0,389.0,Completed,Paid
+ORD-5249,CUST-1082,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-06-10,3,45.0,135.0,Completed,Paid
+ORD-5250,CUST-1103,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-06-10,1,1199.0,1199.0,Completed,Paid
+ORD-5251,CUST-1028,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-06-10,1,389.0,389.0,Completed,Paid
+ORD-5252,CUST-1064,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-06-11,1,1199.0,1199.0,Completed,Paid
+ORD-5253,CUST-1099,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-06-11,1,59.0,59.0,Completed,Paid
+ORD-5254,CUST-1041,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-06-11,2,389.0,778.0,Completed,Paid
+ORD-5255,CUST-1049,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-06-11,1,39.0,39.0,Completed,Paid
+ORD-5256,CUST-1120,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-06-11,2,899.0,1798.0,Completed,Paid
+ORD-5257,CUST-1024,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-06-11,1,499.0,499.0,Completed,Paid
+ORD-5258,CUST-1056,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-06-11,1,69.0,69.0,Returned,Refunded
+ORD-5259,CUST-1121,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-06-11,1,149.0,149.0,Completed,Paid
+ORD-5260,CUST-1111,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-06-11,2,1199.0,2398.0,Completed,Paid
+ORD-5261,CUST-1104,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-06-11,1,69.0,69.0,Returned,Refunded
+ORD-5262,CUST-1142,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-06-11,1,149.0,149.0,Completed,Paid
+ORD-5263,CUST-1141,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-06-11,2,299.0,598.0,Completed,Paid
+ORD-5264,CUST-1157,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-06-11,1,849.0,849.0,Completed,Paid
+ORD-5265,CUST-1096,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-06-11,1,389.0,389.0,Completed,Paid
+ORD-5266,CUST-1051,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-06-12,1,59.0,59.0,Completed,Paid
+ORD-5267,CUST-1012,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-06-12,1,1099.0,1099.0,Completed,Paid
+ORD-5268,CUST-1122,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-06-12,1,549.0,549.0,Completed,Paid
+ORD-5269,CUST-1132,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-06-12,1,1199.0,1199.0,Completed,Paid
+ORD-5270,CUST-1042,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-06-12,3,499.0,1497.0,Completed,Paid
+ORD-5271,CUST-1077,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-06-12,1,69.0,69.0,Completed,Paid
+ORD-5272,CUST-1137,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-06-12,1,899.0,899.0,Completed,Paid
+ORD-5273,CUST-1005,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-06-12,1,69.0,69.0,Completed,Paid
+ORD-5274,CUST-1107,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-06-12,1,69.0,69.0,Completed,Paid
+ORD-5275,CUST-1007,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-06-12,1,59.0,59.0,Completed,Paid
+ORD-5276,CUST-1149,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-06-12,1,69.0,69.0,Returned,Refunded
+ORD-5277,CUST-1159,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-06-12,2,39.0,78.0,Completed,Paid
+ORD-5278,CUST-1063,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-06-13,1,1099.0,1099.0,Completed,Paid
+ORD-5279,CUST-1049,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-06-13,1,1799.0,1799.0,Completed,Paid
+ORD-5280,CUST-1106,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-06-13,1,99.0,99.0,Completed,Paid
+ORD-5281,CUST-1157,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-06-13,2,899.0,1798.0,Completed,Paid
+ORD-5282,CUST-1016,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-06-13,1,99.0,99.0,Completed,Paid
+ORD-5283,CUST-1084,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-06-13,1,79.0,79.0,Completed,Paid
+ORD-5284,CUST-1045,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-06-13,2,179.0,358.0,Completed,Paid
+ORD-5285,CUST-1091,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-06-13,1,79.0,79.0,Completed,Paid
+ORD-5286,CUST-1068,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-06-13,1,59.0,59.0,Completed,Paid
+ORD-5287,CUST-1072,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-06-13,1,379.0,379.0,Completed,Paid
+ORD-5288,CUST-1077,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-06-13,1,39.0,39.0,Completed,Paid
+ORD-5289,CUST-1126,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-06-13,1,389.0,389.0,Completed,Paid
+ORD-5290,CUST-1071,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-06-13,1,149.0,149.0,Completed,Paid
+ORD-5291,CUST-1098,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-06-13,1,499.0,499.0,Completed,Paid
+ORD-5292,CUST-1038,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-06-13,1,149.0,149.0,Completed,Paid
+ORD-5293,CUST-1021,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-06-13,2,69.0,138.0,Completed,Paid
+ORD-5294,CUST-1123,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-06-14,1,449.0,449.0,Completed,Paid
+ORD-5295,CUST-1144,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-06-14,1,99.0,99.0,Completed,Paid
+ORD-5296,CUST-1151,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-06-14,1,1349.0,1349.0,Completed,Paid
+ORD-5297,CUST-1136,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-06-14,1,1349.0,1349.0,Returned,Refunded
+ORD-5298,CUST-1121,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-06-14,1,849.0,849.0,Completed,Paid
+ORD-5299,CUST-1141,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-06-14,1,799.0,799.0,Completed,Paid
+ORD-5300,CUST-1122,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-06-14,1,899.0,899.0,Completed,Paid
+ORD-5301,CUST-1074,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-06-14,1,389.0,389.0,Returned,Refunded
+ORD-5302,CUST-1147,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-06-14,1,1349.0,1349.0,Completed,Paid
+ORD-5303,CUST-1010,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-06-14,1,799.0,799.0,Completed,Paid
+ORD-5304,CUST-1010,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-06-14,1,499.0,499.0,Completed,Paid
+ORD-5305,CUST-1075,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-06-14,1,1099.0,1099.0,Completed,Paid
+ORD-5306,CUST-1028,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-06-14,1,389.0,389.0,Completed,Paid
+ORD-5307,CUST-1140,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-06-14,1,549.0,549.0,Completed,Paid
+ORD-5308,CUST-1130,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-06-14,1,179.0,179.0,Completed,Paid
+ORD-5309,CUST-1085,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-06-14,1,799.0,799.0,Completed,Paid
+ORD-5310,CUST-1048,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-06-15,1,1799.0,1799.0,Completed,Paid
+ORD-5311,CUST-1146,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-06-15,1,79.0,79.0,Completed,Paid
+ORD-5312,CUST-1104,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-06-15,1,249.0,249.0,Completed,Paid
+ORD-5313,CUST-1025,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-06-15,3,799.0,2397.0,Completed,Paid
+ORD-5314,CUST-1064,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-06-15,1,1799.0,1799.0,Completed,Paid
+ORD-5315,CUST-1069,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-06-15,1,389.0,389.0,Completed,Paid
+ORD-5316,CUST-1003,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-06-15,1,299.0,299.0,Completed,Paid
+ORD-5317,CUST-1016,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-06-15,1,79.0,79.0,Completed,Paid
+ORD-5318,CUST-1104,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-06-15,1,79.0,79.0,Completed,Paid
+ORD-5319,CUST-1080,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-06-15,1,99.0,99.0,Completed,Paid
+ORD-5320,CUST-1076,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-06-15,1,69.0,69.0,Completed,Paid
+ORD-5321,CUST-1035,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-06-15,1,899.0,899.0,Completed,Paid
+ORD-5322,CUST-1156,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-06-15,1,69.0,69.0,Completed,Paid
+ORD-5323,CUST-1121,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-06-15,1,39.0,39.0,Completed,Paid
+ORD-5324,CUST-1056,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-06-15,1,39.0,39.0,Completed,Paid
+ORD-5325,CUST-1021,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-06-15,1,549.0,549.0,Completed,Paid
+ORD-5326,CUST-1145,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-06-16,1,849.0,849.0,Completed,Paid
+ORD-5327,CUST-1130,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-06-16,1,449.0,449.0,Completed,Paid
+ORD-5328,CUST-1084,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-06-16,1,549.0,549.0,Completed,Paid
+ORD-5329,CUST-1150,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-06-16,1,899.0,899.0,Completed,Paid
+ORD-5330,CUST-1015,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-06-16,1,179.0,179.0,Completed,Paid
+ORD-5331,CUST-1145,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-06-16,1,1099.0,1099.0,Completed,Paid
+ORD-5332,CUST-1079,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-06-16,1,45.0,45.0,Completed,Paid
+ORD-5333,CUST-1001,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-06-16,1,45.0,45.0,Returned,Refunded
+ORD-5334,CUST-1017,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-06-16,3,379.0,1137.0,Completed,Paid
+ORD-5335,CUST-1018,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-06-16,1,899.0,899.0,Completed,Paid
+ORD-5336,CUST-1035,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-06-16,1,39.0,39.0,Completed,Paid
+ORD-5337,CUST-1096,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-06-17,1,499.0,499.0,Completed,Paid
+ORD-5338,CUST-1097,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-06-17,1,499.0,499.0,Completed,Paid
+ORD-5339,CUST-1139,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-06-17,1,1199.0,1199.0,Completed,Paid
+ORD-5340,CUST-1046,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-06-17,1,379.0,379.0,Completed,Paid
+ORD-5341,CUST-1058,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-06-17,1,1799.0,1799.0,Completed,Paid
+ORD-5342,CUST-1119,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-06-17,1,79.0,79.0,Completed,Paid
+ORD-5343,CUST-1098,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-06-17,1,1349.0,1349.0,Completed,Paid
+ORD-5344,CUST-1071,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-06-17,2,449.0,898.0,Completed,Paid
+ORD-5345,CUST-1029,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-06-17,1,1099.0,1099.0,Completed,Paid
+ORD-5346,CUST-1005,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-06-17,1,1349.0,1349.0,Completed,Paid
+ORD-5347,CUST-1009,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-06-17,1,179.0,179.0,Completed,Paid
+ORD-5348,CUST-1013,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-06-17,1,1349.0,1349.0,Completed,Paid
+ORD-5349,CUST-1060,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-06-17,1,379.0,379.0,Completed,Paid
+ORD-5350,CUST-1015,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-06-17,1,1199.0,1199.0,Completed,Paid
+ORD-5351,CUST-1148,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-06-18,1,389.0,389.0,Completed,Paid
+ORD-5352,CUST-1083,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-06-18,1,1349.0,1349.0,Completed,Paid
+ORD-5353,CUST-1134,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-06-18,1,1349.0,1349.0,Completed,Paid
+ORD-5354,CUST-1143,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-06-18,2,69.0,138.0,Completed,Paid
+ORD-5355,CUST-1110,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-06-18,1,379.0,379.0,Completed,Paid
+ORD-5356,CUST-1098,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-06-18,1,549.0,549.0,Completed,Paid
+ORD-5357,CUST-1039,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-06-18,1,149.0,149.0,Completed,Paid
+ORD-5358,CUST-1122,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-06-18,2,1349.0,2698.0,Completed,Paid
+ORD-5359,CUST-1037,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-06-18,2,179.0,358.0,Completed,Paid
+ORD-5360,CUST-1107,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-06-18,1,379.0,379.0,Completed,Paid
+ORD-5361,CUST-1066,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-06-18,1,449.0,449.0,Returned,Refunded
+ORD-5362,CUST-1024,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-06-18,1,379.0,379.0,Completed,Paid
+ORD-5363,CUST-1069,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-06-18,1,499.0,499.0,Completed,Paid
+ORD-5364,CUST-1019,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-06-18,1,449.0,449.0,Completed,Paid
+ORD-5365,CUST-1144,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-06-18,1,449.0,449.0,Completed,Paid
+ORD-5366,CUST-1086,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-06-18,2,149.0,298.0,Cancelled,Refunded
+ORD-5367,CUST-1031,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-06-19,3,45.0,135.0,Completed,Paid
+ORD-5368,CUST-1063,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-06-19,1,99.0,99.0,Completed,Paid
+ORD-5369,CUST-1062,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-06-19,1,379.0,379.0,Completed,Paid
+ORD-5370,CUST-1120,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-06-19,1,379.0,379.0,Completed,Paid
+ORD-5371,CUST-1093,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-06-19,2,549.0,1098.0,Completed,Paid
+ORD-5372,CUST-1121,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-06-19,2,39.0,78.0,Completed,Paid
+ORD-5373,CUST-1095,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-06-19,1,389.0,389.0,Completed,Paid
+ORD-5374,CUST-1057,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-06-19,1,45.0,45.0,Completed,Paid
+ORD-5375,CUST-1150,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-06-19,1,69.0,69.0,Completed,Paid
+ORD-5376,CUST-1051,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-06-19,1,389.0,389.0,Completed,Paid
+ORD-5377,CUST-1063,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-06-19,1,899.0,899.0,Completed,Paid
+ORD-5378,CUST-1087,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-06-19,1,299.0,299.0,Completed,Paid
+ORD-5379,CUST-1126,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-06-20,1,179.0,179.0,Completed,Paid
+ORD-5380,CUST-1044,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-06-20,1,1199.0,1199.0,Completed,Paid
+ORD-5381,CUST-1139,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-06-20,2,129.0,258.0,Completed,Paid
+ORD-5382,CUST-1020,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-06-20,1,79.0,79.0,Cancelled,Refunded
+ORD-5383,CUST-1036,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-06-20,1,129.0,129.0,Completed,Paid
+ORD-5384,CUST-1003,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-06-20,1,449.0,449.0,Completed,Paid
+ORD-5385,CUST-1159,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-06-20,1,129.0,129.0,Completed,Paid
+ORD-5386,CUST-1124,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-06-20,1,79.0,79.0,Cancelled,Refunded
+ORD-5387,CUST-1142,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-06-20,1,249.0,249.0,Completed,Paid
+ORD-5388,CUST-1071,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-06-20,3,379.0,1137.0,Cancelled,Refunded
+ORD-5389,CUST-1111,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-06-20,1,799.0,799.0,Completed,Paid
+ORD-5390,CUST-1039,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-06-20,1,1349.0,1349.0,Completed,Paid
+ORD-5391,CUST-1091,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-06-20,1,299.0,299.0,Returned,Refunded
+ORD-5392,CUST-1063,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-06-20,1,99.0,99.0,Completed,Paid
+ORD-5393,CUST-1021,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-06-20,3,129.0,387.0,Completed,Paid
+ORD-5394,CUST-1009,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-06-20,1,1399.0,1399.0,Completed,Paid
+ORD-5395,CUST-1015,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-06-21,1,129.0,129.0,Completed,Paid
+ORD-5396,CUST-1128,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-06-21,1,249.0,249.0,Completed,Paid
+ORD-5397,CUST-1025,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-06-21,2,549.0,1098.0,Completed,Paid
+ORD-5398,CUST-1146,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-06-21,1,899.0,899.0,Completed,Paid
+ORD-5399,CUST-1072,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-06-21,1,379.0,379.0,Cancelled,Refunded
+ORD-5400,CUST-1081,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-06-21,3,1799.0,5397.0,Completed,Paid
+ORD-5401,CUST-1102,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-06-21,1,1399.0,1399.0,Completed,Paid
+ORD-5402,CUST-1146,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-06-21,1,499.0,499.0,Completed,Paid
+ORD-5403,CUST-1099,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-06-21,1,39.0,39.0,Completed,Paid
+ORD-5404,CUST-1021,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-06-21,1,549.0,549.0,Completed,Paid
+ORD-5405,CUST-1026,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-06-21,1,249.0,249.0,Returned,Refunded
+ORD-5406,CUST-1153,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-06-21,3,499.0,1497.0,Completed,Paid
+ORD-5407,CUST-1070,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-06-21,1,179.0,179.0,Completed,Paid
+ORD-5408,CUST-1097,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-06-21,1,249.0,249.0,Completed,Paid
+ORD-5409,CUST-1022,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-06-22,1,39.0,39.0,Completed,Paid
+ORD-5410,CUST-1019,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-06-22,1,1399.0,1399.0,Completed,Paid
+ORD-5411,CUST-1040,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-06-22,1,45.0,45.0,Completed,Paid
+ORD-5412,CUST-1024,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-06-22,2,1799.0,3598.0,Completed,Paid
+ORD-5413,CUST-1070,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-06-22,1,849.0,849.0,Completed,Paid
+ORD-5414,CUST-1115,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-06-22,1,379.0,379.0,Completed,Paid
+ORD-5415,CUST-1007,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-06-22,1,1399.0,1399.0,Completed,Paid
+ORD-5416,CUST-1154,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-06-22,2,389.0,778.0,Cancelled,Refunded
+ORD-5417,CUST-1106,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-06-22,1,499.0,499.0,Completed,Paid
+ORD-5418,CUST-1144,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-06-22,1,1349.0,1349.0,Completed,Paid
+ORD-5419,CUST-1098,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-06-22,1,799.0,799.0,Completed,Paid
+ORD-5420,CUST-1127,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-06-22,1,1199.0,1199.0,Completed,Paid
+ORD-5421,CUST-1108,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-06-22,1,149.0,149.0,Returned,Refunded
+ORD-5422,CUST-1127,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-06-22,1,59.0,59.0,Completed,Paid
+ORD-5423,CUST-1078,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-06-23,2,1799.0,3598.0,Completed,Paid
+ORD-5424,CUST-1159,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-06-23,1,499.0,499.0,Completed,Paid
+ORD-5425,CUST-1086,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-06-23,1,249.0,249.0,Completed,Paid
+ORD-5426,CUST-1153,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-06-23,1,1199.0,1199.0,Completed,Paid
+ORD-5427,CUST-1052,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-06-23,1,899.0,899.0,Completed,Paid
+ORD-5428,CUST-1082,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-06-23,1,149.0,149.0,Completed,Paid
+ORD-5429,CUST-1148,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-06-23,1,1349.0,1349.0,Completed,Paid
+ORD-5430,CUST-1101,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-06-23,1,69.0,69.0,Completed,Paid
+ORD-5431,CUST-1152,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-06-23,1,379.0,379.0,Completed,Paid
+ORD-5432,CUST-1007,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-06-23,1,45.0,45.0,Completed,Paid
+ORD-5433,CUST-1113,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-06-23,2,149.0,298.0,Returned,Refunded
+ORD-5434,CUST-1105,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-06-23,1,79.0,79.0,Completed,Paid
+ORD-5435,CUST-1065,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-06-24,1,79.0,79.0,Completed,Paid
+ORD-5436,CUST-1097,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-06-24,1,1399.0,1399.0,Completed,Paid
+ORD-5437,CUST-1150,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-06-24,1,499.0,499.0,Completed,Paid
+ORD-5438,CUST-1108,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-06-24,1,379.0,379.0,Completed,Paid
+ORD-5439,CUST-1138,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-06-24,1,59.0,59.0,Returned,Refunded
+ORD-5440,CUST-1091,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-06-24,1,799.0,799.0,Returned,Refunded
+ORD-5441,CUST-1103,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-06-24,1,39.0,39.0,Completed,Paid
+ORD-5442,CUST-1028,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-06-24,1,1799.0,1799.0,Completed,Paid
+ORD-5443,CUST-1133,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-06-24,1,379.0,379.0,Completed,Paid
+ORD-5444,CUST-1115,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-06-24,1,69.0,69.0,Completed,Paid
+ORD-5445,CUST-1151,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-06-24,1,99.0,99.0,Completed,Paid
+ORD-5446,CUST-1007,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-06-24,1,899.0,899.0,Completed,Paid
+ORD-5447,CUST-1030,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-06-25,1,45.0,45.0,Completed,Paid
+ORD-5448,CUST-1117,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-06-25,1,449.0,449.0,Completed,Paid
+ORD-5449,CUST-1025,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-06-25,1,179.0,179.0,Completed,Paid
+ORD-5450,CUST-1018,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-06-25,1,149.0,149.0,Completed,Paid
+ORD-5451,CUST-1006,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-06-25,1,389.0,389.0,Completed,Paid
+ORD-5452,CUST-1043,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-06-25,1,45.0,45.0,Completed,Paid
+ORD-5453,CUST-1041,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-06-25,1,389.0,389.0,Completed,Paid
+ORD-5454,CUST-1060,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-06-25,1,499.0,499.0,Completed,Paid
+ORD-5455,CUST-1111,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-06-25,1,499.0,499.0,Completed,Paid
+ORD-5456,CUST-1051,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-06-25,1,179.0,179.0,Completed,Paid
+ORD-5457,CUST-1055,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-06-25,1,449.0,449.0,Completed,Paid
+ORD-5458,CUST-1148,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-06-26,1,849.0,849.0,Completed,Paid
+ORD-5459,CUST-1094,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-06-26,1,389.0,389.0,Completed,Paid
+ORD-5460,CUST-1126,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-06-26,3,549.0,1647.0,Completed,Paid
+ORD-5461,CUST-1100,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-06-26,1,59.0,59.0,Completed,Paid
+ORD-5462,CUST-1091,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-06-26,1,179.0,179.0,Completed,Paid
+ORD-5463,CUST-1077,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-06-26,1,59.0,59.0,Completed,Paid
+ORD-5464,CUST-1081,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-06-26,1,849.0,849.0,Completed,Paid
+ORD-5465,CUST-1096,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-06-26,1,99.0,99.0,Completed,Paid
+ORD-5466,CUST-1153,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-06-26,1,1199.0,1199.0,Completed,Paid
+ORD-5467,CUST-1125,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-06-26,1,129.0,129.0,Completed,Paid
+ORD-5468,CUST-1045,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-06-26,1,379.0,379.0,Completed,Paid
+ORD-5469,CUST-1081,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-06-27,1,179.0,179.0,Completed,Paid
+ORD-5470,CUST-1003,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-06-27,1,899.0,899.0,Completed,Paid
+ORD-5471,CUST-1144,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-06-27,1,549.0,549.0,Completed,Paid
+ORD-5472,CUST-1126,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-06-27,1,249.0,249.0,Completed,Paid
+ORD-5473,CUST-1043,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-06-27,1,1399.0,1399.0,Completed,Paid
+ORD-5474,CUST-1057,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-06-27,1,149.0,149.0,Completed,Paid
+ORD-5475,CUST-1074,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-06-27,1,799.0,799.0,Completed,Paid
+ORD-5476,CUST-1127,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-06-27,1,379.0,379.0,Completed,Paid
+ORD-5477,CUST-1069,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-06-27,1,39.0,39.0,Completed,Paid
+ORD-5478,CUST-1139,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-06-27,1,39.0,39.0,Completed,Paid
+ORD-5479,CUST-1140,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-06-27,3,449.0,1347.0,Completed,Paid
+ORD-5480,CUST-1064,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-06-27,2,149.0,298.0,Cancelled,Refunded
+ORD-5481,CUST-1090,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-06-28,1,1399.0,1399.0,Completed,Paid
+ORD-5482,CUST-1061,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-06-28,1,449.0,449.0,Completed,Paid
+ORD-5483,CUST-1090,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-06-28,1,99.0,99.0,Completed,Paid
+ORD-5484,CUST-1158,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-06-28,1,1199.0,1199.0,Completed,Paid
+ORD-5485,CUST-1016,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-06-28,1,69.0,69.0,Completed,Paid
+ORD-5486,CUST-1138,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-06-28,1,799.0,799.0,Completed,Paid
+ORD-5487,CUST-1075,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-06-28,1,69.0,69.0,Completed,Paid
+ORD-5488,CUST-1025,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-06-28,3,1199.0,3597.0,Completed,Paid
+ORD-5489,CUST-1016,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-06-28,2,299.0,598.0,Returned,Refunded
+ORD-5490,CUST-1038,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-06-28,1,99.0,99.0,Completed,Paid
+ORD-5491,CUST-1101,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-06-28,1,899.0,899.0,Completed,Paid
+ORD-5492,CUST-1107,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-06-28,1,499.0,499.0,Completed,Paid
+ORD-5493,CUST-1024,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-06-28,1,499.0,499.0,Completed,Paid
+ORD-5494,CUST-1117,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-06-29,1,899.0,899.0,Cancelled,Refunded
+ORD-5495,CUST-1024,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-06-29,3,45.0,135.0,Completed,Paid
+ORD-5496,CUST-1092,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-06-29,1,1399.0,1399.0,Completed,Paid
+ORD-5497,CUST-1110,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-06-29,1,449.0,449.0,Completed,Paid
+ORD-5498,CUST-1073,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-06-29,1,389.0,389.0,Completed,Paid
+ORD-5499,CUST-1125,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-06-29,2,389.0,778.0,Completed,Paid
+ORD-5500,CUST-1012,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-06-29,1,849.0,849.0,Completed,Paid
+ORD-5501,CUST-1005,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-06-29,2,849.0,1698.0,Completed,Paid
+ORD-5502,CUST-1117,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-06-29,3,1799.0,5397.0,Completed,Paid
+ORD-5503,CUST-1034,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-06-29,1,129.0,129.0,Completed,Paid
+ORD-5504,CUST-1071,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-06-29,1,1399.0,1399.0,Completed,Paid
+ORD-5505,CUST-1096,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-06-29,2,79.0,158.0,Completed,Paid
+ORD-5506,CUST-1102,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-06-29,1,129.0,129.0,Completed,Paid
+ORD-5507,CUST-1110,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-06-30,1,129.0,129.0,Completed,Paid
+ORD-5508,CUST-1055,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-06-30,1,899.0,899.0,Completed,Paid
+ORD-5509,CUST-1133,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-06-30,1,79.0,79.0,Cancelled,Refunded
+ORD-5510,CUST-1088,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-06-30,3,849.0,2547.0,Completed,Paid
+ORD-5511,CUST-1034,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-06-30,1,899.0,899.0,Completed,Paid
+ORD-5512,CUST-1027,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-06-30,1,849.0,849.0,Completed,Paid
+ORD-5513,CUST-1036,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-06-30,1,499.0,499.0,Completed,Paid
+ORD-5514,CUST-1035,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-06-30,3,129.0,387.0,Completed,Paid
+ORD-5515,CUST-1136,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-06-30,1,69.0,69.0,Completed,Paid
+ORD-5516,CUST-1113,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-06-30,1,69.0,69.0,Completed,Paid
+ORD-5517,CUST-1039,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-06-30,1,249.0,249.0,Completed,Paid
+ORD-5518,CUST-1056,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-06-30,2,1399.0,2798.0,Completed,Paid
+ORD-5519,CUST-1151,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-07-01,1,45.0,45.0,Completed,Paid
+ORD-5520,CUST-1081,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-07-01,1,1199.0,1199.0,Completed,Paid
+ORD-5521,CUST-1064,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-07-01,1,379.0,379.0,Completed,Paid
+ORD-5522,CUST-1073,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-07-01,2,39.0,78.0,Cancelled,Refunded
+ORD-5523,CUST-1078,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-07-01,1,449.0,449.0,Completed,Paid
+ORD-5524,CUST-1101,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-07-01,1,149.0,149.0,Completed,Paid
+ORD-5525,CUST-1062,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-07-01,1,899.0,899.0,Completed,Paid
+ORD-5526,CUST-1153,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-07-01,1,1399.0,1399.0,Completed,Paid
+ORD-5527,CUST-1093,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-07-01,1,389.0,389.0,Completed,Paid
+ORD-5528,CUST-1146,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-07-01,1,249.0,249.0,Completed,Paid
+ORD-5529,CUST-1121,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-07-01,1,39.0,39.0,Completed,Paid
+ORD-5530,CUST-1068,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-07-02,1,449.0,449.0,Returned,Refunded
+ORD-5531,CUST-1074,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-07-02,1,129.0,129.0,Completed,Paid
+ORD-5532,CUST-1109,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-07-02,1,99.0,99.0,Completed,Paid
+ORD-5533,CUST-1138,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-07-02,1,59.0,59.0,Returned,Refunded
+ORD-5534,CUST-1053,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-07-02,1,1199.0,1199.0,Completed,Paid
+ORD-5535,CUST-1017,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-07-02,1,149.0,149.0,Completed,Paid
+ORD-5536,CUST-1062,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-07-02,1,1099.0,1099.0,Completed,Paid
+ORD-5537,CUST-1030,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-07-02,1,179.0,179.0,Returned,Refunded
+ORD-5538,CUST-1045,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-07-02,1,849.0,849.0,Completed,Paid
+ORD-5539,CUST-1003,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-07-02,1,799.0,799.0,Completed,Paid
+ORD-5540,CUST-1133,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-07-02,1,45.0,45.0,Completed,Paid
+ORD-5541,CUST-1069,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-07-03,2,45.0,90.0,Completed,Paid
+ORD-5542,CUST-1008,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-07-03,1,389.0,389.0,Completed,Paid
+ORD-5543,CUST-1017,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-07-03,1,299.0,299.0,Completed,Paid
+ORD-5544,CUST-1020,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-07-03,1,899.0,899.0,Completed,Paid
+ORD-5545,CUST-1128,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-07-03,1,69.0,69.0,Completed,Paid
+ORD-5546,CUST-1027,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-07-03,1,69.0,69.0,Completed,Paid
+ORD-5547,CUST-1131,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-07-03,1,1799.0,1799.0,Completed,Paid
+ORD-5548,CUST-1063,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-07-03,1,1099.0,1099.0,Completed,Paid
+ORD-5549,CUST-1039,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-07-03,2,799.0,1598.0,Completed,Paid
+ORD-5550,CUST-1142,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-07-03,1,99.0,99.0,Completed,Paid
+ORD-5551,CUST-1083,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-07-03,1,1349.0,1349.0,Completed,Paid
+ORD-5552,CUST-1070,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-07-03,1,1399.0,1399.0,Completed,Paid
+ORD-5553,CUST-1014,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-07-03,1,799.0,799.0,Completed,Paid
+ORD-5554,CUST-1012,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-07-03,1,499.0,499.0,Completed,Paid
+ORD-5555,CUST-1073,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-07-03,2,39.0,78.0,Completed,Paid
+ORD-5556,CUST-1142,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-07-03,1,179.0,179.0,Completed,Paid
+ORD-5557,CUST-1078,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-07-04,1,45.0,45.0,Completed,Paid
+ORD-5558,CUST-1152,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-07-04,3,899.0,2697.0,Completed,Paid
+ORD-5559,CUST-1140,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-07-04,1,39.0,39.0,Completed,Paid
+ORD-5560,CUST-1105,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-07-04,1,1799.0,1799.0,Completed,Paid
+ORD-5561,CUST-1003,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-07-04,1,389.0,389.0,Completed,Paid
+ORD-5562,CUST-1079,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-07-04,1,849.0,849.0,Completed,Paid
+ORD-5563,CUST-1108,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-07-04,3,899.0,2697.0,Completed,Paid
+ORD-5564,CUST-1037,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-07-04,1,99.0,99.0,Returned,Refunded
+ORD-5565,CUST-1134,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-07-04,1,249.0,249.0,Completed,Paid
+ORD-5566,CUST-1022,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-07-04,1,69.0,69.0,Completed,Paid
+ORD-5567,CUST-1101,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-07-04,1,1399.0,1399.0,Returned,Refunded
+ORD-5568,CUST-1061,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-07-04,1,149.0,149.0,Completed,Paid
+ORD-5569,CUST-1101,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-07-04,2,99.0,198.0,Completed,Paid
+ORD-5570,CUST-1116,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-07-04,1,299.0,299.0,Completed,Paid
+ORD-5571,CUST-1035,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-07-04,1,39.0,39.0,Completed,Paid
+ORD-5572,CUST-1043,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-07-05,1,179.0,179.0,Completed,Paid
+ORD-5573,CUST-1138,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-07-05,3,69.0,207.0,Completed,Paid
+ORD-5574,CUST-1079,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-07-05,1,179.0,179.0,Completed,Paid
+ORD-5575,CUST-1041,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-07-05,1,79.0,79.0,Completed,Paid
+ORD-5576,CUST-1155,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-07-05,1,1099.0,1099.0,Completed,Paid
+ORD-5577,CUST-1038,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-07-05,1,1399.0,1399.0,Completed,Paid
+ORD-5578,CUST-1102,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-07-05,1,549.0,549.0,Completed,Paid
+ORD-5579,CUST-1045,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-07-05,2,1799.0,3598.0,Completed,Paid
+ORD-5580,CUST-1143,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-07-05,1,45.0,45.0,Completed,Paid
+ORD-5581,CUST-1027,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-07-05,1,1199.0,1199.0,Returned,Refunded
+ORD-5582,CUST-1034,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-07-05,2,449.0,898.0,Completed,Paid
+ORD-5583,CUST-1022,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-07-06,1,69.0,69.0,Completed,Paid
+ORD-5584,CUST-1020,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-07-06,3,1799.0,5397.0,Completed,Paid
+ORD-5585,CUST-1114,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-07-06,1,1199.0,1199.0,Completed,Paid
+ORD-5586,CUST-1085,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-07-06,1,849.0,849.0,Completed,Paid
+ORD-5587,CUST-1044,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-07-06,1,69.0,69.0,Completed,Paid
+ORD-5588,CUST-1128,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-07-06,1,1799.0,1799.0,Completed,Paid
+ORD-5589,CUST-1091,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-07-06,2,449.0,898.0,Completed,Paid
+ORD-5590,CUST-1115,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-07-06,1,1199.0,1199.0,Completed,Paid
+ORD-5591,CUST-1063,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-07-06,1,129.0,129.0,Completed,Paid
+ORD-5592,CUST-1141,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-07-06,1,899.0,899.0,Completed,Paid
+ORD-5593,CUST-1036,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-07-06,1,249.0,249.0,Completed,Paid
+ORD-5594,CUST-1135,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-07-06,1,1349.0,1349.0,Completed,Paid
+ORD-5595,CUST-1005,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-07-06,1,499.0,499.0,Completed,Paid
+ORD-5596,CUST-1140,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-07-06,1,899.0,899.0,Completed,Paid
+ORD-5597,CUST-1083,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-07-06,1,499.0,499.0,Cancelled,Refunded
+ORD-5598,CUST-1153,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-07-06,1,1349.0,1349.0,Completed,Paid
+ORD-5599,CUST-1015,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-07-07,1,899.0,899.0,Completed,Paid
+ORD-5600,CUST-1060,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-07-07,1,799.0,799.0,Completed,Paid
+ORD-5601,CUST-1069,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-07-07,1,379.0,379.0,Completed,Paid
+ORD-5602,CUST-1015,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-07-07,3,39.0,117.0,Completed,Paid
+ORD-5603,CUST-1100,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-07-07,2,69.0,138.0,Completed,Paid
+ORD-5604,CUST-1045,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-07-07,1,799.0,799.0,Completed,Paid
+ORD-5605,CUST-1092,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-07-07,1,69.0,69.0,Completed,Paid
+ORD-5606,CUST-1146,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-07-07,1,69.0,69.0,Completed,Paid
+ORD-5607,CUST-1127,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-07-07,1,379.0,379.0,Completed,Paid
+ORD-5608,CUST-1024,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-07-07,1,1099.0,1099.0,Completed,Paid
+ORD-5609,CUST-1135,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-07-07,1,899.0,899.0,Completed,Paid
+ORD-5610,CUST-1052,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-07-07,1,1199.0,1199.0,Completed,Paid
+ORD-5611,CUST-1083,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-07-07,1,1099.0,1099.0,Completed,Paid
+ORD-5612,CUST-1029,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-07-08,2,549.0,1098.0,Completed,Paid
+ORD-5613,CUST-1096,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-07-08,2,99.0,198.0,Completed,Paid
+ORD-5614,CUST-1026,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-07-08,1,389.0,389.0,Completed,Paid
+ORD-5615,CUST-1041,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-07-08,2,45.0,90.0,Completed,Paid
+ORD-5616,CUST-1125,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-07-08,1,129.0,129.0,Completed,Paid
+ORD-5617,CUST-1144,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-07-08,2,99.0,198.0,Completed,Paid
+ORD-5618,CUST-1092,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-07-08,1,1349.0,1349.0,Completed,Paid
+ORD-5619,CUST-1097,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-07-08,1,149.0,149.0,Completed,Paid
+ORD-5620,CUST-1046,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-07-08,1,45.0,45.0,Completed,Paid
+ORD-5621,CUST-1147,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-07-08,2,499.0,998.0,Completed,Paid
+ORD-5622,CUST-1146,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-07-08,1,1099.0,1099.0,Completed,Paid
+ORD-5623,CUST-1157,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-07-08,1,1349.0,1349.0,Completed,Paid
+ORD-5624,CUST-1037,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-07-09,1,389.0,389.0,Completed,Paid
+ORD-5625,CUST-1082,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-07-09,1,799.0,799.0,Completed,Paid
+ORD-5626,CUST-1086,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-07-09,1,179.0,179.0,Completed,Paid
+ORD-5627,CUST-1018,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-07-09,1,69.0,69.0,Completed,Paid
+ORD-5628,CUST-1001,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-07-09,1,1099.0,1099.0,Completed,Paid
+ORD-5629,CUST-1043,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-07-09,1,249.0,249.0,Completed,Paid
+ORD-5630,CUST-1140,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-07-09,1,499.0,499.0,Completed,Paid
+ORD-5631,CUST-1148,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-07-09,1,129.0,129.0,Completed,Paid
+ORD-5632,CUST-1116,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-07-09,1,1399.0,1399.0,Cancelled,Refunded
+ORD-5633,CUST-1006,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-07-09,1,389.0,389.0,Completed,Paid
+ORD-5634,CUST-1088,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-07-09,2,799.0,1598.0,Completed,Paid
+ORD-5635,CUST-1020,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-07-09,2,379.0,758.0,Completed,Paid
+ORD-5636,CUST-1087,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-07-09,3,59.0,177.0,Completed,Paid
+ORD-5637,CUST-1008,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-07-09,2,249.0,498.0,Completed,Paid
+ORD-5638,CUST-1041,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-07-10,1,1099.0,1099.0,Completed,Paid
+ORD-5639,CUST-1049,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-07-10,1,249.0,249.0,Completed,Paid
+ORD-5640,CUST-1139,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-07-10,1,299.0,299.0,Completed,Paid
+ORD-5641,CUST-1025,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-07-10,1,1099.0,1099.0,Completed,Paid
+ORD-5642,CUST-1126,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-07-10,1,1199.0,1199.0,Cancelled,Refunded
+ORD-5643,CUST-1023,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-07-10,2,149.0,298.0,Completed,Paid
+ORD-5644,CUST-1123,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-07-10,1,449.0,449.0,Completed,Paid
+ORD-5645,CUST-1075,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-07-10,1,1399.0,1399.0,Completed,Paid
+ORD-5646,CUST-1102,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-07-10,1,899.0,899.0,Completed,Paid
+ORD-5647,CUST-1024,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-07-10,1,129.0,129.0,Completed,Paid
+ORD-5648,CUST-1098,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-07-10,1,69.0,69.0,Returned,Refunded
+ORD-5649,CUST-1058,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-07-10,1,299.0,299.0,Returned,Refunded
+ORD-5650,CUST-1022,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-07-10,1,79.0,79.0,Completed,Paid
+ORD-5651,CUST-1151,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-07-10,1,1349.0,1349.0,Completed,Paid
+ORD-5652,CUST-1108,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-07-11,1,379.0,379.0,Completed,Paid
+ORD-5653,CUST-1147,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-07-11,1,1349.0,1349.0,Returned,Refunded
+ORD-5654,CUST-1129,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-07-11,2,69.0,138.0,Completed,Paid
+ORD-5655,CUST-1159,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-07-11,1,1199.0,1199.0,Completed,Paid
+ORD-5656,CUST-1045,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-07-11,3,799.0,2397.0,Completed,Paid
+ORD-5657,CUST-1033,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-07-11,1,1099.0,1099.0,Completed,Paid
+ORD-5658,CUST-1112,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-07-11,3,449.0,1347.0,Completed,Paid
+ORD-5659,CUST-1153,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-07-11,1,299.0,299.0,Completed,Paid
+ORD-5660,CUST-1018,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-07-11,1,1399.0,1399.0,Completed,Paid
+ORD-5661,CUST-1084,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-07-11,1,299.0,299.0,Completed,Paid
+ORD-5662,CUST-1004,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-07-11,1,99.0,99.0,Completed,Paid
+ORD-5663,CUST-1108,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-07-11,1,849.0,849.0,Completed,Paid
+ORD-5664,CUST-1151,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-07-11,1,69.0,69.0,Completed,Paid
+ORD-5665,CUST-1028,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-07-11,1,69.0,69.0,Completed,Paid
+ORD-5666,CUST-1138,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-07-11,2,69.0,138.0,Completed,Paid
+ORD-5667,CUST-1125,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-07-12,1,69.0,69.0,Cancelled,Refunded
+ORD-5668,CUST-1071,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-07-12,1,499.0,499.0,Completed,Paid
+ORD-5669,CUST-1103,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-07-12,1,1099.0,1099.0,Completed,Paid
+ORD-5670,CUST-1061,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-07-12,1,1099.0,1099.0,Completed,Paid
+ORD-5671,CUST-1096,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-07-12,1,1799.0,1799.0,Completed,Paid
+ORD-5672,CUST-1080,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-07-12,2,299.0,598.0,Completed,Paid
+ORD-5673,CUST-1026,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-07-12,1,1349.0,1349.0,Completed,Paid
+ORD-5674,CUST-1114,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-07-12,2,39.0,78.0,Completed,Paid
+ORD-5675,CUST-1107,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-07-12,1,59.0,59.0,Completed,Paid
+ORD-5676,CUST-1055,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-07-12,1,249.0,249.0,Completed,Paid
+ORD-5677,CUST-1096,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-07-12,1,1099.0,1099.0,Completed,Paid
+ORD-5678,CUST-1080,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-07-12,1,99.0,99.0,Completed,Paid
+ORD-5679,CUST-1135,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-07-12,1,69.0,69.0,Completed,Paid
+ORD-5680,CUST-1052,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-07-12,1,1099.0,1099.0,Completed,Paid
+ORD-5681,CUST-1093,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-07-12,1,99.0,99.0,Completed,Paid
+ORD-5682,CUST-1119,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-07-12,1,549.0,549.0,Completed,Paid
+ORD-5683,CUST-1008,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-07-13,1,1349.0,1349.0,Completed,Paid
+ORD-5684,CUST-1046,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-07-13,1,899.0,899.0,Completed,Paid
+ORD-5685,CUST-1042,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-07-13,1,299.0,299.0,Completed,Paid
+ORD-5686,CUST-1073,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-07-13,1,1799.0,1799.0,Completed,Paid
+ORD-5687,CUST-1147,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-07-13,3,39.0,117.0,Completed,Paid
+ORD-5688,CUST-1058,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-07-13,1,79.0,79.0,Completed,Paid
+ORD-5689,CUST-1132,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-07-13,2,1799.0,3598.0,Completed,Paid
+ORD-5690,CUST-1003,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-07-13,2,899.0,1798.0,Completed,Paid
+ORD-5691,CUST-1154,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-07-13,1,1799.0,1799.0,Completed,Paid
+ORD-5692,CUST-1079,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-07-13,3,99.0,297.0,Completed,Paid
+ORD-5693,CUST-1109,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-07-13,2,499.0,998.0,Completed,Paid
+ORD-5694,CUST-1056,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-07-13,1,179.0,179.0,Completed,Paid
+ORD-5695,CUST-1160,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-07-13,1,499.0,499.0,Cancelled,Refunded
+ORD-5696,CUST-1096,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-07-13,1,379.0,379.0,Completed,Paid
+ORD-5697,CUST-1077,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-07-13,1,79.0,79.0,Returned,Refunded
+ORD-5698,CUST-1071,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-07-13,1,299.0,299.0,Completed,Paid
+ORD-5699,CUST-1077,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-07-14,1,449.0,449.0,Completed,Paid
+ORD-5700,CUST-1015,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-07-14,1,59.0,59.0,Completed,Paid
+ORD-5701,CUST-1036,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-07-14,1,45.0,45.0,Completed,Paid
+ORD-5702,CUST-1076,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-07-14,2,299.0,598.0,Completed,Paid
+ORD-5703,CUST-1010,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-07-14,1,69.0,69.0,Completed,Paid
+ORD-5704,CUST-1049,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-07-14,1,389.0,389.0,Completed,Paid
+ORD-5705,CUST-1137,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-07-14,1,129.0,129.0,Completed,Paid
+ORD-5706,CUST-1092,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-07-14,1,549.0,549.0,Completed,Paid
+ORD-5707,CUST-1143,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-07-14,1,799.0,799.0,Completed,Paid
+ORD-5708,CUST-1067,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-07-14,1,45.0,45.0,Completed,Paid
+ORD-5709,CUST-1047,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-07-14,2,79.0,158.0,Completed,Paid
+ORD-5710,CUST-1057,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-07-14,1,69.0,69.0,Completed,Paid
+ORD-5711,CUST-1108,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-07-14,1,389.0,389.0,Completed,Paid
+ORD-5712,CUST-1119,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-07-14,1,849.0,849.0,Completed,Paid
+ORD-5713,CUST-1150,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-07-14,2,69.0,138.0,Returned,Refunded
+ORD-5714,CUST-1098,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-07-14,1,549.0,549.0,Returned,Refunded
+ORD-5715,CUST-1088,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-07-15,3,249.0,747.0,Completed,Paid
+ORD-5716,CUST-1118,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-07-15,1,1199.0,1199.0,Completed,Paid
+ORD-5717,CUST-1021,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-07-15,1,899.0,899.0,Completed,Paid
+ORD-5718,CUST-1081,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-07-15,1,129.0,129.0,Completed,Paid
+ORD-5719,CUST-1054,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-07-15,1,39.0,39.0,Completed,Paid
+ORD-5720,CUST-1041,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-07-15,1,899.0,899.0,Completed,Paid
+ORD-5721,CUST-1034,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-07-15,1,59.0,59.0,Completed,Paid
+ORD-5722,CUST-1110,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-07-15,1,899.0,899.0,Cancelled,Refunded
+ORD-5723,CUST-1052,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-07-15,1,45.0,45.0,Cancelled,Refunded
+ORD-5724,CUST-1083,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-07-15,2,39.0,78.0,Completed,Paid
+ORD-5725,CUST-1002,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-07-15,1,129.0,129.0,Completed,Paid
+ORD-5726,CUST-1089,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-07-15,1,149.0,149.0,Completed,Paid
+ORD-5727,CUST-1079,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-07-16,1,799.0,799.0,Returned,Refunded
+ORD-5728,CUST-1134,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-07-16,1,59.0,59.0,Completed,Paid
+ORD-5729,CUST-1035,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-07-16,3,389.0,1167.0,Completed,Paid
+ORD-5730,CUST-1049,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-07-16,2,799.0,1598.0,Completed,Paid
+ORD-5731,CUST-1104,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-07-16,1,1799.0,1799.0,Completed,Paid
+ORD-5732,CUST-1034,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-07-16,1,449.0,449.0,Completed,Paid
+ORD-5733,CUST-1044,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-07-16,1,849.0,849.0,Completed,Paid
+ORD-5734,CUST-1010,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-07-16,2,499.0,998.0,Completed,Paid
+ORD-5735,CUST-1137,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-07-16,1,59.0,59.0,Completed,Paid
+ORD-5736,CUST-1028,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-07-16,2,129.0,258.0,Returned,Refunded
+ORD-5737,CUST-1098,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-07-16,1,849.0,849.0,Completed,Paid
+ORD-5738,CUST-1040,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-07-16,1,449.0,449.0,Completed,Paid
+ORD-5739,CUST-1078,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-07-16,1,249.0,249.0,Completed,Paid
+ORD-5740,CUST-1070,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-07-16,1,59.0,59.0,Completed,Paid
+ORD-5741,CUST-1027,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-07-16,1,549.0,549.0,Completed,Paid
+ORD-5742,CUST-1028,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-07-17,1,899.0,899.0,Completed,Paid
+ORD-5743,CUST-1068,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-07-17,3,549.0,1647.0,Completed,Paid
+ORD-5744,CUST-1105,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-07-17,1,149.0,149.0,Completed,Paid
+ORD-5745,CUST-1054,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-07-17,2,99.0,198.0,Completed,Paid
+ORD-5746,CUST-1001,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-07-17,1,1799.0,1799.0,Completed,Paid
+ORD-5747,CUST-1147,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-07-17,1,79.0,79.0,Completed,Paid
+ORD-5748,CUST-1131,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-07-17,1,1399.0,1399.0,Completed,Paid
+ORD-5749,CUST-1066,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-07-17,1,129.0,129.0,Completed,Paid
+ORD-5750,CUST-1076,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-07-17,1,299.0,299.0,Returned,Refunded
+ORD-5751,CUST-1093,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-07-17,1,79.0,79.0,Completed,Paid
+ORD-5752,CUST-1025,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-07-17,2,39.0,78.0,Cancelled,Refunded
+ORD-5753,CUST-1044,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-07-18,1,389.0,389.0,Completed,Paid
+ORD-5754,CUST-1160,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-07-18,2,299.0,598.0,Returned,Refunded
+ORD-5755,CUST-1030,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-07-18,1,499.0,499.0,Completed,Paid
+ORD-5756,CUST-1099,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-07-18,2,99.0,198.0,Completed,Paid
+ORD-5757,CUST-1043,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-07-18,1,849.0,849.0,Completed,Paid
+ORD-5758,CUST-1041,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-07-18,1,849.0,849.0,Completed,Paid
+ORD-5759,CUST-1146,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-07-18,1,79.0,79.0,Completed,Paid
+ORD-5760,CUST-1092,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-07-18,1,59.0,59.0,Completed,Paid
+ORD-5761,CUST-1034,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-07-18,2,899.0,1798.0,Completed,Paid
+ORD-5762,CUST-1106,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-07-18,1,179.0,179.0,Completed,Paid
+ORD-5763,CUST-1081,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-07-18,1,1799.0,1799.0,Completed,Paid
+ORD-5764,CUST-1148,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-07-18,1,45.0,45.0,Completed,Paid
+ORD-5765,CUST-1087,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-07-19,1,549.0,549.0,Completed,Paid
+ORD-5766,CUST-1025,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-07-19,1,249.0,249.0,Completed,Paid
+ORD-5767,CUST-1089,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-07-19,1,79.0,79.0,Completed,Paid
+ORD-5768,CUST-1143,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-07-19,1,59.0,59.0,Completed,Paid
+ORD-5769,CUST-1041,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-07-19,2,549.0,1098.0,Completed,Paid
+ORD-5770,CUST-1043,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-07-19,1,1399.0,1399.0,Completed,Paid
+ORD-5771,CUST-1085,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-07-19,1,299.0,299.0,Completed,Paid
+ORD-5772,CUST-1097,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-07-19,1,499.0,499.0,Returned,Refunded
+ORD-5773,CUST-1115,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-07-19,2,1399.0,2798.0,Completed,Paid
+ORD-5774,CUST-1031,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-07-19,1,899.0,899.0,Cancelled,Refunded
+ORD-5775,CUST-1104,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-07-19,1,249.0,249.0,Completed,Paid
+ORD-5776,CUST-1024,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-07-19,3,59.0,177.0,Completed,Paid
+ORD-5777,CUST-1131,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-07-19,1,379.0,379.0,Completed,Paid
+ORD-5778,CUST-1088,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-07-19,2,69.0,138.0,Completed,Paid
+ORD-5779,CUST-1117,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-07-19,1,389.0,389.0,Completed,Paid
+ORD-5780,CUST-1122,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-07-19,1,99.0,99.0,Completed,Paid
+ORD-5781,CUST-1025,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-07-20,1,39.0,39.0,Cancelled,Refunded
+ORD-5782,CUST-1091,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-07-20,3,129.0,387.0,Completed,Paid
+ORD-5783,CUST-1134,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-07-20,1,69.0,69.0,Returned,Refunded
+ORD-5784,CUST-1105,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-07-20,1,849.0,849.0,Completed,Paid
+ORD-5785,CUST-1031,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-07-20,1,499.0,499.0,Completed,Paid
+ORD-5786,CUST-1049,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-07-20,1,99.0,99.0,Completed,Paid
+ORD-5787,CUST-1012,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-07-20,2,129.0,258.0,Completed,Paid
+ORD-5788,CUST-1116,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-07-20,1,179.0,179.0,Completed,Paid
+ORD-5789,CUST-1035,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-07-20,1,899.0,899.0,Completed,Paid
+ORD-5790,CUST-1142,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-07-20,2,249.0,498.0,Completed,Paid
+ORD-5791,CUST-1131,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-07-20,2,39.0,78.0,Completed,Paid
+ORD-5792,CUST-1045,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-07-21,1,45.0,45.0,Completed,Paid
+ORD-5793,CUST-1154,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-07-21,2,59.0,118.0,Completed,Paid
+ORD-5794,CUST-1099,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-07-21,3,249.0,747.0,Completed,Paid
+ORD-5795,CUST-1064,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-07-21,1,299.0,299.0,Completed,Paid
+ORD-5796,CUST-1076,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-07-21,1,179.0,179.0,Completed,Paid
+ORD-5797,CUST-1155,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-07-21,2,99.0,198.0,Completed,Paid
+ORD-5798,CUST-1141,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-07-21,1,389.0,389.0,Completed,Paid
+ORD-5799,CUST-1056,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-07-21,1,449.0,449.0,Completed,Paid
+ORD-5800,CUST-1089,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-07-21,1,79.0,79.0,Completed,Paid
+ORD-5801,CUST-1046,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-07-21,1,549.0,549.0,Completed,Paid
+ORD-5802,CUST-1030,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-07-21,1,39.0,39.0,Completed,Paid
+ORD-5803,CUST-1147,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-07-21,1,79.0,79.0,Completed,Paid
+ORD-5804,CUST-1137,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-07-21,2,149.0,298.0,Completed,Paid
+ORD-5805,CUST-1004,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-07-21,1,549.0,549.0,Completed,Paid
+ORD-5806,CUST-1014,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-07-21,1,79.0,79.0,Completed,Paid
+ORD-5807,CUST-1037,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-07-22,1,79.0,79.0,Completed,Paid
+ORD-5808,CUST-1089,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-07-22,1,149.0,149.0,Completed,Paid
+ORD-5809,CUST-1046,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-07-22,1,179.0,179.0,Completed,Paid
+ORD-5810,CUST-1095,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-07-22,2,379.0,758.0,Completed,Paid
+ORD-5811,CUST-1072,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-07-22,1,499.0,499.0,Completed,Paid
+ORD-5812,CUST-1090,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-07-22,1,149.0,149.0,Returned,Refunded
+ORD-5813,CUST-1088,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-07-22,3,389.0,1167.0,Returned,Refunded
+ORD-5814,CUST-1080,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-07-22,2,39.0,78.0,Completed,Paid
+ORD-5815,CUST-1029,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-07-22,1,129.0,129.0,Completed,Paid
+ORD-5816,CUST-1097,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-07-22,1,69.0,69.0,Completed,Paid
+ORD-5817,CUST-1100,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-07-22,3,45.0,135.0,Completed,Paid
+ORD-5818,CUST-1023,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-07-22,1,79.0,79.0,Completed,Paid
+ORD-5819,CUST-1066,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-07-23,1,849.0,849.0,Completed,Paid
+ORD-5820,CUST-1072,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-07-23,1,299.0,299.0,Completed,Paid
+ORD-5821,CUST-1033,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-07-23,1,1799.0,1799.0,Completed,Paid
+ORD-5822,CUST-1020,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-07-23,1,1099.0,1099.0,Completed,Paid
+ORD-5823,CUST-1007,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-07-23,2,39.0,78.0,Completed,Paid
+ORD-5824,CUST-1085,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-07-23,1,149.0,149.0,Completed,Paid
+ORD-5825,CUST-1046,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-07-23,1,1399.0,1399.0,Completed,Paid
+ORD-5826,CUST-1029,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-07-23,1,799.0,799.0,Completed,Paid
+ORD-5827,CUST-1021,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-07-23,1,249.0,249.0,Completed,Paid
+ORD-5828,CUST-1045,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-07-23,2,1349.0,2698.0,Completed,Paid
+ORD-5829,CUST-1043,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-07-23,1,69.0,69.0,Completed,Paid
+ORD-5830,CUST-1080,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-07-23,1,549.0,549.0,Completed,Paid
+ORD-5831,CUST-1097,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-07-23,1,129.0,129.0,Completed,Paid
+ORD-5832,CUST-1058,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-07-23,2,1349.0,2698.0,Completed,Paid
+ORD-5833,CUST-1080,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-07-23,2,1349.0,2698.0,Completed,Paid
+ORD-5834,CUST-1042,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-07-23,2,499.0,998.0,Completed,Paid
+ORD-5835,CUST-1033,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-07-24,1,379.0,379.0,Cancelled,Refunded
+ORD-5836,CUST-1067,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-07-24,1,39.0,39.0,Completed,Paid
+ORD-5837,CUST-1058,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-07-24,1,899.0,899.0,Completed,Paid
+ORD-5838,CUST-1025,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-07-24,1,389.0,389.0,Completed,Paid
+ORD-5839,CUST-1022,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-07-24,1,39.0,39.0,Cancelled,Refunded
+ORD-5840,CUST-1009,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-07-24,1,449.0,449.0,Completed,Paid
+ORD-5841,CUST-1088,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-07-24,2,249.0,498.0,Completed,Paid
+ORD-5842,CUST-1090,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-07-24,1,45.0,45.0,Completed,Paid
+ORD-5843,CUST-1010,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-07-24,1,45.0,45.0,Cancelled,Refunded
+ORD-5844,CUST-1092,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-07-24,1,389.0,389.0,Returned,Refunded
+ORD-5845,CUST-1072,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-07-24,1,1399.0,1399.0,Completed,Paid
+ORD-5846,CUST-1034,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-07-24,1,249.0,249.0,Completed,Paid
+ORD-5847,CUST-1056,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-07-24,1,389.0,389.0,Completed,Paid
+ORD-5848,CUST-1069,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-07-24,1,1799.0,1799.0,Completed,Paid
+ORD-5849,CUST-1075,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-07-25,1,1099.0,1099.0,Returned,Refunded
+ORD-5850,CUST-1088,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-07-25,1,149.0,149.0,Completed,Paid
+ORD-5851,CUST-1057,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-07-25,1,499.0,499.0,Completed,Paid
+ORD-5852,CUST-1061,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-07-25,1,799.0,799.0,Completed,Paid
+ORD-5853,CUST-1051,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-07-25,1,379.0,379.0,Completed,Paid
+ORD-5854,CUST-1039,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-07-25,2,79.0,158.0,Completed,Paid
+ORD-5855,CUST-1094,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-07-25,1,129.0,129.0,Completed,Paid
+ORD-5856,CUST-1071,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-07-25,1,379.0,379.0,Returned,Refunded
+ORD-5857,CUST-1069,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-07-25,2,379.0,758.0,Completed,Paid
+ORD-5858,CUST-1096,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-07-25,2,45.0,90.0,Completed,Paid
+ORD-5859,CUST-1053,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-07-25,2,129.0,258.0,Completed,Paid
+ORD-5860,CUST-1024,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-07-25,1,1349.0,1349.0,Completed,Paid
+ORD-5861,CUST-1015,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-07-25,1,799.0,799.0,Completed,Paid
+ORD-5862,CUST-1007,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-07-25,2,39.0,78.0,Completed,Paid
+ORD-5863,CUST-1060,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-07-25,1,129.0,129.0,Completed,Paid
+ORD-5864,CUST-1009,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-07-25,1,299.0,299.0,Completed,Paid
+ORD-5865,CUST-1043,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-07-26,1,69.0,69.0,Completed,Paid
+ORD-5866,CUST-1013,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-07-26,1,149.0,149.0,Completed,Paid
+ORD-5867,CUST-1041,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-07-26,1,899.0,899.0,Completed,Paid
+ORD-5868,CUST-1040,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-07-26,1,99.0,99.0,Completed,Paid
+ORD-5869,CUST-1047,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-07-26,2,389.0,778.0,Completed,Paid
+ORD-5870,CUST-1041,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-07-26,1,1349.0,1349.0,Completed,Paid
+ORD-5871,CUST-1083,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-07-26,1,249.0,249.0,Completed,Paid
+ORD-5872,CUST-1087,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-07-26,1,45.0,45.0,Completed,Paid
+ORD-5873,CUST-1058,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-07-26,1,69.0,69.0,Completed,Paid
+ORD-5874,CUST-1014,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-07-26,1,799.0,799.0,Returned,Refunded
+ORD-5875,CUST-1018,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-07-26,1,379.0,379.0,Completed,Paid
+ORD-5876,CUST-1081,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-07-26,1,1399.0,1399.0,Completed,Paid
+ORD-5877,CUST-1065,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-07-26,1,129.0,129.0,Completed,Paid
+ORD-5878,CUST-1052,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-07-26,1,39.0,39.0,Completed,Paid
+ORD-5879,CUST-1034,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-07-27,2,379.0,758.0,Completed,Paid
+ORD-5880,CUST-1084,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-07-27,1,39.0,39.0,Completed,Paid
+ORD-5881,CUST-1099,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-07-27,1,69.0,69.0,Completed,Paid
+ORD-5882,CUST-1060,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-07-27,1,549.0,549.0,Completed,Paid
+ORD-5883,CUST-1065,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-07-27,1,1799.0,1799.0,Completed,Paid
+ORD-5884,CUST-1079,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-07-27,1,79.0,79.0,Completed,Paid
+ORD-5885,CUST-1058,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-07-27,1,799.0,799.0,Completed,Paid
+ORD-5886,CUST-1085,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-07-27,1,1199.0,1199.0,Completed,Paid
+ORD-5887,CUST-1046,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-07-27,1,1099.0,1099.0,Completed,Paid
+ORD-5888,CUST-1009,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-07-27,1,299.0,299.0,Returned,Refunded
+ORD-5889,CUST-1047,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-07-27,1,499.0,499.0,Completed,Paid
+ORD-5890,CUST-1006,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-07-27,3,1099.0,3297.0,Completed,Paid
+ORD-5891,CUST-1091,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-07-27,1,549.0,549.0,Completed,Paid
+ORD-5892,CUST-1095,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-07-27,1,299.0,299.0,Completed,Paid
+ORD-5893,CUST-1049,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-07-27,1,129.0,129.0,Completed,Paid
+ORD-5894,CUST-1067,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-07-28,1,299.0,299.0,Completed,Paid
+ORD-5895,CUST-1067,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-07-28,1,499.0,499.0,Completed,Paid
+ORD-5896,CUST-1063,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-07-28,2,899.0,1798.0,Cancelled,Refunded
+ORD-5897,CUST-1018,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-07-28,1,179.0,179.0,Returned,Refunded
+ORD-5898,CUST-1020,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-07-28,1,799.0,799.0,Completed,Paid
+ORD-5899,CUST-1016,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-07-28,1,79.0,79.0,Completed,Paid
+ORD-5900,CUST-1093,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-07-28,1,849.0,849.0,Completed,Paid
+ORD-5901,CUST-1027,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-07-28,1,69.0,69.0,Completed,Paid
+ORD-5902,CUST-1003,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-07-28,1,1349.0,1349.0,Completed,Paid
+ORD-5903,CUST-1021,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-07-28,1,1199.0,1199.0,Cancelled,Refunded
+ORD-5904,CUST-1074,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-07-28,1,1199.0,1199.0,Completed,Paid
+ORD-5905,CUST-1067,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-07-29,1,499.0,499.0,Completed,Paid
+ORD-5906,CUST-1003,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-07-29,1,45.0,45.0,Completed,Paid
+ORD-5907,CUST-1011,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-07-29,1,449.0,449.0,Completed,Paid
+ORD-5908,CUST-1062,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-07-29,1,799.0,799.0,Completed,Paid
+ORD-5909,CUST-1019,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-07-29,2,69.0,138.0,Completed,Paid
+ORD-5910,CUST-1085,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-07-29,1,549.0,549.0,Completed,Paid
+ORD-5911,CUST-1044,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-07-29,1,179.0,179.0,Returned,Refunded
+ORD-5912,CUST-1014,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-07-29,1,1799.0,1799.0,Completed,Paid
+ORD-5913,CUST-1065,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-07-29,1,79.0,79.0,Completed,Paid
+ORD-5914,CUST-1013,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-07-29,1,799.0,799.0,Completed,Paid
+ORD-5915,CUST-1005,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-07-29,1,379.0,379.0,Completed,Paid
+ORD-5916,CUST-1062,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-07-29,1,79.0,79.0,Completed,Paid
+ORD-5917,CUST-1100,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-07-30,1,79.0,79.0,Completed,Paid
+ORD-5918,CUST-1048,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-07-30,1,1099.0,1099.0,Completed,Paid
+ORD-5919,CUST-1062,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-07-30,1,39.0,39.0,Completed,Paid
+ORD-5920,CUST-1095,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-07-30,2,39.0,78.0,Completed,Paid
+ORD-5921,CUST-1055,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-07-30,1,1199.0,1199.0,Completed,Paid
+ORD-5922,CUST-1011,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-07-30,1,149.0,149.0,Completed,Paid
+ORD-5923,CUST-1033,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-07-30,1,449.0,449.0,Completed,Paid
+ORD-5924,CUST-1001,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-07-30,1,69.0,69.0,Completed,Paid
+ORD-5925,CUST-1049,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-07-30,1,129.0,129.0,Completed,Paid
+ORD-5926,CUST-1053,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-07-30,1,69.0,69.0,Completed,Paid
+ORD-5927,CUST-1075,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-07-30,1,299.0,299.0,Completed,Paid
+ORD-5928,CUST-1047,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-07-31,1,59.0,59.0,Completed,Paid
+ORD-5929,CUST-1097,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-07-31,1,449.0,449.0,Completed,Paid
+ORD-5930,CUST-1062,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-07-31,1,799.0,799.0,Completed,Paid
+ORD-5931,CUST-1033,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-07-31,1,149.0,149.0,Completed,Paid
+ORD-5932,CUST-1051,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-07-31,1,45.0,45.0,Completed,Paid
+ORD-5933,CUST-1016,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-07-31,1,45.0,45.0,Completed,Paid
+ORD-5934,CUST-1021,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-07-31,1,849.0,849.0,Completed,Paid
+ORD-5935,CUST-1044,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-07-31,1,379.0,379.0,Completed,Paid
+ORD-5936,CUST-1007,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-07-31,1,799.0,799.0,Completed,Paid
+ORD-5937,CUST-1012,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-07-31,1,1199.0,1199.0,Completed,Paid
+ORD-5938,CUST-1012,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-07-31,1,1399.0,1399.0,Completed,Paid
+ORD-5939,CUST-1078,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-07-31,1,1099.0,1099.0,Completed,Paid
+ORD-5940,CUST-1052,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-07-31,1,59.0,59.0,Completed,Paid
+ORD-5941,CUST-1077,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-07-31,2,1099.0,2198.0,Completed,Paid
+ORD-5942,CUST-1082,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-07-31,1,899.0,899.0,Completed,Paid
+ORD-5943,CUST-1067,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-08-01,1,149.0,149.0,Completed,Paid
+ORD-5944,CUST-1066,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-08-01,1,549.0,549.0,Completed,Paid
+ORD-5945,CUST-1087,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-08-01,1,1099.0,1099.0,Completed,Paid
+ORD-5946,CUST-1021,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-08-01,3,1399.0,4197.0,Completed,Paid
+ORD-5947,CUST-1046,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-08-01,1,79.0,79.0,Completed,Paid
+ORD-5948,CUST-1067,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-08-01,1,1799.0,1799.0,Returned,Refunded
+ORD-5949,CUST-1093,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-08-01,2,379.0,758.0,Completed,Paid
+ORD-5950,CUST-1036,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-08-01,1,1349.0,1349.0,Completed,Paid
+ORD-5951,CUST-1052,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-08-01,1,69.0,69.0,Completed,Paid
+ORD-5952,CUST-1065,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-08-01,1,849.0,849.0,Completed,Paid
+ORD-5953,CUST-1044,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-08-01,1,849.0,849.0,Completed,Paid
+ORD-5954,CUST-1069,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-08-01,1,69.0,69.0,Completed,Paid
+ORD-5955,CUST-1049,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-08-01,1,69.0,69.0,Completed,Paid
+ORD-5956,CUST-1044,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-08-01,1,39.0,39.0,Completed,Paid
+ORD-5957,CUST-1076,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-08-01,1,1799.0,1799.0,Completed,Paid
+ORD-5958,CUST-1049,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-08-01,1,129.0,129.0,Completed,Paid
+ORD-5959,CUST-1030,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-08-02,1,389.0,389.0,Completed,Paid
+ORD-5960,CUST-1069,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-08-02,1,1799.0,1799.0,Completed,Paid
+ORD-5961,CUST-1037,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-08-02,1,1399.0,1399.0,Completed,Paid
+ORD-5962,CUST-1044,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-08-02,1,1399.0,1399.0,Completed,Paid
+ORD-5963,CUST-1041,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-08-02,1,69.0,69.0,Completed,Paid
+ORD-5964,CUST-1024,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-08-02,1,45.0,45.0,Completed,Paid
+ORD-5965,CUST-1064,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-08-02,1,45.0,45.0,Completed,Paid
+ORD-5966,CUST-1034,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-08-02,1,449.0,449.0,Completed,Paid
+ORD-5967,CUST-1080,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-08-02,1,69.0,69.0,Completed,Paid
+ORD-5968,CUST-1011,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-08-02,2,79.0,158.0,Completed,Paid
+ORD-5969,CUST-1001,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-08-02,2,39.0,78.0,Completed,Paid
+ORD-5970,CUST-1062,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-08-02,1,69.0,69.0,Completed,Paid
+ORD-5971,CUST-1074,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-08-02,1,299.0,299.0,Completed,Paid
+ORD-5972,CUST-1066,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-08-02,1,299.0,299.0,Completed,Paid
+ORD-5973,CUST-1017,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-08-02,1,1099.0,1099.0,Completed,Paid
+ORD-5974,CUST-1070,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-08-02,1,1099.0,1099.0,Completed,Paid
+ORD-5975,CUST-1100,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-08-03,1,799.0,799.0,Completed,Paid
+ORD-5976,CUST-1067,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-08-03,1,179.0,179.0,Cancelled,Refunded
+ORD-5977,CUST-1087,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-08-03,1,449.0,449.0,Completed,Paid
+ORD-5978,CUST-1047,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-08-03,2,59.0,118.0,Completed,Paid
+ORD-5979,CUST-1034,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-08-03,1,1349.0,1349.0,Completed,Paid
+ORD-5980,CUST-1044,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-08-03,1,69.0,69.0,Completed,Paid
+ORD-5981,CUST-1054,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-08-03,1,99.0,99.0,Completed,Paid
+ORD-5982,CUST-1052,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-08-03,1,299.0,299.0,Completed,Paid
+ORD-5983,CUST-1074,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-08-03,1,79.0,79.0,Completed,Paid
+ORD-5984,CUST-1035,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-08-03,1,1349.0,1349.0,Completed,Paid
+ORD-5985,CUST-1026,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-08-03,1,1199.0,1199.0,Completed,Paid
+ORD-5986,CUST-1061,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-08-03,1,1799.0,1799.0,Completed,Paid
+ORD-5987,CUST-1081,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-08-03,1,549.0,549.0,Completed,Paid
+ORD-5988,CUST-1063,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-08-03,1,149.0,149.0,Completed,Paid
+ORD-5989,CUST-1007,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-08-03,1,499.0,499.0,Completed,Paid
+ORD-5990,CUST-1028,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-08-03,1,299.0,299.0,Completed,Paid
+ORD-5991,CUST-1096,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-08-04,1,389.0,389.0,Completed,Paid
+ORD-5992,CUST-1072,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-08-04,1,299.0,299.0,Completed,Paid
+ORD-5993,CUST-1045,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-08-04,3,79.0,237.0,Completed,Paid
+ORD-5994,CUST-1074,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-08-04,1,129.0,129.0,Completed,Paid
+ORD-5995,CUST-1100,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-08-04,1,149.0,149.0,Completed,Paid
+ORD-5996,CUST-1063,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-08-04,1,39.0,39.0,Completed,Paid
+ORD-5997,CUST-1049,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-08-04,1,59.0,59.0,Completed,Paid
+ORD-5998,CUST-1019,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-08-04,1,799.0,799.0,Completed,Paid
+ORD-5999,CUST-1054,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-08-04,1,129.0,129.0,Completed,Paid
+ORD-6000,CUST-1010,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-08-04,1,1399.0,1399.0,Completed,Paid
+ORD-6001,CUST-1041,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-08-04,1,129.0,129.0,Completed,Paid
+ORD-6002,CUST-1083,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-08-04,1,499.0,499.0,Completed,Paid
+ORD-6003,CUST-1047,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-08-04,1,45.0,45.0,Completed,Paid
+ORD-6004,CUST-1053,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-08-04,1,799.0,799.0,Cancelled,Refunded
+ORD-6005,CUST-1031,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-08-05,1,79.0,79.0,Completed,Paid
+ORD-6006,CUST-1096,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-08-05,1,1399.0,1399.0,Completed,Paid
+ORD-6007,CUST-1013,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-08-05,2,1399.0,2798.0,Completed,Paid
+ORD-6008,CUST-1007,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-08-05,1,1799.0,1799.0,Completed,Paid
+ORD-6009,CUST-1011,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-08-05,1,849.0,849.0,Completed,Paid
+ORD-6010,CUST-1084,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-08-05,1,499.0,499.0,Completed,Paid
+ORD-6011,CUST-1037,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-08-05,1,179.0,179.0,Completed,Paid
+ORD-6012,CUST-1022,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-08-05,1,1799.0,1799.0,Completed,Paid
+ORD-6013,CUST-1042,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-08-05,1,899.0,899.0,Completed,Paid
+ORD-6014,CUST-1035,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-08-05,1,379.0,379.0,Completed,Paid
+ORD-6015,CUST-1090,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-08-05,1,379.0,379.0,Completed,Paid
+ORD-6016,CUST-1081,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-08-05,1,45.0,45.0,Completed,Paid
+ORD-6017,CUST-1068,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-08-05,1,129.0,129.0,Completed,Paid
+ORD-6018,CUST-1045,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-08-05,1,899.0,899.0,Completed,Paid
+ORD-6019,CUST-1057,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-08-05,1,149.0,149.0,Completed,Paid
+ORD-6020,CUST-1039,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-08-05,1,1799.0,1799.0,Completed,Paid
+ORD-6021,CUST-1045,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-08-06,1,149.0,149.0,Cancelled,Refunded
+ORD-6022,CUST-1063,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-08-06,1,39.0,39.0,Cancelled,Refunded
+ORD-6023,CUST-1056,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-08-06,1,149.0,149.0,Completed,Paid
+ORD-6024,CUST-1071,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-08-06,1,69.0,69.0,Completed,Paid
+ORD-6025,CUST-1056,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-08-06,1,499.0,499.0,Completed,Paid
+ORD-6026,CUST-1083,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-08-06,2,499.0,998.0,Completed,Paid
+ORD-6027,CUST-1011,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-08-06,1,249.0,249.0,Completed,Paid
+ORD-6028,CUST-1079,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-08-06,1,99.0,99.0,Completed,Paid
+ORD-6029,CUST-1096,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-08-06,1,379.0,379.0,Completed,Paid
+ORD-6030,CUST-1009,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-08-06,1,799.0,799.0,Completed,Paid
+ORD-6031,CUST-1059,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-08-06,1,59.0,59.0,Completed,Paid
+ORD-6032,CUST-1063,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-08-06,1,449.0,449.0,Completed,Paid
+ORD-6033,CUST-1003,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-08-07,3,799.0,2397.0,Completed,Paid
+ORD-6034,CUST-1017,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-08-07,1,99.0,99.0,Cancelled,Refunded
+ORD-6035,CUST-1012,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-08-07,1,1199.0,1199.0,Completed,Paid
+ORD-6036,CUST-1054,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-08-07,1,149.0,149.0,Completed,Paid
+ORD-6037,CUST-1048,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-08-07,1,179.0,179.0,Cancelled,Refunded
+ORD-6038,CUST-1011,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-08-07,2,39.0,78.0,Returned,Refunded
+ORD-6039,CUST-1070,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-08-07,1,899.0,899.0,Completed,Paid
+ORD-6040,CUST-1033,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-08-07,2,499.0,998.0,Completed,Paid
+ORD-6041,CUST-1099,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-08-07,1,99.0,99.0,Completed,Paid
+ORD-6042,CUST-1057,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-08-07,1,1349.0,1349.0,Cancelled,Refunded
+ORD-6043,CUST-1059,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-08-07,1,45.0,45.0,Completed,Paid
+ORD-6044,CUST-1027,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-08-07,1,899.0,899.0,Completed,Paid
+ORD-6045,CUST-1042,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-08-07,1,799.0,799.0,Returned,Refunded
+ORD-6046,CUST-1033,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-08-07,1,899.0,899.0,Completed,Paid
+ORD-6047,CUST-1007,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-08-07,1,79.0,79.0,Completed,Paid
+ORD-6048,CUST-1056,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-08-08,1,389.0,389.0,Completed,Paid
+ORD-6049,CUST-1075,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-08-08,1,849.0,849.0,Completed,Paid
+ORD-6050,CUST-1006,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-08-08,1,69.0,69.0,Completed,Paid
+ORD-6051,CUST-1077,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-08-08,1,1199.0,1199.0,Completed,Paid
+ORD-6052,CUST-1021,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-08-08,1,899.0,899.0,Completed,Paid
+ORD-6053,CUST-1098,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-08-08,1,129.0,129.0,Completed,Paid
+ORD-6054,CUST-1020,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-08-08,1,99.0,99.0,Completed,Paid
+ORD-6055,CUST-1063,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-08-08,1,1349.0,1349.0,Completed,Paid
+ORD-6056,CUST-1083,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-08-08,1,39.0,39.0,Completed,Paid
+ORD-6057,CUST-1094,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-08-08,1,449.0,449.0,Completed,Paid
+ORD-6058,CUST-1093,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-08-08,1,1199.0,1199.0,Cancelled,Refunded
+ORD-6059,CUST-1091,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-08-08,1,179.0,179.0,Completed,Paid
+ORD-6060,CUST-1063,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-08-08,1,449.0,449.0,Completed,Paid
+ORD-6061,CUST-1042,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-08-08,1,45.0,45.0,Completed,Paid
+ORD-6062,CUST-1077,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-08-08,1,379.0,379.0,Completed,Paid
+ORD-6063,CUST-1058,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-08-08,1,149.0,149.0,Completed,Paid
+ORD-6064,CUST-1001,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-08-09,1,39.0,39.0,Completed,Paid
+ORD-6065,CUST-1024,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-08-09,1,1799.0,1799.0,Completed,Paid
+ORD-6066,CUST-1080,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-08-09,1,1349.0,1349.0,Returned,Refunded
+ORD-6067,CUST-1025,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-08-09,1,549.0,549.0,Completed,Paid
+ORD-6068,CUST-1020,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-08-09,1,59.0,59.0,Completed,Paid
+ORD-6069,CUST-1042,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-08-09,1,849.0,849.0,Completed,Paid
+ORD-6070,CUST-1006,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-08-09,1,1199.0,1199.0,Cancelled,Refunded
+ORD-6071,CUST-1014,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-08-09,1,899.0,899.0,Cancelled,Refunded
+ORD-6072,CUST-1083,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-08-09,1,499.0,499.0,Completed,Paid
+ORD-6073,CUST-1090,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-08-09,1,69.0,69.0,Completed,Paid
+ORD-6074,CUST-1078,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-08-09,1,99.0,99.0,Completed,Paid
+ORD-6075,CUST-1027,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-08-09,1,129.0,129.0,Completed,Paid
+ORD-6076,CUST-1011,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-08-09,1,179.0,179.0,Returned,Refunded
+ORD-6077,CUST-1054,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-08-09,1,69.0,69.0,Returned,Refunded
+ORD-6078,CUST-1094,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-08-10,2,1399.0,2798.0,Returned,Refunded
+ORD-6079,CUST-1013,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-08-10,1,849.0,849.0,Completed,Paid
+ORD-6080,CUST-1025,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-08-10,1,449.0,449.0,Completed,Paid
+ORD-6081,CUST-1081,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-08-10,1,799.0,799.0,Completed,Paid
+ORD-6082,CUST-1096,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-08-10,1,849.0,849.0,Completed,Paid
+ORD-6083,CUST-1087,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-08-10,1,179.0,179.0,Completed,Paid
+ORD-6084,CUST-1014,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-08-10,1,799.0,799.0,Completed,Paid
+ORD-6085,CUST-1065,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-08-10,1,389.0,389.0,Completed,Paid
+ORD-6086,CUST-1077,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-08-10,2,179.0,358.0,Completed,Paid
+ORD-6087,CUST-1071,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-08-10,2,389.0,778.0,Completed,Paid
+ORD-6088,CUST-1082,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-08-10,2,249.0,498.0,Completed,Paid
+ORD-6089,CUST-1073,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-08-11,1,379.0,379.0,Completed,Paid
+ORD-6090,CUST-1096,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-08-11,1,299.0,299.0,Completed,Paid
+ORD-6091,CUST-1051,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-08-11,1,1799.0,1799.0,Completed,Paid
+ORD-6092,CUST-1077,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-08-11,1,1799.0,1799.0,Completed,Paid
+ORD-6093,CUST-1039,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-08-11,1,1799.0,1799.0,Completed,Paid
+ORD-6094,CUST-1041,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-08-11,1,1799.0,1799.0,Completed,Paid
+ORD-6095,CUST-1036,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-08-11,1,379.0,379.0,Completed,Paid
+ORD-6096,CUST-1074,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-08-11,1,1199.0,1199.0,Completed,Paid
+ORD-6097,CUST-1020,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-08-11,1,1199.0,1199.0,Completed,Paid
+ORD-6098,CUST-1032,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-08-11,1,1349.0,1349.0,Completed,Paid
+ORD-6099,CUST-1074,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-08-11,1,499.0,499.0,Completed,Paid
+ORD-6100,CUST-1010,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-08-11,1,45.0,45.0,Completed,Paid
+ORD-6101,CUST-1089,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-08-12,1,99.0,99.0,Completed,Paid
+ORD-6102,CUST-1077,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-08-12,1,129.0,129.0,Completed,Paid
+ORD-6103,CUST-1074,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-08-12,1,499.0,499.0,Returned,Refunded
+ORD-6104,CUST-1056,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-08-12,2,249.0,498.0,Completed,Paid
+ORD-6105,CUST-1099,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-08-12,1,1349.0,1349.0,Completed,Paid
+ORD-6106,CUST-1002,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-08-12,1,129.0,129.0,Completed,Paid
+ORD-6107,CUST-1040,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-08-12,1,549.0,549.0,Completed,Paid
+ORD-6108,CUST-1020,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-08-12,1,389.0,389.0,Completed,Paid
+ORD-6109,CUST-1007,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-08-12,1,79.0,79.0,Completed,Paid
+ORD-6110,CUST-1058,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-08-12,1,39.0,39.0,Completed,Paid
+ORD-6111,CUST-1029,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-08-12,1,249.0,249.0,Completed,Paid
+ORD-6112,CUST-1017,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-08-12,1,389.0,389.0,Completed,Paid
+ORD-6113,CUST-1007,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-08-12,1,379.0,379.0,Completed,Paid
+ORD-6114,CUST-1065,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-08-12,1,249.0,249.0,Completed,Paid
+ORD-6115,CUST-1062,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-08-13,1,379.0,379.0,Completed,Paid
+ORD-6116,CUST-1074,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-08-13,1,449.0,449.0,Completed,Paid
+ORD-6117,CUST-1068,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-08-13,1,1349.0,1349.0,Completed,Paid
+ORD-6118,CUST-1056,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-08-13,1,389.0,389.0,Completed,Paid
+ORD-6119,CUST-1015,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-08-13,1,79.0,79.0,Completed,Paid
+ORD-6120,CUST-1025,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-08-13,1,389.0,389.0,Completed,Paid
+ORD-6121,CUST-1099,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-08-13,1,149.0,149.0,Completed,Paid
+ORD-6122,CUST-1057,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-08-13,1,59.0,59.0,Returned,Refunded
+ORD-6123,CUST-1088,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-08-13,1,69.0,69.0,Completed,Paid
+ORD-6124,CUST-1011,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-08-13,1,849.0,849.0,Completed,Paid
+ORD-6125,CUST-1080,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-08-13,2,1199.0,2398.0,Completed,Paid
+ORD-6126,CUST-1002,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-08-13,1,389.0,389.0,Completed,Paid
+ORD-6127,CUST-1061,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-08-14,1,1799.0,1799.0,Completed,Paid
+ORD-6128,CUST-1028,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-08-14,1,449.0,449.0,Completed,Paid
+ORD-6129,CUST-1071,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-08-14,1,899.0,899.0,Completed,Paid
+ORD-6130,CUST-1089,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-08-14,1,99.0,99.0,Completed,Paid
+ORD-6131,CUST-1085,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-08-14,1,549.0,549.0,Completed,Paid
+ORD-6132,CUST-1037,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-08-14,1,449.0,449.0,Completed,Paid
+ORD-6133,CUST-1007,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-08-14,1,179.0,179.0,Cancelled,Refunded
+ORD-6134,CUST-1050,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-08-14,1,79.0,79.0,Completed,Paid
+ORD-6135,CUST-1085,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-08-14,2,69.0,138.0,Cancelled,Refunded
+ORD-6136,CUST-1084,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-08-14,1,499.0,499.0,Completed,Paid
+ORD-6137,CUST-1091,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-08-14,2,849.0,1698.0,Completed,Paid
+ORD-6138,CUST-1077,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-08-14,1,379.0,379.0,Completed,Paid
+ORD-6139,CUST-1059,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-08-14,2,379.0,758.0,Cancelled,Refunded
+ORD-6140,CUST-1032,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-08-14,1,549.0,549.0,Completed,Paid
+ORD-6141,CUST-1021,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-08-15,1,1799.0,1799.0,Completed,Paid
+ORD-6142,CUST-1081,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-08-15,1,149.0,149.0,Completed,Paid
+ORD-6143,CUST-1065,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-08-15,1,299.0,299.0,Completed,Paid
+ORD-6144,CUST-1050,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-08-15,2,1799.0,3598.0,Completed,Paid
+ORD-6145,CUST-1029,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-08-15,1,1199.0,1199.0,Completed,Paid
+ORD-6146,CUST-1018,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-08-15,1,1399.0,1399.0,Completed,Paid
+ORD-6147,CUST-1087,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-08-15,2,59.0,118.0,Completed,Paid
+ORD-6148,CUST-1054,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-08-15,1,1349.0,1349.0,Completed,Paid
+ORD-6149,CUST-1040,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-08-15,1,59.0,59.0,Completed,Paid
+ORD-6150,CUST-1027,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-08-15,1,129.0,129.0,Completed,Paid
+ORD-6151,CUST-1026,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-08-15,1,1199.0,1199.0,Completed,Paid
+ORD-6152,CUST-1068,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-08-15,1,1199.0,1199.0,Completed,Paid
+ORD-6153,CUST-1099,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-08-15,1,1199.0,1199.0,Completed,Paid
+ORD-6154,CUST-1021,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-08-15,1,389.0,389.0,Completed,Paid
+ORD-6155,CUST-1093,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-08-15,1,849.0,849.0,Completed,Paid
+ORD-6156,CUST-1019,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-08-15,1,45.0,45.0,Completed,Paid
+ORD-6157,CUST-1053,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-08-16,1,149.0,149.0,Completed,Paid
+ORD-6158,CUST-1082,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-08-16,1,45.0,45.0,Completed,Paid
+ORD-6159,CUST-1014,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-08-16,1,1199.0,1199.0,Completed,Paid
+ORD-6160,CUST-1079,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-08-16,1,59.0,59.0,Completed,Paid
+ORD-6161,CUST-1030,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-08-16,1,59.0,59.0,Completed,Paid
+ORD-6162,CUST-1046,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-08-16,1,1399.0,1399.0,Completed,Paid
+ORD-6163,CUST-1065,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-08-16,1,59.0,59.0,Completed,Paid
+ORD-6164,CUST-1024,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-08-16,1,499.0,499.0,Completed,Paid
+ORD-6165,CUST-1025,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-08-16,1,1349.0,1349.0,Completed,Paid
+ORD-6166,CUST-1002,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-08-16,2,299.0,598.0,Completed,Paid
+ORD-6167,CUST-1086,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-08-16,1,449.0,449.0,Returned,Refunded
+ORD-6168,CUST-1063,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-08-16,1,99.0,99.0,Completed,Paid
+ORD-6169,CUST-1032,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-08-16,1,249.0,249.0,Returned,Refunded
+ORD-6170,CUST-1093,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-08-16,1,389.0,389.0,Completed,Paid
+ORD-6171,CUST-1077,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-08-17,1,379.0,379.0,Completed,Paid
+ORD-6172,CUST-1005,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-08-17,1,549.0,549.0,Completed,Paid
+ORD-6173,CUST-1006,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-08-17,1,1349.0,1349.0,Completed,Paid
+ORD-6174,CUST-1095,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-08-17,1,1099.0,1099.0,Completed,Paid
+ORD-6175,CUST-1081,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-08-17,1,1099.0,1099.0,Completed,Paid
+ORD-6176,CUST-1039,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-08-17,2,39.0,78.0,Completed,Paid
+ORD-6177,CUST-1055,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-08-17,1,149.0,149.0,Returned,Refunded
+ORD-6178,CUST-1060,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-08-17,1,129.0,129.0,Completed,Paid
+ORD-6179,CUST-1015,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-08-17,1,799.0,799.0,Completed,Paid
+ORD-6180,CUST-1090,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-08-17,1,379.0,379.0,Completed,Paid
+ORD-6181,CUST-1058,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-08-17,1,1799.0,1799.0,Completed,Paid
+ORD-6182,CUST-1092,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-08-17,2,449.0,898.0,Completed,Paid
+ORD-6183,CUST-1042,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-08-17,1,99.0,99.0,Completed,Paid
+ORD-6184,CUST-1021,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-08-17,1,99.0,99.0,Completed,Paid
+ORD-6185,CUST-1091,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-08-17,1,179.0,179.0,Completed,Paid
+ORD-6186,CUST-1050,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-08-18,1,45.0,45.0,Completed,Paid
+ORD-6187,CUST-1021,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-08-18,1,499.0,499.0,Returned,Refunded
+ORD-6188,CUST-1073,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-08-18,2,79.0,158.0,Completed,Paid
+ORD-6189,CUST-1019,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-08-18,1,799.0,799.0,Returned,Refunded
+ORD-6190,CUST-1099,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-08-18,1,179.0,179.0,Completed,Paid
+ORD-6191,CUST-1017,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-08-18,1,449.0,449.0,Completed,Paid
+ORD-6192,CUST-1002,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-08-18,1,179.0,179.0,Completed,Paid
+ORD-6193,CUST-1001,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-08-18,2,59.0,118.0,Completed,Paid
+ORD-6194,CUST-1076,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-08-18,1,79.0,79.0,Completed,Paid
+ORD-6195,CUST-1011,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-08-18,1,59.0,59.0,Completed,Paid
+ORD-6196,CUST-1071,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-08-18,1,299.0,299.0,Completed,Paid
+ORD-6197,CUST-1027,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-08-18,1,1099.0,1099.0,Returned,Refunded
+ORD-6198,CUST-1005,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-08-18,1,79.0,79.0,Completed,Paid
+ORD-6199,CUST-1043,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-08-18,1,1399.0,1399.0,Completed,Paid
+ORD-6200,CUST-1023,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-08-18,1,799.0,799.0,Completed,Paid
+ORD-6201,CUST-1089,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-08-18,1,99.0,99.0,Completed,Paid
+ORD-6202,CUST-1059,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-08-19,1,45.0,45.0,Completed,Paid
+ORD-6203,CUST-1012,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-08-19,1,39.0,39.0,Completed,Paid
+ORD-6204,CUST-1049,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-08-19,1,1399.0,1399.0,Completed,Paid
+ORD-6205,CUST-1009,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-08-19,1,149.0,149.0,Completed,Paid
+ORD-6206,CUST-1036,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-08-19,1,389.0,389.0,Completed,Paid
+ORD-6207,CUST-1090,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-08-19,1,449.0,449.0,Completed,Paid
+ORD-6208,CUST-1094,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-08-19,1,129.0,129.0,Completed,Paid
+ORD-6209,CUST-1093,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-08-19,1,99.0,99.0,Completed,Paid
+ORD-6210,CUST-1091,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-08-19,1,149.0,149.0,Completed,Paid
+ORD-6211,CUST-1034,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-08-19,1,549.0,549.0,Completed,Paid
+ORD-6212,CUST-1017,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-08-19,1,59.0,59.0,Completed,Paid
+ORD-6213,CUST-1081,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-08-19,1,899.0,899.0,Completed,Paid
+ORD-6214,CUST-1030,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-08-20,1,99.0,99.0,Completed,Paid
+ORD-6215,CUST-1016,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-08-20,1,1799.0,1799.0,Completed,Paid
+ORD-6216,CUST-1095,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-08-20,1,449.0,449.0,Completed,Paid
+ORD-6217,CUST-1053,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-08-20,1,1099.0,1099.0,Completed,Paid
+ORD-6218,CUST-1082,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-08-20,1,449.0,449.0,Completed,Paid
+ORD-6219,CUST-1037,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-08-20,1,299.0,299.0,Completed,Paid
+ORD-6220,CUST-1065,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-08-20,1,379.0,379.0,Cancelled,Refunded
+ORD-6221,CUST-1088,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-08-20,1,389.0,389.0,Completed,Paid
+ORD-6222,CUST-1079,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-08-20,2,1799.0,3598.0,Completed,Paid
+ORD-6223,CUST-1044,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-08-20,1,79.0,79.0,Completed,Paid
+ORD-6224,CUST-1005,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-08-20,1,129.0,129.0,Completed,Paid
+ORD-6225,CUST-1059,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-08-20,2,379.0,758.0,Completed,Paid
+ORD-6226,CUST-1053,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-08-20,1,45.0,45.0,Completed,Paid
+ORD-6227,CUST-1073,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-08-20,1,45.0,45.0,Completed,Paid
+ORD-6228,CUST-1003,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-08-20,1,449.0,449.0,Completed,Paid
+ORD-6229,CUST-1009,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-08-21,1,1199.0,1199.0,Cancelled,Refunded
+ORD-6230,CUST-1049,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-08-21,1,129.0,129.0,Completed,Paid
+ORD-6231,CUST-1078,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-08-21,1,499.0,499.0,Completed,Paid
+ORD-6232,CUST-1097,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-08-21,1,149.0,149.0,Completed,Paid
+ORD-6233,CUST-1005,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-08-21,1,299.0,299.0,Completed,Paid
+ORD-6234,CUST-1031,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-08-21,1,69.0,69.0,Completed,Paid
+ORD-6235,CUST-1028,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-08-21,1,549.0,549.0,Completed,Paid
+ORD-6236,CUST-1005,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-08-21,1,39.0,39.0,Completed,Paid
+ORD-6237,CUST-1065,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-08-21,1,1799.0,1799.0,Completed,Paid
+ORD-6238,CUST-1020,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-08-21,1,449.0,449.0,Completed,Paid
+ORD-6239,CUST-1068,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-08-21,1,149.0,149.0,Completed,Paid
+ORD-6240,CUST-1013,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-08-21,1,549.0,549.0,Completed,Paid
+ORD-6241,CUST-1093,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-08-21,1,1099.0,1099.0,Completed,Paid
+ORD-6242,CUST-1015,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-08-22,1,1799.0,1799.0,Returned,Refunded
+ORD-6243,CUST-1012,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-08-22,1,389.0,389.0,Returned,Refunded
+ORD-6244,CUST-1096,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-08-22,1,149.0,149.0,Completed,Paid
+ORD-6245,CUST-1082,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-08-22,1,449.0,449.0,Completed,Paid
+ORD-6246,CUST-1036,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-08-22,1,379.0,379.0,Completed,Paid
+ORD-6247,CUST-1016,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-08-22,1,299.0,299.0,Completed,Paid
+ORD-6248,CUST-1002,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-08-22,1,59.0,59.0,Completed,Paid
+ORD-6249,CUST-1070,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-08-22,1,69.0,69.0,Completed,Paid
+ORD-6250,CUST-1091,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-08-22,1,149.0,149.0,Completed,Paid
+ORD-6251,CUST-1040,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-08-22,2,59.0,118.0,Completed,Paid
+ORD-6252,CUST-1007,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-08-22,1,1199.0,1199.0,Completed,Paid
+ORD-6253,CUST-1007,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-08-22,1,849.0,849.0,Completed,Paid
+ORD-6254,CUST-1051,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-08-22,1,799.0,799.0,Completed,Paid
+ORD-6255,CUST-1081,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-08-22,1,99.0,99.0,Completed,Paid
+ORD-6256,CUST-1040,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-08-22,1,389.0,389.0,Completed,Paid
+ORD-6257,CUST-1069,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-08-23,3,1399.0,4197.0,Completed,Paid
+ORD-6258,CUST-1060,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-08-23,1,69.0,69.0,Completed,Paid
+ORD-6259,CUST-1090,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-08-23,1,179.0,179.0,Completed,Paid
+ORD-6260,CUST-1083,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-08-23,1,99.0,99.0,Completed,Paid
+ORD-6261,CUST-1029,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-08-23,2,1199.0,2398.0,Completed,Paid
+ORD-6262,CUST-1047,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-08-23,1,499.0,499.0,Completed,Paid
+ORD-6263,CUST-1043,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-08-23,1,389.0,389.0,Cancelled,Refunded
+ORD-6264,CUST-1061,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-08-23,1,849.0,849.0,Completed,Paid
+ORD-6265,CUST-1022,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-08-23,1,149.0,149.0,Completed,Paid
+ORD-6266,CUST-1017,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-08-23,1,549.0,549.0,Completed,Paid
+ORD-6267,CUST-1014,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-08-23,1,389.0,389.0,Returned,Refunded
+ORD-6268,CUST-1052,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-08-23,1,69.0,69.0,Completed,Paid
+ORD-6269,CUST-1071,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-08-23,3,799.0,2397.0,Completed,Paid
+ORD-6270,CUST-1044,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-08-23,1,449.0,449.0,Completed,Paid
+ORD-6271,CUST-1056,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-08-23,1,69.0,69.0,Completed,Paid
+ORD-6272,CUST-1031,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-08-23,1,799.0,799.0,Returned,Refunded
+ORD-6273,CUST-1015,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-08-24,1,69.0,69.0,Completed,Paid
+ORD-6274,CUST-1013,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-08-24,1,179.0,179.0,Completed,Paid
+ORD-6275,CUST-1009,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-08-24,1,59.0,59.0,Completed,Paid
+ORD-6276,CUST-1099,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-08-24,1,499.0,499.0,Completed,Paid
+ORD-6277,CUST-1008,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-08-24,1,1399.0,1399.0,Completed,Paid
+ORD-6278,CUST-1075,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-08-24,1,39.0,39.0,Cancelled,Refunded
+ORD-6279,CUST-1019,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-08-24,1,79.0,79.0,Completed,Paid
+ORD-6280,CUST-1050,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-08-24,1,59.0,59.0,Completed,Paid
+ORD-6281,CUST-1088,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-08-24,1,389.0,389.0,Completed,Paid
+ORD-6282,CUST-1087,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-08-24,2,149.0,298.0,Completed,Paid
+ORD-6283,CUST-1092,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-08-24,3,69.0,207.0,Completed,Paid
+ORD-6284,CUST-1079,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-08-24,1,549.0,549.0,Completed,Paid
+ORD-6285,CUST-1038,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-08-24,1,1099.0,1099.0,Completed,Paid
+ORD-6286,CUST-1007,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-08-24,1,1799.0,1799.0,Completed,Paid
+ORD-6287,CUST-1015,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-08-25,2,149.0,298.0,Completed,Paid
+ORD-6288,CUST-1090,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-08-25,1,69.0,69.0,Completed,Paid
+ORD-6289,CUST-1049,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-08-25,1,499.0,499.0,Completed,Paid
+ORD-6290,CUST-1085,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-08-25,1,799.0,799.0,Completed,Paid
+ORD-6291,CUST-1050,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-08-25,2,69.0,138.0,Completed,Paid
+ORD-6292,CUST-1086,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-08-25,1,1199.0,1199.0,Returned,Refunded
+ORD-6293,CUST-1063,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-08-25,1,79.0,79.0,Completed,Paid
+ORD-6294,CUST-1011,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-08-25,1,1199.0,1199.0,Completed,Paid
+ORD-6295,CUST-1059,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-08-25,1,99.0,99.0,Completed,Paid
+ORD-6296,CUST-1024,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-08-25,1,179.0,179.0,Completed,Paid
+ORD-6297,CUST-1058,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-08-25,1,499.0,499.0,Completed,Paid
+ORD-6298,CUST-1078,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-08-25,1,1799.0,1799.0,Completed,Paid
+ORD-6299,CUST-1031,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-08-25,1,99.0,99.0,Completed,Paid
+ORD-6300,CUST-1074,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-08-26,1,69.0,69.0,Cancelled,Refunded
+ORD-6301,CUST-1062,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-08-26,1,99.0,99.0,Completed,Paid
+ORD-6302,CUST-1089,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-08-26,1,1399.0,1399.0,Completed,Paid
+ORD-6303,CUST-1097,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-08-26,1,39.0,39.0,Completed,Paid
+ORD-6304,CUST-1067,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-08-26,1,59.0,59.0,Completed,Paid
+ORD-6305,CUST-1095,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-08-26,3,79.0,237.0,Returned,Refunded
+ORD-6306,CUST-1075,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-08-26,1,149.0,149.0,Completed,Paid
+ORD-6307,CUST-1069,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-08-26,1,39.0,39.0,Completed,Paid
+ORD-6308,CUST-1061,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-08-26,1,69.0,69.0,Completed,Paid
+ORD-6309,CUST-1038,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-08-26,1,149.0,149.0,Completed,Paid
+ORD-6310,CUST-1077,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-08-26,1,45.0,45.0,Completed,Paid
+ORD-6311,CUST-1034,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-08-26,1,1099.0,1099.0,Completed,Paid
+ORD-6312,CUST-1074,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-08-26,1,1099.0,1099.0,Completed,Paid
+ORD-6313,CUST-1095,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-08-26,1,59.0,59.0,Completed,Paid
+ORD-6314,CUST-1017,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-08-26,1,549.0,549.0,Completed,Paid
+ORD-6315,CUST-1017,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-08-27,1,59.0,59.0,Completed,Paid
+ORD-6316,CUST-1002,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-08-27,1,45.0,45.0,Completed,Paid
+ORD-6317,CUST-1076,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-08-27,1,45.0,45.0,Completed,Paid
+ORD-6318,CUST-1023,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-08-27,1,299.0,299.0,Completed,Paid
+ORD-6319,CUST-1024,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-08-27,2,549.0,1098.0,Completed,Paid
+ORD-6320,CUST-1011,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-08-27,1,1199.0,1199.0,Completed,Paid
+ORD-6321,CUST-1064,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-08-27,3,39.0,117.0,Completed,Paid
+ORD-6322,CUST-1031,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-08-27,1,79.0,79.0,Completed,Paid
+ORD-6323,CUST-1027,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-08-27,1,69.0,69.0,Completed,Paid
+ORD-6324,CUST-1083,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-08-27,1,299.0,299.0,Returned,Refunded
+ORD-6325,CUST-1061,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-08-27,1,149.0,149.0,Completed,Paid
+ORD-6326,CUST-1069,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-08-27,1,1349.0,1349.0,Completed,Paid
+ORD-6327,CUST-1061,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-08-27,1,299.0,299.0,Completed,Paid
+ORD-6328,CUST-1037,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-08-28,1,179.0,179.0,Completed,Paid
+ORD-6329,CUST-1068,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-08-28,2,79.0,158.0,Completed,Paid
+ORD-6330,CUST-1069,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-08-28,1,129.0,129.0,Completed,Paid
+ORD-6331,CUST-1079,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-08-28,2,129.0,258.0,Completed,Paid
+ORD-6332,CUST-1035,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-08-28,1,849.0,849.0,Completed,Paid
+ORD-6333,CUST-1060,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-08-28,1,39.0,39.0,Completed,Paid
+ORD-6334,CUST-1087,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-08-28,1,69.0,69.0,Completed,Paid
+ORD-6335,CUST-1087,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-08-28,3,99.0,297.0,Completed,Paid
+ORD-6336,CUST-1002,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-08-28,1,79.0,79.0,Returned,Refunded
+ORD-6337,CUST-1014,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-08-28,1,79.0,79.0,Completed,Paid
+ORD-6338,CUST-1037,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-08-28,1,299.0,299.0,Cancelled,Refunded
+ORD-6339,CUST-1008,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-08-29,1,59.0,59.0,Completed,Paid
+ORD-6340,CUST-1077,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-08-29,1,129.0,129.0,Completed,Paid
+ORD-6341,CUST-1012,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-08-29,1,59.0,59.0,Completed,Paid
+ORD-6342,CUST-1083,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-08-29,1,69.0,69.0,Completed,Paid
+ORD-6343,CUST-1015,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-08-29,1,99.0,99.0,Completed,Paid
+ORD-6344,CUST-1085,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-08-29,1,1399.0,1399.0,Completed,Paid
+ORD-6345,CUST-1036,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-08-29,1,39.0,39.0,Completed,Paid
+ORD-6346,CUST-1099,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-08-29,1,39.0,39.0,Completed,Paid
+ORD-6347,CUST-1010,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-08-29,1,299.0,299.0,Completed,Paid
+ORD-6348,CUST-1043,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-08-29,1,1099.0,1099.0,Completed,Paid
+ORD-6349,CUST-1023,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-08-29,1,179.0,179.0,Completed,Paid
+ORD-6350,CUST-1079,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-08-30,1,499.0,499.0,Completed,Paid
+ORD-6351,CUST-1019,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-08-30,1,379.0,379.0,Completed,Paid
+ORD-6352,CUST-1083,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-08-30,2,849.0,1698.0,Completed,Paid
+ORD-6353,CUST-1014,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-08-30,1,1099.0,1099.0,Completed,Paid
+ORD-6354,CUST-1033,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-08-30,1,39.0,39.0,Completed,Paid
+ORD-6355,CUST-1020,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-08-30,1,129.0,129.0,Completed,Paid
+ORD-6356,CUST-1086,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-08-30,1,499.0,499.0,Completed,Paid
+ORD-6357,CUST-1051,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-08-30,1,69.0,69.0,Completed,Paid
+ORD-6358,CUST-1099,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-08-30,1,899.0,899.0,Completed,Paid
+ORD-6359,CUST-1094,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-08-30,1,39.0,39.0,Returned,Refunded
+ORD-6360,CUST-1089,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-08-30,1,39.0,39.0,Completed,Paid
+ORD-6361,CUST-1046,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-08-30,1,389.0,389.0,Completed,Paid
+ORD-6362,CUST-1083,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-08-31,1,1399.0,1399.0,Completed,Paid
+ORD-6363,CUST-1044,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-08-31,2,1399.0,2798.0,Completed,Paid
+ORD-6364,CUST-1038,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-08-31,1,129.0,129.0,Completed,Paid
+ORD-6365,CUST-1050,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-08-31,1,79.0,79.0,Completed,Paid
+ORD-6366,CUST-1014,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-08-31,1,129.0,129.0,Completed,Paid
+ORD-6367,CUST-1081,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-08-31,1,179.0,179.0,Completed,Paid
+ORD-6368,CUST-1025,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-08-31,1,1799.0,1799.0,Completed,Paid
+ORD-6369,CUST-1063,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-08-31,1,499.0,499.0,Completed,Paid
+ORD-6370,CUST-1040,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-08-31,1,899.0,899.0,Completed,Paid
+ORD-6371,CUST-1058,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-08-31,1,1799.0,1799.0,Returned,Refunded
+ORD-6372,CUST-1052,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-08-31,1,849.0,849.0,Completed,Paid
+ORD-6373,CUST-1067,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-08-31,2,179.0,358.0,Completed,Paid
+ORD-6374,CUST-1069,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-08-31,1,1199.0,1199.0,Completed,Paid
+ORD-6375,CUST-1010,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-08-31,1,1099.0,1099.0,Completed,Paid
+ORD-6376,CUST-1003,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-08-31,2,899.0,1798.0,Completed,Paid
+ORD-6377,CUST-1032,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-08-31,1,99.0,99.0,Cancelled,Refunded
+ORD-6378,CUST-1007,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-09-01,2,149.0,298.0,Completed,Paid
+ORD-6379,CUST-1079,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-09-01,2,799.0,1598.0,Returned,Refunded
+ORD-6380,CUST-1064,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-09-01,1,59.0,59.0,Completed,Paid
+ORD-6381,CUST-1026,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-09-01,1,249.0,249.0,Completed,Paid
+ORD-6382,CUST-1095,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-09-01,1,79.0,79.0,Completed,Paid
+ORD-6383,CUST-1088,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-09-01,1,69.0,69.0,Completed,Paid
+ORD-6384,CUST-1028,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-09-01,1,39.0,39.0,Completed,Paid
+ORD-6385,CUST-1009,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-09-01,1,849.0,849.0,Completed,Paid
+ORD-6386,CUST-1022,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-09-01,1,99.0,99.0,Completed,Paid
+ORD-6387,CUST-1032,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-09-01,1,69.0,69.0,Completed,Paid
+ORD-6388,CUST-1081,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-09-01,1,59.0,59.0,Completed,Paid
+ORD-6389,CUST-1063,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-09-01,1,1399.0,1399.0,Completed,Paid
+ORD-6390,CUST-1012,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-09-01,1,99.0,99.0,Completed,Paid
+ORD-6391,CUST-1054,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-09-01,1,99.0,99.0,Completed,Paid
+ORD-6392,CUST-1089,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-09-01,1,1199.0,1199.0,Completed,Paid
+ORD-6393,CUST-1067,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-09-01,1,179.0,179.0,Completed,Paid
+ORD-6394,CUST-1089,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-09-02,1,1099.0,1099.0,Completed,Paid
+ORD-6395,CUST-1079,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-09-02,1,1399.0,1399.0,Completed,Paid
+ORD-6396,CUST-1045,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-09-02,1,249.0,249.0,Completed,Paid
+ORD-6397,CUST-1016,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-09-02,3,549.0,1647.0,Completed,Paid
+ORD-6398,CUST-1098,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-09-02,1,379.0,379.0,Completed,Paid
+ORD-6399,CUST-1081,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-09-02,1,79.0,79.0,Returned,Refunded
+ORD-6400,CUST-1088,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-09-02,1,899.0,899.0,Completed,Paid
+ORD-6401,CUST-1006,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-09-02,1,1099.0,1099.0,Completed,Paid
+ORD-6402,CUST-1056,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-09-02,1,299.0,299.0,Completed,Paid
+ORD-6403,CUST-1098,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-09-02,1,179.0,179.0,Completed,Paid
+ORD-6404,CUST-1069,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-09-02,1,799.0,799.0,Cancelled,Refunded
+ORD-6405,CUST-1066,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-09-02,1,849.0,849.0,Completed,Paid
+ORD-6406,CUST-1057,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-09-02,1,69.0,69.0,Completed,Paid
+ORD-6407,CUST-1096,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-09-02,2,79.0,158.0,Completed,Paid
+ORD-6408,CUST-1015,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-09-02,1,389.0,389.0,Completed,Paid
+ORD-6409,CUST-1026,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-09-03,2,499.0,998.0,Returned,Refunded
+ORD-6410,CUST-1056,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-09-03,1,1199.0,1199.0,Completed,Paid
+ORD-6411,CUST-1023,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-09-03,1,499.0,499.0,Completed,Paid
+ORD-6412,CUST-1025,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-09-03,1,129.0,129.0,Completed,Paid
+ORD-6413,CUST-1043,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-09-03,1,1199.0,1199.0,Completed,Paid
+ORD-6414,CUST-1036,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-09-03,1,1199.0,1199.0,Completed,Paid
+ORD-6415,CUST-1054,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-09-03,1,799.0,799.0,Completed,Paid
+ORD-6416,CUST-1038,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-09-03,1,59.0,59.0,Completed,Paid
+ORD-6417,CUST-1079,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-09-03,1,799.0,799.0,Completed,Paid
+ORD-6418,CUST-1030,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-09-03,1,1399.0,1399.0,Completed,Paid
+ORD-6419,CUST-1028,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-09-03,1,69.0,69.0,Completed,Paid
+ORD-6420,CUST-1002,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-09-03,1,45.0,45.0,Completed,Paid
+ORD-6421,CUST-1032,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-09-03,1,389.0,389.0,Completed,Paid
+ORD-6422,CUST-1076,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-09-03,2,1199.0,2398.0,Completed,Paid
+ORD-6423,CUST-1006,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-09-04,3,1099.0,3297.0,Completed,Paid
+ORD-6424,CUST-1065,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-09-04,1,1099.0,1099.0,Completed,Paid
+ORD-6425,CUST-1090,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-09-04,1,849.0,849.0,Completed,Paid
+ORD-6426,CUST-1072,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-09-04,1,39.0,39.0,Completed,Paid
+ORD-6427,CUST-1028,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-09-04,1,1199.0,1199.0,Completed,Paid
+ORD-6428,CUST-1012,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-09-04,1,1799.0,1799.0,Completed,Paid
+ORD-6429,CUST-1091,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-09-04,2,179.0,358.0,Completed,Paid
+ORD-6430,CUST-1004,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-09-04,1,179.0,179.0,Completed,Paid
+ORD-6431,CUST-1091,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-09-04,1,499.0,499.0,Completed,Paid
+ORD-6432,CUST-1081,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-09-04,1,179.0,179.0,Cancelled,Refunded
+ORD-6433,CUST-1081,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-09-04,1,1399.0,1399.0,Completed,Paid
+ORD-6434,CUST-1068,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-09-04,1,1099.0,1099.0,Completed,Paid
+ORD-6435,CUST-1090,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-09-04,1,59.0,59.0,Completed,Paid
+ORD-6436,CUST-1088,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-09-04,1,1399.0,1399.0,Completed,Paid
+ORD-6437,CUST-1066,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-09-05,1,79.0,79.0,Returned,Refunded
+ORD-6438,CUST-1080,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-09-05,1,1099.0,1099.0,Completed,Paid
+ORD-6439,CUST-1072,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-09-05,1,99.0,99.0,Completed,Paid
+ORD-6440,CUST-1027,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-09-05,3,1199.0,3597.0,Completed,Paid
+ORD-6441,CUST-1015,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-09-05,1,129.0,129.0,Completed,Paid
+ORD-6442,CUST-1075,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-09-05,1,99.0,99.0,Completed,Paid
+ORD-6443,CUST-1029,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-09-05,1,389.0,389.0,Completed,Paid
+ORD-6444,CUST-1088,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-09-05,1,249.0,249.0,Returned,Refunded
+ORD-6445,CUST-1065,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-09-05,2,549.0,1098.0,Completed,Paid
+ORD-6446,CUST-1069,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-09-05,2,79.0,158.0,Completed,Paid
+ORD-6447,CUST-1058,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-09-05,1,59.0,59.0,Completed,Paid
+ORD-6448,CUST-1009,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-09-06,2,449.0,898.0,Completed,Paid
+ORD-6449,CUST-1011,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-09-06,2,499.0,998.0,Completed,Paid
+ORD-6450,CUST-1010,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-09-06,1,849.0,849.0,Completed,Paid
+ORD-6451,CUST-1019,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-09-06,1,899.0,899.0,Completed,Paid
+ORD-6452,CUST-1081,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-09-06,1,1799.0,1799.0,Completed,Paid
+ORD-6453,CUST-1070,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-09-06,1,1199.0,1199.0,Completed,Paid
+ORD-6454,CUST-1095,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-09-06,1,129.0,129.0,Completed,Paid
+ORD-6455,CUST-1003,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-09-06,2,1349.0,2698.0,Completed,Paid
+ORD-6456,CUST-1043,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-09-06,1,249.0,249.0,Completed,Paid
+ORD-6457,CUST-1042,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-09-06,1,899.0,899.0,Completed,Paid
+ORD-6458,CUST-1071,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-09-06,1,179.0,179.0,Completed,Paid
+ORD-6459,CUST-1040,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-09-06,1,799.0,799.0,Completed,Paid
+ORD-6460,CUST-1048,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-09-06,1,149.0,149.0,Returned,Refunded
+ORD-6461,CUST-1022,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-09-06,2,59.0,118.0,Completed,Paid
+ORD-6462,CUST-1037,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-09-06,3,799.0,2397.0,Completed,Paid
+ORD-6463,CUST-1089,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-09-06,1,79.0,79.0,Completed,Paid
+ORD-6464,CUST-1006,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-09-07,1,389.0,389.0,Completed,Paid
+ORD-6465,CUST-1048,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-09-07,1,799.0,799.0,Completed,Paid
+ORD-6466,CUST-1086,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-09-07,3,389.0,1167.0,Completed,Paid
+ORD-6467,CUST-1058,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-09-07,3,379.0,1137.0,Completed,Paid
+ORD-6468,CUST-1016,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-09-07,1,1799.0,1799.0,Completed,Paid
+ORD-6469,CUST-1019,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-09-07,2,179.0,358.0,Completed,Paid
+ORD-6470,CUST-1095,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-09-07,3,379.0,1137.0,Completed,Paid
+ORD-6471,CUST-1091,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-09-07,1,149.0,149.0,Completed,Paid
+ORD-6472,CUST-1097,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-09-07,1,69.0,69.0,Completed,Paid
+ORD-6473,CUST-1094,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-09-07,1,179.0,179.0,Completed,Paid
+ORD-6474,CUST-1062,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-09-07,1,1099.0,1099.0,Completed,Paid
+ORD-6475,CUST-1040,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-09-07,1,1799.0,1799.0,Completed,Paid
+ORD-6476,CUST-1058,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-09-07,1,69.0,69.0,Returned,Refunded
+ORD-6477,CUST-1068,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-09-07,1,1349.0,1349.0,Completed,Paid
+ORD-6478,CUST-1026,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-09-07,1,1799.0,1799.0,Completed,Paid
+ORD-6479,CUST-1087,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-09-07,2,79.0,158.0,Completed,Paid
+ORD-6480,CUST-1051,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-09-07,1,449.0,449.0,Completed,Paid
+ORD-6481,CUST-1066,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-09-07,2,1099.0,2198.0,Completed,Paid
+ORD-6482,CUST-1019,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-09-07,2,99.0,198.0,Completed,Paid
+ORD-6483,CUST-1048,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-09-07,1,1799.0,1799.0,Completed,Paid
+ORD-6484,CUST-1058,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-09-07,1,379.0,379.0,Completed,Paid
+ORD-6485,CUST-1057,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-09-07,3,45.0,135.0,Completed,Paid
+ORD-6486,CUST-1021,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-09-08,3,45.0,135.0,Completed,Paid
+ORD-6487,CUST-1054,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-09-08,2,1199.0,2398.0,Completed,Paid
+ORD-6488,CUST-1019,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-09-08,1,449.0,449.0,Completed,Paid
+ORD-6489,CUST-1068,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-09-08,1,389.0,389.0,Completed,Paid
+ORD-6490,CUST-1097,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-09-08,1,499.0,499.0,Completed,Paid
+ORD-6491,CUST-1035,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-09-08,1,249.0,249.0,Completed,Paid
+ORD-6492,CUST-1073,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-09-08,2,39.0,78.0,Completed,Paid
+ORD-6493,CUST-1049,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-09-08,1,149.0,149.0,Returned,Refunded
+ORD-6494,CUST-1075,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-09-08,1,149.0,149.0,Completed,Paid
+ORD-6495,CUST-1029,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-09-08,1,1799.0,1799.0,Completed,Paid
+ORD-6496,CUST-1039,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-09-08,2,129.0,258.0,Completed,Paid
+ORD-6497,CUST-1084,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-09-08,2,79.0,158.0,Completed,Paid
+ORD-6498,CUST-1063,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-09-08,1,99.0,99.0,Cancelled,Refunded
+ORD-6499,CUST-1098,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-09-08,1,299.0,299.0,Completed,Paid
+ORD-6500,CUST-1077,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-09-08,1,45.0,45.0,Completed,Paid
+ORD-6501,CUST-1056,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-09-08,1,299.0,299.0,Completed,Paid
+ORD-6502,CUST-1089,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-09-08,1,849.0,849.0,Completed,Paid
+ORD-6503,CUST-1003,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-09-08,1,299.0,299.0,Returned,Refunded
+ORD-6504,CUST-1089,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-09-08,1,1199.0,1199.0,Returned,Refunded
+ORD-6505,CUST-1046,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-09-08,1,1099.0,1099.0,Completed,Paid
+ORD-6506,CUST-1010,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-09-08,1,549.0,549.0,Completed,Paid
+ORD-6507,CUST-1098,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-09-08,1,849.0,849.0,Completed,Paid
+ORD-6508,CUST-1042,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-09-08,2,389.0,778.0,Completed,Paid
+ORD-6509,CUST-1039,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-09-08,1,299.0,299.0,Completed,Paid
+ORD-6510,CUST-1069,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-09-09,1,69.0,69.0,Completed,Paid
+ORD-6511,CUST-1018,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-09-09,1,549.0,549.0,Completed,Paid
+ORD-6512,CUST-1053,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-09-09,2,389.0,778.0,Completed,Paid
+ORD-6513,CUST-1028,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-09-09,1,1199.0,1199.0,Completed,Paid
+ORD-6514,CUST-1072,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-09-09,1,59.0,59.0,Completed,Paid
+ORD-6515,CUST-1069,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-09-09,1,99.0,99.0,Completed,Paid
+ORD-6516,CUST-1015,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-09-09,1,249.0,249.0,Returned,Refunded
+ORD-6517,CUST-1003,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-09-09,1,899.0,899.0,Completed,Paid
+ORD-6518,CUST-1018,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-09-09,2,179.0,358.0,Completed,Paid
+ORD-6519,CUST-1098,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-09-09,1,389.0,389.0,Completed,Paid
+ORD-6520,CUST-1096,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-09-09,1,849.0,849.0,Completed,Paid
+ORD-6521,CUST-1019,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-09-09,1,99.0,99.0,Completed,Paid
+ORD-6522,CUST-1017,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-09-09,1,1399.0,1399.0,Completed,Paid
+ORD-6523,CUST-1015,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-09-09,1,1399.0,1399.0,Completed,Paid
+ORD-6524,CUST-1056,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-09-09,1,1099.0,1099.0,Cancelled,Refunded
+ORD-6525,CUST-1085,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-09-09,1,549.0,549.0,Completed,Paid
+ORD-6526,CUST-1033,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-09-09,1,1099.0,1099.0,Completed,Paid
+ORD-6527,CUST-1097,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-09-09,1,849.0,849.0,Completed,Paid
+ORD-6528,CUST-1027,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-09-09,2,69.0,138.0,Completed,Paid
+ORD-6529,CUST-1045,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-09-09,1,1799.0,1799.0,Completed,Paid
+ORD-6530,CUST-1036,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-09-09,1,69.0,69.0,Completed,Paid
+ORD-6531,CUST-1065,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-09-09,1,39.0,39.0,Completed,Paid
+ORD-6532,CUST-1009,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-09-10,1,849.0,849.0,Completed,Paid
+ORD-6533,CUST-1068,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-09-10,1,449.0,449.0,Completed,Paid
+ORD-6534,CUST-1022,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-09-10,1,39.0,39.0,Completed,Paid
+ORD-6535,CUST-1013,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-09-10,2,449.0,898.0,Completed,Paid
+ORD-6536,CUST-1061,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-09-10,1,69.0,69.0,Completed,Paid
+ORD-6537,CUST-1087,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-09-10,1,849.0,849.0,Completed,Paid
+ORD-6538,CUST-1049,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-09-10,1,249.0,249.0,Completed,Paid
+ORD-6539,CUST-1015,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-09-10,3,39.0,117.0,Completed,Paid
+ORD-6540,CUST-1015,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-09-10,1,549.0,549.0,Completed,Paid
+ORD-6541,CUST-1091,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-09-10,1,149.0,149.0,Returned,Refunded
+ORD-6542,CUST-1050,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-09-10,1,149.0,149.0,Completed,Paid
+ORD-6543,CUST-1088,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-09-10,1,179.0,179.0,Completed,Paid
+ORD-6544,CUST-1055,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-09-10,2,449.0,898.0,Completed,Paid
+ORD-6545,CUST-1061,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-09-10,1,79.0,79.0,Cancelled,Refunded
+ORD-6546,CUST-1087,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-09-10,1,899.0,899.0,Completed,Paid
+ORD-6547,CUST-1067,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-09-10,1,79.0,79.0,Completed,Paid
+ORD-6548,CUST-1051,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-09-10,1,499.0,499.0,Completed,Paid
+ORD-6549,CUST-1095,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-09-10,1,799.0,799.0,Completed,Paid
+ORD-6550,CUST-1044,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-09-10,1,449.0,449.0,Completed,Paid
+ORD-6551,CUST-1016,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-09-10,2,1349.0,2698.0,Completed,Paid
+ORD-6552,CUST-1036,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-09-10,1,39.0,39.0,Completed,Paid
+ORD-6553,CUST-1035,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-09-10,1,39.0,39.0,Completed,Paid
+ORD-6554,CUST-1052,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-09-10,1,69.0,69.0,Completed,Paid
+ORD-6555,CUST-1052,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-09-10,1,899.0,899.0,Completed,Paid
+ORD-6556,CUST-1059,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-09-10,1,849.0,849.0,Completed,Paid
+ORD-6557,CUST-1030,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-09-10,2,129.0,258.0,Cancelled,Refunded
+ORD-6558,CUST-1007,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-09-11,1,1399.0,1399.0,Cancelled,Refunded
+ORD-6559,CUST-1023,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-09-11,1,499.0,499.0,Completed,Paid
+ORD-6560,CUST-1039,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-09-11,1,59.0,59.0,Completed,Paid
+ORD-6561,CUST-1085,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-09-11,1,39.0,39.0,Completed,Paid
+ORD-6562,CUST-1060,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-09-11,1,449.0,449.0,Completed,Paid
+ORD-6563,CUST-1065,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-09-11,1,299.0,299.0,Completed,Paid
+ORD-6564,CUST-1070,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-09-11,1,379.0,379.0,Completed,Paid
+ORD-6565,CUST-1056,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-09-11,1,849.0,849.0,Completed,Paid
+ORD-6566,CUST-1049,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-09-11,1,179.0,179.0,Cancelled,Refunded
+ORD-6567,CUST-1072,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-09-11,2,79.0,158.0,Completed,Paid
+ORD-6568,CUST-1091,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-09-11,1,799.0,799.0,Completed,Paid
+ORD-6569,CUST-1092,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-09-11,1,499.0,499.0,Completed,Paid
+ORD-6570,CUST-1087,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-09-11,1,899.0,899.0,Completed,Paid
+ORD-6571,CUST-1074,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-09-11,1,899.0,899.0,Completed,Paid
+ORD-6572,CUST-1065,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-09-11,1,1099.0,1099.0,Completed,Paid
+ORD-6573,CUST-1049,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-09-11,1,59.0,59.0,Completed,Paid
+ORD-6574,CUST-1037,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-09-11,1,389.0,389.0,Completed,Paid
+ORD-6575,CUST-1017,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-09-11,1,69.0,69.0,Completed,Paid
+ORD-6576,CUST-1004,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-09-11,2,39.0,78.0,Completed,Paid
+ORD-6577,CUST-1013,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-09-11,1,249.0,249.0,Completed,Paid
+ORD-6578,CUST-1045,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-09-11,1,1099.0,1099.0,Completed,Paid
+ORD-6579,CUST-1083,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-09-11,1,149.0,149.0,Completed,Paid
+ORD-6580,CUST-1009,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-09-11,1,149.0,149.0,Completed,Paid
+ORD-6581,CUST-1069,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-09-11,1,389.0,389.0,Completed,Paid
+ORD-6582,CUST-1055,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-09-11,1,69.0,69.0,Completed,Paid
+ORD-6583,CUST-1003,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-09-11,1,99.0,99.0,Cancelled,Refunded
+ORD-6584,CUST-1041,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-09-11,1,499.0,499.0,Completed,Paid
+ORD-6585,CUST-1063,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-09-12,1,849.0,849.0,Completed,Paid
+ORD-6586,CUST-1064,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-09-12,1,549.0,549.0,Completed,Paid
+ORD-6587,CUST-1022,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-09-12,1,59.0,59.0,Completed,Paid
+ORD-6588,CUST-1026,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-09-12,1,899.0,899.0,Completed,Paid
+ORD-6589,CUST-1010,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-09-12,1,379.0,379.0,Completed,Paid
+ORD-6590,CUST-1039,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-09-12,1,69.0,69.0,Completed,Paid
+ORD-6591,CUST-1096,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-09-12,1,1399.0,1399.0,Completed,Paid
+ORD-6592,CUST-1076,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-09-12,1,389.0,389.0,Completed,Paid
+ORD-6593,CUST-1068,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-09-12,1,899.0,899.0,Completed,Paid
+ORD-6594,CUST-1010,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-09-12,2,129.0,258.0,Completed,Paid
+ORD-6595,CUST-1039,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-09-12,1,249.0,249.0,Completed,Paid
+ORD-6596,CUST-1054,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-09-12,1,499.0,499.0,Completed,Paid
+ORD-6597,CUST-1086,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-09-12,1,39.0,39.0,Completed,Paid
+ORD-6598,CUST-1081,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-09-12,1,99.0,99.0,Completed,Paid
+ORD-6599,CUST-1064,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-09-12,1,449.0,449.0,Completed,Paid
+ORD-6600,CUST-1060,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-09-12,2,299.0,598.0,Completed,Paid
+ORD-6601,CUST-1079,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-09-12,2,39.0,78.0,Completed,Paid
+ORD-6602,CUST-1094,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-09-12,1,129.0,129.0,Completed,Paid
+ORD-6603,CUST-1060,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-09-12,1,1199.0,1199.0,Completed,Paid
+ORD-6604,CUST-1098,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-09-12,2,149.0,298.0,Completed,Paid
+ORD-6605,CUST-1009,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-09-12,1,129.0,129.0,Completed,Paid
+ORD-6606,CUST-1037,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-09-12,1,129.0,129.0,Completed,Paid
+ORD-6607,CUST-1052,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-09-13,1,1349.0,1349.0,Completed,Paid
+ORD-6608,CUST-1032,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-09-13,1,149.0,149.0,Completed,Paid
+ORD-6609,CUST-1056,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-09-13,1,249.0,249.0,Cancelled,Refunded
+ORD-6610,CUST-1021,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-09-13,1,299.0,299.0,Completed,Paid
+ORD-6611,CUST-1036,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-09-13,1,79.0,79.0,Completed,Paid
+ORD-6612,CUST-1006,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-09-13,1,45.0,45.0,Cancelled,Refunded
+ORD-6613,CUST-1011,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-09-13,1,389.0,389.0,Completed,Paid
+ORD-6614,CUST-1053,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-09-13,1,69.0,69.0,Completed,Paid
+ORD-6615,CUST-1051,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-09-13,2,45.0,90.0,Completed,Paid
+ORD-6616,CUST-1074,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-09-13,1,45.0,45.0,Completed,Paid
+ORD-6617,CUST-1086,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-09-13,2,69.0,138.0,Completed,Paid
+ORD-6618,CUST-1033,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-09-13,2,899.0,1798.0,Completed,Paid
+ORD-6619,CUST-1016,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-09-13,1,39.0,39.0,Completed,Paid
+ORD-6620,CUST-1075,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-09-13,1,45.0,45.0,Completed,Paid
+ORD-6621,CUST-1031,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-09-13,1,249.0,249.0,Completed,Paid
+ORD-6622,CUST-1028,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-09-13,1,299.0,299.0,Completed,Paid
+ORD-6623,CUST-1076,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-09-13,1,1099.0,1099.0,Completed,Paid
+ORD-6624,CUST-1015,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-09-13,1,389.0,389.0,Completed,Paid
+ORD-6625,CUST-1032,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-09-13,2,299.0,598.0,Completed,Paid
+ORD-6626,CUST-1047,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-09-13,1,899.0,899.0,Completed,Paid
+ORD-6627,CUST-1003,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-09-13,3,129.0,387.0,Completed,Paid
+ORD-6628,CUST-1095,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-09-13,1,79.0,79.0,Returned,Refunded
+ORD-6629,CUST-1033,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-09-13,1,379.0,379.0,Completed,Paid
+ORD-6630,CUST-1047,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-09-14,1,79.0,79.0,Completed,Paid
+ORD-6631,CUST-1057,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-09-14,2,179.0,358.0,Completed,Paid
+ORD-6632,CUST-1039,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-09-14,1,39.0,39.0,Completed,Paid
+ORD-6633,CUST-1021,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-09-14,1,129.0,129.0,Completed,Paid
+ORD-6634,CUST-1083,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-09-14,1,299.0,299.0,Cancelled,Refunded
+ORD-6635,CUST-1100,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-09-14,1,899.0,899.0,Completed,Paid
+ORD-6636,CUST-1043,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-09-14,2,849.0,1698.0,Completed,Paid
+ORD-6637,CUST-1065,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-09-14,1,179.0,179.0,Completed,Paid
+ORD-6638,CUST-1095,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-09-14,1,99.0,99.0,Cancelled,Refunded
+ORD-6639,CUST-1083,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-09-14,1,69.0,69.0,Returned,Refunded
+ORD-6640,CUST-1040,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-09-14,1,149.0,149.0,Completed,Paid
+ORD-6641,CUST-1092,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-09-14,1,129.0,129.0,Completed,Paid
+ORD-6642,CUST-1053,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-09-15,1,389.0,389.0,Completed,Paid
+ORD-6643,CUST-1018,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-09-15,1,79.0,79.0,Completed,Paid
+ORD-6644,CUST-1037,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-09-15,1,179.0,179.0,Completed,Paid
+ORD-6645,CUST-1049,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-09-15,1,69.0,69.0,Completed,Paid
+ORD-6646,CUST-1072,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-09-15,1,79.0,79.0,Cancelled,Refunded
+ORD-6647,CUST-1060,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-09-15,2,99.0,198.0,Cancelled,Refunded
+ORD-6648,CUST-1080,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-09-15,1,499.0,499.0,Completed,Paid
+ORD-6649,CUST-1022,PRD-104,NovaBook Ultra 13 (Portable),Laptops,2026-09-15,1,849.0,849.0,Completed,Paid
+ORD-6650,CUST-1099,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-09-15,2,179.0,358.0,Completed,Paid
+ORD-6651,CUST-1029,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-09-15,2,449.0,898.0,Completed,Paid
+ORD-6652,CUST-1035,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-09-15,1,69.0,69.0,Completed,Paid
+ORD-6653,CUST-1027,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-09-15,1,39.0,39.0,Completed,Paid
+ORD-6654,CUST-1024,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-09-16,1,389.0,389.0,Completed,Paid
+ORD-6655,CUST-1031,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-09-16,1,69.0,69.0,Completed,Paid
+ORD-6656,CUST-1059,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-09-16,1,69.0,69.0,Completed,Paid
+ORD-6657,CUST-1089,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-09-16,1,69.0,69.0,Completed,Paid
+ORD-6658,CUST-1095,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-09-16,1,149.0,149.0,Cancelled,Refunded
+ORD-6659,CUST-1043,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-09-16,2,899.0,1798.0,Completed,Paid
+ORD-6660,CUST-1086,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-09-16,1,59.0,59.0,Completed,Paid
+ORD-6661,CUST-1001,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-09-16,1,129.0,129.0,Completed,Paid
+ORD-6662,CUST-1086,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-09-16,1,59.0,59.0,Completed,Paid
+ORD-6663,CUST-1022,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-09-16,2,249.0,498.0,Returned,Refunded
+ORD-6664,CUST-1019,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-09-17,1,249.0,249.0,Returned,Refunded
+ORD-6665,CUST-1036,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-09-17,1,249.0,249.0,Completed,Paid
+ORD-6666,CUST-1079,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-09-17,1,299.0,299.0,Completed,Paid
+ORD-6667,CUST-1022,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-09-17,1,69.0,69.0,Returned,Refunded
+ORD-6668,CUST-1082,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-09-17,1,1099.0,1099.0,Cancelled,Refunded
+ORD-6669,CUST-1024,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-09-17,1,499.0,499.0,Completed,Paid
+ORD-6670,CUST-1015,PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,2026-09-17,1,899.0,899.0,Completed,Paid
+ORD-6671,CUST-1091,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-09-17,1,69.0,69.0,Completed,Paid
+ORD-6672,CUST-1019,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-09-17,1,149.0,149.0,Completed,Paid
+ORD-6673,CUST-1022,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-09-17,1,299.0,299.0,Completed,Paid
+ORD-6674,CUST-1075,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-09-18,1,1799.0,1799.0,Completed,Paid
+ORD-6675,CUST-1054,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-09-18,1,1349.0,1349.0,Completed,Paid
+ORD-6676,CUST-1043,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-09-18,3,79.0,237.0,Returned,Refunded
+ORD-6677,CUST-1014,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-09-18,1,1199.0,1199.0,Completed,Paid
+ORD-6678,CUST-1091,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-09-18,1,179.0,179.0,Completed,Paid
+ORD-6679,CUST-1085,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-09-18,1,299.0,299.0,Completed,Paid
+ORD-6680,CUST-1042,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-09-18,2,45.0,90.0,Completed,Paid
+ORD-6681,CUST-1017,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-09-18,1,299.0,299.0,Completed,Paid
+ORD-6682,CUST-1096,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-09-19,1,129.0,129.0,Completed,Paid
+ORD-6683,CUST-1023,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-09-19,2,45.0,90.0,Cancelled,Refunded
+ORD-6684,CUST-1027,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-09-19,1,45.0,45.0,Completed,Paid
+ORD-6685,CUST-1084,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-09-19,1,499.0,499.0,Completed,Paid
+ORD-6686,CUST-1040,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-09-19,1,59.0,59.0,Completed,Paid
+ORD-6687,CUST-1048,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-09-19,1,69.0,69.0,Completed,Paid
+ORD-6688,CUST-1035,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-09-19,1,179.0,179.0,Completed,Paid
+ORD-6689,CUST-1079,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-09-20,1,79.0,79.0,Cancelled,Refunded
+ORD-6690,CUST-1044,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-09-20,1,79.0,79.0,Completed,Paid
+ORD-6691,CUST-1020,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-09-20,1,549.0,549.0,Completed,Paid
+ORD-6692,CUST-1038,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-09-20,2,149.0,298.0,Completed,Paid
+ORD-6693,CUST-1020,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-09-20,2,79.0,158.0,Completed,Paid
+ORD-6694,CUST-1067,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-09-20,1,129.0,129.0,Cancelled,Refunded
+ORD-6695,CUST-1006,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-09-20,1,59.0,59.0,Cancelled,Refunded
+ORD-6696,CUST-1085,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-09-20,1,299.0,299.0,Completed,Paid
+ORD-6697,CUST-1099,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-09-20,1,149.0,149.0,Completed,Paid

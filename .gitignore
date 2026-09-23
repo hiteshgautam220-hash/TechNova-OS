@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.local
+.gemini/
+scratch/
+.DS_Store
+*.db
+*.sqlite3
+chroma_db/
+uploaded_files/

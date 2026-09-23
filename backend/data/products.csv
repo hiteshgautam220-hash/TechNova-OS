@@ -1,0 +1,26 @@
+product_id,product_name,category,price,stock
+PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,1799.0,45
+PRD-102,NovaBook Air 14 (M2/16GB),Laptops,1099.0,80
+PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,1399.0,35
+PRD-104,NovaBook Ultra 13 (Portable),Laptops,849.0,60
+PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,1199.0,95
+PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,799.0,110
+PRD-203,NovaPhone 14 Lite (64GB),Smartphones,449.0,75
+PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,1349.0,40
+PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,299.0,120
+PRD-302,NovaSound Sport Pods (Waterproof),Headphones,149.0,140
+PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,389.0,50
+PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,69.0,200
+PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,499.0,65
+PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,249.0,90
+PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,179.0,105
+PRD-501,NovaPad Pro 12.9 (120Hz Liquid OLED),Tablets,899.0,55
+PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,549.0,85
+PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,379.0,90
+PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,69.0,300
+PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,59.0,250
+PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,129.0,130
+PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,79.0,180
+PRD-605,NovaPen Pro Stylus with Haptics,Accessories,99.0,160
+PRD-606,NovaStand Aluminum Laptop Riser,Accessories,45.0,220
+PRD-607,NovaCase Magnetic Smart Folio,Accessories,39.0,350

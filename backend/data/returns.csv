@@ -1,0 +1,97 @@
+return_id,order_id,customer_id,product_id,product_name,category,return_date,reason,refund_amount
+RET-8001,ORD-5031,CUST-1125,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-06-05,Wrong Color / Model Sent,379.0
+RET-8002,ORD-5079,CUST-1001,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-06-01,Defective Audio Hardware / Bluetooth Disconnects,598.0
+RET-8003,ORD-5082,CUST-1083,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-06-10,Arrived Damaged in Transit,1799.0
+RET-8004,ORD-5089,CUST-1021,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-06-03,Wrong Color / Model Sent,389.0
+RET-8005,ORD-5109,CUST-1037,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-06-12,Wrong Color / Model Sent,69.0
+RET-8006,ORD-5118,CUST-1057,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-06-04,Defective Audio Hardware / Bluetooth Disconnects,1497.0
+RET-8007,ORD-5122,CUST-1144,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-06-15,Wrong Color / Model Sent,79.0
+RET-8008,ORD-5123,CUST-1112,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-06-07,Arrived Damaged in Transit,1799.0
+RET-8009,ORD-5170,CUST-1155,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-06-13,Customer Changed Mind / Remorse,2398.0
+RET-8010,ORD-5188,CUST-1022,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-06-15,Arrived Damaged in Transit,1647.0
+RET-8011,ORD-5196,CUST-1118,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-06-11,Customer Changed Mind / Remorse,1099.0
+RET-8012,ORD-5205,CUST-1140,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-06-18,Defective Audio Hardware / Bluetooth Disconnects,149.0
+RET-8013,ORD-5258,CUST-1056,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-06-19,Arrived Damaged in Transit,69.0
+RET-8014,ORD-5261,CUST-1104,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-06-20,Defective Audio Hardware / Bluetooth Disconnects,69.0
+RET-8015,ORD-5276,CUST-1149,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-06-20,Defective Audio Hardware / Bluetooth Disconnects,69.0
+RET-8016,ORD-5297,CUST-1136,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-06-21,Defective Audio Hardware / Bluetooth Disconnects,1349.0
+RET-8017,ORD-5301,CUST-1074,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-06-27,Defective Audio Hardware / Bluetooth Disconnects,389.0
+RET-8018,ORD-5333,CUST-1001,PRD-606,NovaStand Aluminum Laptop Riser,Accessories,2026-06-23,Defective Audio Hardware / Bluetooth Disconnects,45.0
+RET-8019,ORD-5361,CUST-1066,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-06-26,Customer Changed Mind / Remorse,449.0
+RET-8020,ORD-5391,CUST-1091,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-06-27,Defective Audio Hardware / Bluetooth Disconnects,299.0
+RET-8021,ORD-5405,CUST-1026,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-07-01,Customer Changed Mind / Remorse,249.0
+RET-8022,ORD-5421,CUST-1108,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-06-27,Late Delivery Exceeded Window,149.0
+RET-8023,ORD-5433,CUST-1113,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-07-07,Customer Changed Mind / Remorse,298.0
+RET-8024,ORD-5439,CUST-1138,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-07-07,Defective Audio Hardware / Bluetooth Disconnects,59.0
+RET-8025,ORD-5440,CUST-1091,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-07-05,Wrong Color / Model Sent,799.0
+RET-8026,ORD-5489,CUST-1016,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-07-12,Defective Audio Hardware / Bluetooth Disconnects,598.0
+RET-8027,ORD-5530,CUST-1068,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-07-15,Defective Audio Hardware / Bluetooth Disconnects,449.0
+RET-8028,ORD-5533,CUST-1138,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-07-04,Arrived Damaged in Transit,59.0
+RET-8029,ORD-5537,CUST-1030,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-07-13,Wrong Color / Model Sent,179.0
+RET-8030,ORD-5564,CUST-1037,PRD-605,NovaPen Pro Stylus with Haptics,Accessories,2026-07-08,Customer Changed Mind / Remorse,99.0
+RET-8031,ORD-5567,CUST-1101,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-07-15,Late Delivery Exceeded Window,1399.0
+RET-8032,ORD-5581,CUST-1027,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-07-18,Late Delivery Exceeded Window,1199.0
+RET-8033,ORD-5648,CUST-1098,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-07-18,Arrived Damaged in Transit,69.0
+RET-8034,ORD-5649,CUST-1058,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-07-22,Defective Audio Hardware / Bluetooth Disconnects,299.0
+RET-8035,ORD-5653,CUST-1147,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-07-25,Wrong Color / Model Sent,1349.0
+RET-8036,ORD-5697,CUST-1077,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-07-18,Wrong Color / Model Sent,79.0
+RET-8037,ORD-5713,CUST-1150,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-07-18,Arrived Damaged in Transit,138.0
+RET-8038,ORD-5714,CUST-1098,PRD-502,NovaPad Air 10.9 (Lightweight),Tablets,2026-07-28,Defective Audio Hardware / Bluetooth Disconnects,549.0
+RET-8039,ORD-5727,CUST-1079,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-07-21,Arrived Damaged in Transit,799.0
+RET-8040,ORD-5736,CUST-1028,PRD-603,NovaKey Mechanical RGB Keyboard,Accessories,2026-07-18,Arrived Damaged in Transit,258.0
+RET-8041,ORD-5750,CUST-1076,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-07-20,Customer Changed Mind / Remorse,299.0
+RET-8042,ORD-5754,CUST-1160,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-08-01,Defective Audio Hardware / Bluetooth Disconnects,598.0
+RET-8043,ORD-5772,CUST-1097,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-07-27,Customer Changed Mind / Remorse,499.0
+RET-8044,ORD-5783,CUST-1134,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-07-23,Arrived Damaged in Transit,69.0
+RET-8045,ORD-5812,CUST-1090,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-07-29,Defective Audio Hardware / Bluetooth Disconnects,149.0
+RET-8046,ORD-5813,CUST-1088,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-08-03,Defective Audio Hardware / Bluetooth Disconnects,1167.0
+RET-8047,ORD-5844,CUST-1092,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-07-27,Customer Changed Mind / Remorse,389.0
+RET-8048,ORD-5849,CUST-1075,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-08-03,Defective Audio Hardware / Bluetooth Disconnects,1099.0
+RET-8049,ORD-5856,CUST-1071,PRD-503,NovaPad Mini 8.4 (Handheld),Tablets,2026-08-04,Arrived Damaged in Transit,379.0
+RET-8050,ORD-5874,CUST-1014,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-07-31,Customer Changed Mind / Remorse,799.0
+RET-8051,ORD-5888,CUST-1009,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-07-31,Defective Audio Hardware / Bluetooth Disconnects,299.0
+RET-8052,ORD-5897,CUST-1018,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-08-08,Defective Audio Hardware / Bluetooth Disconnects,179.0
+RET-8053,ORD-5911,CUST-1044,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-08-05,Defective Audio Hardware / Bluetooth Disconnects,179.0
+RET-8054,ORD-5948,CUST-1067,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-08-03,Arrived Damaged in Transit,1799.0
+RET-8055,ORD-6038,CUST-1011,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-08-20,Defective Audio Hardware / Bluetooth Disconnects,78.0
+RET-8056,ORD-6045,CUST-1042,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-08-16,Arrived Damaged in Transit,799.0
+RET-8057,ORD-6066,CUST-1080,PRD-204,NovaPhone Max 15 (512GB Gold),Smartphones,2026-08-18,Customer Changed Mind / Remorse,1349.0
+RET-8058,ORD-6076,CUST-1011,PRD-403,NovaWatch Fit Classic (Leather Band),Smartwatches,2026-08-18,Wrong Color / Model Sent,179.0
+RET-8059,ORD-6077,CUST-1054,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-08-19,Defective Audio Hardware / Bluetooth Disconnects,69.0
+RET-8060,ORD-6078,CUST-1094,PRD-103,NovaBook Gaming 15 (RTX 4070),Laptops,2026-08-14,Late Delivery Exceeded Window,2798.0
+RET-8061,ORD-6103,CUST-1074,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-08-25,Defective Audio Hardware / Bluetooth Disconnects,499.0
+RET-8062,ORD-6122,CUST-1057,PRD-602,NovaHub 8-in-1 Dual 4K USB-C Dock,Accessories,2026-08-27,Defective Audio Hardware / Bluetooth Disconnects,59.0
+RET-8063,ORD-6167,CUST-1086,PRD-203,NovaPhone 14 Lite (64GB),Smartphones,2026-08-24,Customer Changed Mind / Remorse,449.0
+RET-8064,ORD-6169,CUST-1032,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-08-28,Customer Changed Mind / Remorse,249.0
+RET-8065,ORD-6177,CUST-1055,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-08-26,Late Delivery Exceeded Window,149.0
+RET-8066,ORD-6187,CUST-1021,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-08-21,Late Delivery Exceeded Window,499.0
+RET-8067,ORD-6189,CUST-1019,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-08-23,Defective Audio Hardware / Bluetooth Disconnects,799.0
+RET-8068,ORD-6197,CUST-1027,PRD-102,NovaBook Air 14 (M2/16GB),Laptops,2026-08-24,Defective Audio Hardware / Bluetooth Disconnects,1099.0
+RET-8069,ORD-6242,CUST-1015,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-09-05,Arrived Damaged in Transit,1799.0
+RET-8070,ORD-6243,CUST-1012,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-08-31,Customer Changed Mind / Remorse,389.0
+RET-8071,ORD-6267,CUST-1014,PRD-303,NovaSound Studio Pro (Wired HiFi),Headphones,2026-08-28,Arrived Damaged in Transit,389.0
+RET-8072,ORD-6272,CUST-1031,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-09-04,Arrived Damaged in Transit,799.0
+RET-8073,ORD-6292,CUST-1086,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-08-26,Defective Audio Hardware / Bluetooth Disconnects,1199.0
+RET-8074,ORD-6305,CUST-1095,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-09-06,Arrived Damaged in Transit,237.0
+RET-8075,ORD-6324,CUST-1083,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-08-30,Defective Audio Hardware / Bluetooth Disconnects,299.0
+RET-8076,ORD-6336,CUST-1002,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-09-04,Defective Audio Hardware / Bluetooth Disconnects,79.0
+RET-8077,ORD-6359,CUST-1094,PRD-607,NovaCase Magnetic Smart Folio,Accessories,2026-09-03,Defective Audio Hardware / Bluetooth Disconnects,39.0
+RET-8078,ORD-6371,CUST-1058,PRD-101,NovaBook Pro 16 (M3 Max/32GB),Laptops,2026-09-13,Wrong Color / Model Sent,1799.0
+RET-8079,ORD-6379,CUST-1079,PRD-202,NovaPhone 15 (128GB Midnight),Smartphones,2026-09-15,Defective Audio Hardware / Bluetooth Disconnects,1598.0
+RET-8080,ORD-6399,CUST-1081,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-09-04,Customer Changed Mind / Remorse,79.0
+RET-8081,ORD-6409,CUST-1026,PRD-401,NovaWatch Ultra Pro (Titanium Cellular),Smartwatches,2026-09-13,Arrived Damaged in Transit,998.0
+RET-8082,ORD-6437,CUST-1066,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-09-12,Defective Audio Hardware / Bluetooth Disconnects,79.0
+RET-8083,ORD-6444,CUST-1088,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-09-11,Arrived Damaged in Transit,249.0
+RET-8084,ORD-6460,CUST-1048,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-09-12,Defective Audio Hardware / Bluetooth Disconnects,149.0
+RET-8085,ORD-6476,CUST-1058,PRD-304,NovaSound Wireless Lite (BT 5.3),Headphones,2026-09-18,Defective Audio Hardware / Bluetooth Disconnects,69.0
+RET-8086,ORD-6493,CUST-1049,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-09-22,Defective Audio Hardware / Bluetooth Disconnects,149.0
+RET-8087,ORD-6503,CUST-1003,PRD-301,NovaSound ANC 700 (Noise-Canceling),Headphones,2026-09-14,Defective Audio Hardware / Bluetooth Disconnects,299.0
+RET-8088,ORD-6504,CUST-1089,PRD-201,NovaPhone 15 Pro (256GB Titanium),Smartphones,2026-09-14,Arrived Damaged in Transit,1199.0
+RET-8089,ORD-6516,CUST-1015,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-09-23,Defective Audio Hardware / Bluetooth Disconnects,249.0
+RET-8090,ORD-6541,CUST-1091,PRD-302,NovaSound Sport Pods (Waterproof),Headphones,2026-09-16,Arrived Damaged in Transit,149.0
+RET-8091,ORD-6628,CUST-1095,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-09-26,Wrong Color / Model Sent,79.0
+RET-8092,ORD-6639,CUST-1083,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-09-21,Defective Audio Hardware / Bluetooth Disconnects,69.0
+RET-8093,ORD-6663,CUST-1022,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-09-22,Wrong Color / Model Sent,498.0
+RET-8094,ORD-6664,CUST-1019,PRD-402,NovaWatch Active 4 (Fitness/OLED),Smartwatches,2026-10-01,Late Delivery Exceeded Window,249.0
+RET-8095,ORD-6667,CUST-1022,PRD-601,NovaCharge 100W GaN 4-Port Fast Charger,Accessories,2026-10-01,Late Delivery Exceeded Window,69.0
+RET-8096,ORD-6676,CUST-1043,PRD-604,NovaMouse Wireless Ergonomic Pro,Accessories,2026-09-24,Arrived Damaged in Transit,237.0

@@ -1,0 +1,62 @@
+[
+  {
+    "policy_id": "POL-001",
+    "name": "Standard Product Return Window",
+    "category": "Returns & Refunds",
+    "rule": "Customers can initiate returns within 30 calendar days of delivery for eligible hardware and electronics.",
+    "approval_required": false,
+    "conditions": { "max_days_from_delivery": 30, "eligible_conditions": ["Unopened", "Defective", "Wrong Item"] }
+  },
+  {
+    "policy_id": "POL-002",
+    "name": "High-Value Refund Human-in-the-Loop Threshold",
+    "category": "Financial Controls",
+    "rule": "Any refund request exceeding $500.00 USD must not be automatically disbursed by AI. It mandates explicit manual review and approval by a Finance Operations Manager.",
+    "approval_required": true,
+    "conditions": { "threshold_usd": 500.00, "approver_role": "Finance Operations Manager" }
+  },
+  {
+    "policy_id": "POL-003",
+    "name": "Customer Recovery Promotional Discount Ceiling",
+    "category": "Marketing & Promotions",
+    "rule": "Automated customer win-back discount campaigns are capped at 15.0%. Discounts exceeding 15% require VP of Sales executive sign-off to protect product gross margin.",
+    "approval_required": true,
+    "conditions": { "max_discount_pct": 15.0, "requires_vp_signoff_above": 15.0 }
+  },
+  {
+    "policy_id": "POL-004",
+    "name": "Customer Tier Classification & Benefits",
+    "category": "Customer Intelligence",
+    "rule": "Customer tiers are deterministically assigned based on lifetime spend: Platinum ($5,000+), Gold ($2,500-$4,999), Silver ($1,000-$2,499), Standard (<$1,000).",
+    "approval_required": false,
+    "conditions": {
+      "platinum_min_spend": 5000.0,
+      "gold_min_spend": 2500.0,
+      "silver_min_spend": 1000.0
+    }
+  },
+  {
+    "policy_id": "POL-005",
+    "name": "Inactive Customer & Churn Alert Definition",
+    "category": "Customer Intelligence",
+    "rule": "Customers with no successful orders in the last 60 calendar days are classified as 'Inactive'. Customers inactive for 90+ days with lifetime spend > $2,000 are flagged as 'High-Value Churn Risk'.",
+    "approval_required": false,
+    "conditions": { "inactive_days": 60, "high_value_churn_days": 90, "high_value_min_spend": 2000.0 }
+  },
+  {
+    "policy_id": "POL-006",
+    "name": "Autonomous Database Mutability Safeguard",
+    "category": "Responsible AI & Security",
+    "rule": "Autonomous AI agents are strictly granted read-only analytical access. Agents are forbidden from directly executing SQL UPDATE, DELETE, or INSERT statements on transactional ledgers.",
+    "approval_required": true,
+    "conditions": { "allowed_sql_operations": ["SELECT"], "forbidden_operations": ["UPDATE", "DELETE", "INSERT", "DROP"] }
+  },
+  {
+    "policy_id": "POL-007",
+    "name": "Product Quality & Return Rate Quarantine",
+    "category": "Quality Assurance",
+    "rule": "Any tech hardware SKU with a 30-day return rate exceeding 8.0% or defective return count > 15 units must be flagged for Quality Engineering audit and supplier review.",
+    "approval_required": true,
+    "conditions": { "max_acceptable_return_rate": 8.0, "defective_alert_count": 15 }
+  }
+]
