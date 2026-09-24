@@ -658,7 +658,7 @@ elif page == "📊 Executive Dashboard":
                     if not df_top.empty:
                         fig1 = px.bar(df_top, x="product_name", y="total_revenue", color="total_revenue", color_continuous_scale="Purples")
                         fig1.update_layout(template="plotly_dark", plot_bgcolor="rgba(0,0,0,0)", paper_bgcolor="rgba(0,0,0,0)", font=dict(family="Inter", color="#f8fafc"))
-                        st.plotly_chart(fig1, use_container_width=True)
+                        st.plotly_chart(fig1, width="stretch")
                     
                 with chart_col2:
                     st.subheader("⚠️ High Return Risk Products")
@@ -667,7 +667,7 @@ elif page == "📊 Executive Dashboard":
                         y_col = "return_rate_pct" if "return_rate_pct" in df_ret.columns else df_ret.columns[-1]
                         fig2 = px.bar(df_ret, y="product_name", x=y_col, orientation='h', color=y_col, color_continuous_scale="Reds")
                         fig2.update_layout(template="plotly_dark", plot_bgcolor="rgba(0,0,0,0)", paper_bgcolor="rgba(0,0,0,0)", font=dict(family="Inter", color="#f8fafc"))
-                        st.plotly_chart(fig2, use_container_width=True)
+                        st.plotly_chart(fig2, width="stretch")
                     else:
                         st.success("✨ Excellent! No high-risk return products detected this week.")
                         st.info("Product quality and fulfillment metrics are operating at optimal levels.")
@@ -713,7 +713,7 @@ elif page == "📊 Executive Dashboard":
                                 fig = px.bar(x=chart_info.get("x_data", []), y=chart_info.get("y_data", []), title=chart_info.get("title", "Custom Graph"), labels={'x': chart_info.get("x_label", "X"), 'y': chart_info.get("y_label", "Y")}, template="plotly_dark")
                             
                             fig.update_layout(plot_bgcolor="rgba(0,0,0,0)", paper_bgcolor="rgba(0,0,0,0)")
-                            st.plotly_chart(fig, use_container_width=True)
+                            st.plotly_chart(fig, width="stretch")
                     else:
                         st.error("Failed to parse document.")
                 except Exception as e:
