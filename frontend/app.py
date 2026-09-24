@@ -319,20 +319,17 @@ if "messages" not in st.session_state:
 if not st.session_state.logged_in:
     # --- DYNAMIC PRE-LOGIN NAVBAR ---
     st.markdown('''
-    <div style="display: flex; justify-content: space-between; align-items: center; padding: 15px 30px; background: rgba(17, 17, 22, 0.95); border-bottom: 1px solid rgba(255,255,255,0.05); margin-top: -60px; margin-bottom: 40px; margin-left: -3rem; margin-right: -3rem; position: sticky; top: 0; z-index: 999;">
-        <div style="font-size: 1.2rem; font-weight: 800; color: #fff; letter-spacing: 1px; display: flex; align-items: center; gap: 10px;">
-            ⚡ TechNova OS
-        </div>
-        <div style="display: flex; gap: 25px; align-items: center;">
-            <a href="#" style="color: #e2e8f0; text-decoration: none; font-size: 0.9rem; font-weight: 500;">Home</a>
-            <a href="#" style="color: #9ca3af; text-decoration: none; font-size: 0.9rem; font-weight: 500;">How it Works</a>
-            
-            <div style="background: rgba(139, 92, 246, 0.2); border: 1px solid #8b5cf6; padding: 6px 16px; border-radius: 20px;">
-                <a href="#" style="color: #8b5cf6; text-decoration: none; font-size: 0.9rem; font-weight: 600;">Sign In →</a>
-            </div>
-        </div>
-    </div>
-    ''', unsafe_allow_html=True)
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 15px 30px; background: rgba(17, 17, 22, 0.95); border-bottom: 1px solid rgba(255,255,255,0.05); margin-top: -60px; margin-bottom: 40px; margin-left: -3rem; margin-right: -3rem; position: sticky; top: 0; z-index: 999;">
+<div style="font-size: 1.2rem; font-weight: 800; color: #fff; letter-spacing: 1px; display: flex; align-items: center; gap: 10px;">⚡ TechNova OS</div>
+<div style="display: flex; gap: 25px; align-items: center;">
+<a href="#" style="color: #e2e8f0; text-decoration: none; font-size: 0.9rem; font-weight: 500;">Home</a>
+<a href="#" style="color: #9ca3af; text-decoration: none; font-size: 0.9rem; font-weight: 500;">How it Works</a>
+<div style="background: rgba(139, 92, 246, 0.2); border: 1px solid #8b5cf6; padding: 6px 16px; border-radius: 20px;">
+<a href="#" style="color: #8b5cf6; text-decoration: none; font-size: 0.9rem; font-weight: 600;">Sign In →</a>
+</div>
+</div>
+</div>
+''', unsafe_allow_html=True)
     st.markdown("<br><br>", unsafe_allow_html=True)
     
     # Custom CSS for the Mac-style window and InvoiceIQ layout
