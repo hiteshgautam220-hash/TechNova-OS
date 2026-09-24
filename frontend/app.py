@@ -614,9 +614,9 @@ if page == "💬 AI Business Chat":
                         st.session_state.messages.append({"role": "assistant", "content": chat_reply})
                         
                         if not st.session_state.current_session_id and len(st.session_state.messages) >= 3:
-                            title_res = requests.post(f"{API_BASE}/memory/generate_title", json={"message": user_text}, timeout=10)
+                            title_res = requests.post(f"{API_BASE}/memory/generate_title", json={"query": user_text}, timeout=10)
                             if title_res.status_code == 200:
-                                gen_id = title_res.json().get("session_id")
+                                gen_id = title_res.json().get("title", "Saved_Session")
                                 save_res = requests.post(f"{API_BASE}/memory/save", json={"session_id": gen_id, "tag": "General", "messages": st.session_state.messages})
                                 if save_res.status_code == 200:
                                     st.session_state.current_session_id = gen_id
