@@ -503,6 +503,14 @@ def save_chat_dialog():
                 import requests
                 res = requests.post(f"{API_BASE}/memory/save", json={"session_id": session_id, "tag": chat_tag, "messages": st.session_state.messages})
                 res.raise_for_status()
+                
+                old_id = st.session_state.get("current_session_id")
+                old_tag = st.session_state.get("current_tag")
+                if old_id and old_tag and (old_id != session_id or old_tag != chat_tag):
+                    try:
+                        requests.delete(f"{API_BASE}/memory/delete", params={"session_id": old_id, "tag": old_tag}, timeout=5)
+                    except:
+                        pass
                 st.session_state.current_session_id = session_id
                 st.session_state.current_tag = chat_tag
                 st.success("Saved successfully!")
