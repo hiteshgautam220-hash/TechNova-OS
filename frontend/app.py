@@ -613,7 +613,7 @@ if page == "💬 AI Business Chat":
                             render_chat_message(chat_reply)
                         st.session_state.messages.append({"role": "assistant", "content": chat_reply})
                         
-                        if not st.session_state.current_session_id and len(st.session_state.messages) == 3:
+                        if not st.session_state.current_session_id and len(st.session_state.messages) >= 3:
                             title_res = requests.post(f"{API_BASE}/memory/generate_title", json={"message": user_text}, timeout=10)
                             if title_res.status_code == 200:
                                 gen_id = title_res.json().get("session_id")
@@ -622,6 +622,9 @@ if page == "💬 AI Business Chat":
                                     st.session_state.current_session_id = gen_id
                                     st.session_state.current_tag = "General"
                                     st.rerun()
+                        elif st.session_state.current_session_id:
+                            # Auto-save the ongoing conversation in the background
+                            requests.post(f"{API_BASE}/memory/save", json={"session_id": st.session_state.current_session_id, "tag": st.session_state.current_tag, "messages": st.session_state.messages}, timeout=10)
                     else:
                         st_status.update(label="Agent Swarm Failed", state="error", expanded=True)
                         st.error(f"Agent Error: {res.text}")
