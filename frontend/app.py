@@ -317,7 +317,23 @@ if "messages" not in st.session_state:
     st.session_state.current_tag = None
 
 if not st.session_state.logged_in:
-    st.markdown("<br><br>", unsafe_allow_html=True)
+    # --- DYNAMIC PRE-LOGIN NAVBAR ---
+    st.markdown('''
+    <div style="display: flex; justify-content: space-between; align-items: center; padding: 15px 30px; background: rgba(17, 17, 22, 0.95); border-bottom: 1px solid rgba(255,255,255,0.05); margin-top: -60px; margin-bottom: 40px; margin-left: -3rem; margin-right: -3rem; position: sticky; top: 0; z-index: 999;">
+        <div style="font-size: 1.2rem; font-weight: 800; color: #fff; letter-spacing: 1px; display: flex; align-items: center; gap: 10px;">
+            ⚡ TechNova OS
+        </div>
+        <div style="display: flex; gap: 25px; align-items: center;">
+            <a href="#" style="color: #e2e8f0; text-decoration: none; font-size: 0.9rem; font-weight: 500;">Home</a>
+            <a href="#" style="color: #9ca3af; text-decoration: none; font-size: 0.9rem; font-weight: 500;">How it Works</a>
+            <a href="#" style="color: #9ca3af; text-decoration: none; font-size: 0.9rem; font-weight: 500;">Security</a>
+            <div style="background: rgba(139, 92, 246, 0.2); border: 1px solid #8b5cf6; padding: 6px 16px; border-radius: 20px;">
+                <a href="#" style="color: #8b5cf6; text-decoration: none; font-size: 0.9rem; font-weight: 600;">Sign In →</a>
+            </div>
+        </div>
+    </div>
+    ''', unsafe_allow_html=True)
+st.markdown("<br><br>", unsafe_allow_html=True)
     
     # Custom CSS for the Mac-style window and InvoiceIQ layout
     st.markdown('''
@@ -442,6 +458,21 @@ if not st.session_state.logged_in:
                 TechNova transforms your messy data and operations into structured financial intelligence. 
                 Automatically route queries, persist cloud memory, and let your team interrogate numbers with specialist AI agents.
             </p>
+            
+            <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+                <h4 style="color: #e2e8f0; margin-top: 0; margin-bottom: 15px; font-size: 1.1rem; display: flex; align-items: center; gap: 8px;">
+                    <span style="background: #8b5cf6; padding: 4px 8px; border-radius: 6px; font-size: 0.8rem;">NEW</span> How TechNova OS Works
+                </h4>
+                <div style="margin-bottom: 12px;">
+                    <strong style="color: #8b5cf6;">1. The AI Swarm:</strong> <span style="color: #9ca3af; font-size: 0.95rem;">A Manager Agent delegates your prompts to specialist AIs who query real databases.</span>
+                </div>
+                <div style="margin-bottom: 12px;">
+                    <strong style="color: #27c93f;">2. Generative UI:</strong> <span style="color: #9ca3af; font-size: 0.95rem;">Instead of boring text, the AI dynamically renders live, interactive charts directly in your chat.</span>
+                </div>
+                <div>
+                    <strong style="color: #ffbd2e;">3. Zero-Retention Security:</strong> <span style="color: #9ca3af; font-size: 0.95rem;">Uploaded PDFs are analyzed in RAM by Azure and immediately deleted to protect company data.</span>
+                </div>
+            </div>
         </div>
         ''', unsafe_allow_html=True)
 
