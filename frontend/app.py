@@ -333,7 +333,7 @@ if not st.session_state.logged_in:
         </div>
     </div>
     ''', unsafe_allow_html=True)
-st.markdown("<br><br>", unsafe_allow_html=True)
+    st.markdown("<br><br>", unsafe_allow_html=True)
     
     # Custom CSS for the Mac-style window and InvoiceIQ layout
     st.markdown('''
