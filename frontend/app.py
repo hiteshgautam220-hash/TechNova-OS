@@ -491,7 +491,7 @@ with st.sidebar:
     
 @st.dialog("💾 Save Chat to Cloud")
 def save_chat_dialog():
-    session_id = st.text_input("Session Name (e.g., meeting_notes)")
+    session_id = st.text_input("Session Name (e.g., meeting_notes)", value=st.session_state.get("current_session_id", ""))
     preset_tags = ["General", "Sales", "Customer Support", "Policy Simulation", "Custom..."]
     chat_tag = st.selectbox("Category", preset_tags)
     if chat_tag == "Custom...":
